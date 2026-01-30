@@ -47,6 +47,10 @@ Verwende `#` bis `######` am Zeilenanfang:
 
 ---
 
+## Zwischenstand
+
+### Unterstand
+
 ## Textformatierung
 
 - **Fett**: `**fett**`
