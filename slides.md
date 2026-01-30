@@ -45,7 +45,7 @@ Verwende `#` bis `######` am Zeilenanfang:
 
 **Tipp:** Eine Folie ≈ ein Gedanke. Nutze H2/H3 sparsam.
 
----
+--
 
 ## Zwischenstand
 
