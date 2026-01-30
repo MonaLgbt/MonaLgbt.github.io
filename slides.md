@@ -49,7 +49,7 @@ Verwende `#` bis `######` am Zeilenanfang:
 
 ## Zwischenstand
 
----
+--
 
 ### Unterstand
 
