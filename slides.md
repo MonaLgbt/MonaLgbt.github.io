@@ -27,9 +27,9 @@ Markdown-Kurzanleitung
 
 ---
 
+<section class="left">
 
-Einfache Textformatierung
-======================
+## Einfache Textformatierung
 
 Das Wichtigste zuerst: Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. **Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. ***Drei zusammen*** für ___beides___.
 
@@ -40,6 +40,7 @@ Einfache Textformatierung
 Das Wichtigste zuerst: Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. **Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. ***Drei zusammen*** für ___beides___.
 ```
 
+</section>
 
 ---
 
