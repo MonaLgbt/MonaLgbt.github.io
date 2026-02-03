@@ -1,3 +1,16 @@
+<style type="text/css">
+#content1 {
+float: left;
+width: 300px;
+height: 600px;
+}
+#content2 {
+float: right;
+width: 300px;
+height: 600px;
+}
+</style>
+
 ## Markdown-Kurzanleitung
 
 ![1](/storage/emulated/0/Pictures/Wallpapers/md/ghostwriting.jpg)
@@ -12,13 +25,11 @@ Sie ist leicht zu lernen.
 
 --
 
-
 Dieser Kurs bietet einen kurzen Überblick.  
 Die Beispiele zeigen wie es aussieht.  
-Und wie es gemacht wird.
+Und wie es gemacht wird. Zum Beispiel:
 
-
-Zum Beispiel:
+<div id="content1">
 
 Es gibt eine Ansicht zum Schreiben:
 
@@ -35,6 +46,9 @@ Oder ein Minus vor einem Wort macht daraus eine Liste.
 - Liste 2
 ```
 
+</div> <!--content1(LINKS)-->
+<div id="content2">
+
 Und eine Ansicht für das Ergebnis:
 
 # Überschrift
@@ -42,34 +56,37 @@ Und eine Ansicht für das Ergebnis:
 - Liste 1
 - Liste 2
 
+</div>
 
+---
 
-
+<div id="content1">
 
 Markdown-Quelltext:
 
 ```md
-
-
 Eine Überschrift auf oberster Ebene
 ============================
 
----
+# Dasselbe mit 1 Rautezeichen
 
-# Markdown-Kurzanleitung
-======================
+Eine Überschrift auf zweiter Ebene
+---------------------------------------------------------
+
+## Dasselbe mit 2 Rautezeichen
+```
 
 
+--
 
 
-Einfache Textformatierung
-======================
+### Einfache Textformatierung
 
 Das Wichtigste zuerst: Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. **Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. ***Drei zusammen*** für ___beides___.
 
 ```md
-Einfache Textformatierung
-======================
+
+### Einfache Textformatierung
 
 Das Wichtigste zuerst: Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. **Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. ***Drei zusammen*** für ___beides___.
 ```
