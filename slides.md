@@ -1,35 +1,69 @@
-# Markdown-Kurzanleitung
+## Markdown-Kurzanleitung
 
-**Quelle: Markdown Quick Reference auf der Gihub-Seite von: [markedjs/marked](https://github.com/markedjs/marked?tab=readme-ov-file).  
-Übersetzung mit Hilfe von DeepL.**
+![1](/storage/emulated/0/Pictures/Wallpapers/md/ghostwriting.jpg)
+
+Schreiben Sie gut aussehende Texte.  
+Ohne grosses Textprogramm.  
+Einfach mit dem Handy.  
+Dafür gibt es eine Methode.  
+Sie heißt *Markdown*.  
+Sie ist leicht zu lernen.
 
 
-Ein Markdown-Parser und -Compiler, auf Geschwindigkeit ausgelegt. Auf der [Demoseite](https://marked.js.org/demo/) können Sie Marked in Aktion sehen.
+--
 
 
----
+Dieser Kurs bietet einen kurzen Überblick.  
+Die Beispiele zeigen wie es aussieht.  
+Und wie es gemacht wird.
 
 
-Markdown-Kurzanleitung
-====================
+Zum Beispiel:
 
-Dieser Leitfaden bietet einen kurzen Überblick mit Beispielen zur Syntax, die [Markdown] unterstützt. Er ist selbst in Markdown geschrieben, und Sie können die Beispiele zum Ausprobieren in den linken Bereich kopieren. Sie werden als *Text* und nicht als *gerendertes HTML* angezeigt.
+Es gibt eine Ansicht zum Schreiben:
+
+Ein Kreuz vor einem Wort macht daraus eine Überschrift.
+
+```
+# Überschrift
+```
+
+Oder ein Minus vor einem Wort macht daraus eine Liste.
+
+```
+- Liste 1
+- Liste 2
+```
+
+Und eine Ansicht für das Ergebnis:
+
+# Überschrift
+
+- Liste 1
+- Liste 2
+
+
+
+
 
 Markdown-Quelltext:
 
 ```md
-Markdown-Kurzanleitung
-======================
-```
 
-[Markdown]: http://daringfireball.net/projects/markdown/
 
+Eine Überschrift auf oberster Ebene
+============================
 
 ---
 
-<section class="left">
+# Markdown-Kurzanleitung
+======================
 
-## Einfache Textformatierung
+
+
+
+Einfache Textformatierung
+======================
 
 Das Wichtigste zuerst: Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. **Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. ***Drei zusammen*** für ___beides___.
 
@@ -40,7 +74,6 @@ Einfache Textformatierung
 Das Wichtigste zuerst: Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. **Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. ***Drei zusammen*** für ___beides___.
 ```
 
-</section>
 
 ---
 
@@ -418,19 +451,19 @@ Das ist ein Editor für Android.
 
 In reinem Markdown gibt es keinen offiziellen Befehl, um die Spaltenbreite direkt zu setzen. Viele Renderer erlauben aber eingebettetes HTML oder CSS, mit dem sich die Breite steuern lässt.
 
-|  🔆  | <div style="width:60px">A</div> | <div style="width:60px">B</div> | <div style="width:60px">C</div> |
-|----:|-----:|-----:|-----:|
-| **1** |   7 |  31 |  33 |
-| **2** |  95 |  17 |   2 |
-| **3** |   5 |  10 |  50 |
+ 🔆  | <div style="width:60px">A</div> | <div style="width:60px">B</div> | <div style="width:60px">C</div>
+----:|-----:|-----:|-----:
+ **1** |   7 |  31 |  33
+ **2** |  95 |  17 |   2
+ **3** |   5 |  10 |  50
 
 ```html
 
-| 🔆    | <div style="width:60px">A</div> | <div style="width:60px">B</div> | <div style="width:60px">C</div> |
-|------:|----:|----:|----:|
-| **1** |   7 |  31 |  33 |
-| **2** |  95 |  17 |   2 |
-| **3** |   5 |  10 |  50 |
+🔆 | <div style="width:60px">A</div> | <div style="width:60px">B</div> | <div style="width:60px">C</div>
+------:|----:|----:|----:
+ **1** |   7 |  31 |  33
+ **2** |  95 |  17 |   2
+ **3** |   5 |  10 |  50
 ```
 
 
