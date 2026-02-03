@@ -1,10 +1,6 @@
-.reveal, .reveal h1, .reveal h2, .reveal h3 {
-  font-family: "Fira Sans", sans-serif;
-}
-
-/* global linksbündig */
-.reveal .slides {
-  text-align: left;
+:root {
+  --r-main-font: "Fira Sans", sans-serif;
+  --r-heading-font: "Fira Sans", sans-serif;
 }
 
 /* optional: Überschriften ebenfalls explizit */
