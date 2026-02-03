@@ -112,10 +112,36 @@ Absätze sind auch ziemlich einfach. Fügen Sie einfach eine Leerzeile zwischen 
 ---
 
 
-Manchmal möchten Sie Code einfügen, beispielsweise wenn Sie erklären, wie `<h1>` HTML-Tags funktionieren, oder wenn Sie als Programmierer über `eineMethode()` sprechen. Dann klammern Sie diese Teile mit einem Backtick ( ` ) ein.
+### Inline-Code
+
+**Code-Schnipsel in Fließtext  richtig  
+anzeigen.**
+
+Manchmal möchten Sie Code einfügen,  
+beispielsweise wenn Sie erklären,  
+wie `<h1>` HTML-Tags funktionieren,  
+oder wenn Sie als Programmierer über  
+`eineMethode()` sprechen.  
+Dann klammern Sie diese Teile mit  
+einem Backtick ( ` ) ein.
+
+--
 
 ```md
-Manchmal möchten Sie Code einfügen, beispielsweise wenn Sie erklären, wie `<h1>` HTML-Tags funktionieren, oder wenn Sie als Programmierer über `eineMethode()` sprechen. Dann klammern Sie diese Teile mit einem Backtick ( ` ) ein.
+
+### Inline-Code
+
+**Code-Schnipsel in Fließtext  richtig  
+anzeigen.**
+
+Manchmal möchten Sie Code einfügen,  
+beispielsweise wenn Sie erklären,  
+wie `<h1>` HTML-Tags funktionieren,  
+oder wenn Sie als Programmierer über  
+`eineMethode()` sprechen.  
+Dann klammern Sie diese Teile mit  
+einem Backtick ( ` ) ein.
+
 ```
 
 ---
