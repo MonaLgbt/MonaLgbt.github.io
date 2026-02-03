@@ -1,12 +1,12 @@
 <style type="text/css">
 #content1 {
 float: left;
-width: 300px;
+width: 600px;
 height: 600px;
 }
 #content2 {
 float: right;
-width: 300px;
+width: 600px;
 height: 600px;
 }
 </style>
@@ -26,8 +26,7 @@ Sie ist leicht zu lernen.
 --
 
 Dieser Kurs bietet einen kurzen Überblick.  
-Die Beispiele zeigen wie es aussieht.  
-Und wie es gemacht wird. Zum Beispiel:
+Zum Beispiel:
 
 <div id="content1">
 
@@ -35,15 +34,14 @@ Es gibt eine Ansicht zum Schreiben:
 
 Ein Kreuz vor einem Wort macht daraus eine Überschrift.
 
-```
+```md
 # Überschrift
 ```
-
 Oder ein Minus vor einem Wort macht daraus eine Liste.
 
-```
-- Liste 1
-- Liste 2
+```md
+- Liste Punkt 1
+- Liste Punkt 2
 ```
 
 </div> <!--content1(LINKS)-->
@@ -51,10 +49,10 @@ Oder ein Minus vor einem Wort macht daraus eine Liste.
 
 Und eine Ansicht für das Ergebnis:
 
-# Überschrift
+### Überschrift
 
-- Liste 1
-- Liste 2
+- Liste Punkt 1
+- Liste Punkt 2
 
 </div>
 
@@ -77,7 +75,7 @@ Eine Überschrift auf zweiter Ebene
 ```
 
 
---
+---
 
 
 ### Einfache Textformatierung
@@ -85,8 +83,7 @@ Eine Überschrift auf zweiter Ebene
 Das Wichtigste zuerst: Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. **Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. ***Drei zusammen*** für ___beides___.
 
 ```md
-
-### Einfache Textformatierung
+# Einfache Textformatierung
 
 Das Wichtigste zuerst: Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. **Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. ***Drei zusammen*** für ___beides___.
 ```
