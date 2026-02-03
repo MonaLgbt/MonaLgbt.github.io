@@ -1,3 +1,12 @@
-.left {
+/* global linksbündig */
+.reveal .slides {
+  text-align: left;
+}
+
+/* optional: Überschriften ebenfalls explizit */
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal p {
   text-align: left;
 }
