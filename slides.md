@@ -3,12 +3,7 @@
 <section>
   <div style="display: flex; align-items: center; gap: 40px;">
     <div style="flex: 1;">
-        <p>Schreiben Sie gut aussehende Texte.  
-        Ohne grosses Textprogramm.  
-        Einfach mit dem Handy.  
-        Dafür gibt es eine Methode.  
-        Sie heißt *Markdown*.  
-        Sie ist leicht zu lernen.</p>
+      <p>Schreiben Sie gut aussehende Texte. Ohne grosses Textprogramm. Einfach mit dem Handy. Dafür gibt es eine Methode. Sie heißt *Markdown*. Sie ist leicht zu lernen.</p>
     </div>
     <div style="flex: 1; text-align: center;">
       <img src="assets/writer.jpg" width="300">
@@ -20,13 +15,13 @@
 
 ## Dieser Kurs bietet einen kurzen Überblick
 
-Zum Beispiel:  
-Ein Rautenzeichen vor einem Wort macht daraus eine Überschrift.  
+Zum Beispiel:<br>
+Ein Rautenzeichen vor einem Wort macht daraus eine Überschrift.<br>
 Und ein Minus vor einem Wort macht daraus eine Liste.
 
 --
 
-Es gibt eine Ansicht zum Schreiben:
+**Es gibt eine Ansicht zum Schreiben:**
 
 ```md
 # Obstsalat
@@ -37,7 +32,7 @@ Es gibt eine Ansicht zum Schreiben:
 
 --
 
-Und eine Ansicht für das Ergebnis:
+**Und eine Ansicht für das Ergebnis:**
 
 ### Obstsalat
 
@@ -53,7 +48,7 @@ Und eine Ansicht für das Ergebnis:
 <section>
   <div style="display: flex; align-items: center; gap: 40px;">
     <div style="flex: 1;">
-      <p>2009 beschloss der Senat von Illinois, dem Heimatbundesstaat des Pluto-Entdeckers Clyde Tombaugh, Pluto weiterhin als Planeten zu betrachten.
+      <p>*2009* beschloss der Senat von Illinois, dem Heimatbundesstaat des Pluto-Entdeckers **Clyde Tombaugh**, Pluto weiterhin **als Planeten** zu betrachten.
     </div>
     <div style="flex: 1; text-align: center;">
       <img src="assets/Pluto.jpg" width="300">
