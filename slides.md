@@ -9,14 +9,35 @@ Dafür gibt es eine Methode.
 Sie heißt *Markdown*.  
 Sie ist leicht zu lernen.
 
+---
 
---
+<section>
+  <div style="display: flex; align-items: center; gap: 40px;">
+
+    <div style="flex: 1;">
+      <h3>Text links</h3>
+      <p>Dieser Kurs bietet einen kurzen Überblick.
+      Zum Beispiel:
+      Es gibt eine Ansicht zum Schreiben:
+      Ein Kreuz vor einem Wort macht daraus eine Überschrift.</p>
+    </div>
+
+    <div style="flex: 1; text-align: center;">
+      <img src="assets/writer.jpg" width="300">
+    </div>
+
+  </div>
+</section>
+
+
+
+
+
+---
 
 Dieser Kurs bietet einen kurzen Überblick.  
 Zum Beispiel:
-
 Es gibt eine Ansicht zum Schreiben:
-
 Ein Kreuz vor einem Wort macht daraus eine Überschrift.
 
 ```md
