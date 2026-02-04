@@ -1,6 +1,6 @@
 ## Markdown-Kurzanleitung
 
-![1](assets/writer.jpg)
+![1](assets/writer.jpg){width="300px"}
 
 Schreiben Sie gut aussehende Texte.  
 Ohne grosses Textprogramm.  
