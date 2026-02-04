@@ -53,7 +53,7 @@ Und eine Ansicht für das Ergebnis:
 <section>
   <div style="display: flex; align-items: center; gap: 40px;">
     <div style="flex: 1;">
-      <h3>2009 beschloss der Senat von Illinois, dem Heimatbundesstaat des Pluto-Entdeckers Clyde Tombaugh, Pluto weiterhin als Planeten zu betrachten.[67] Nicht angenommen hingegen wurde ein entsprechender Resolutionsentwurf im Senat von Kalifornien, der u. a. damit begründet war, dass Pluto den gleichen Namen wie Kaliforniens berühmtester Trickfilmhund hat, dass die Änderung Millionen kalifornischer Schulbücher unbrauchbar machen würde und dass sie psychologische Schäden bei Kaliforniern verursachen werde, die ihren Platz im Universum in Frage stellen würden.[68] Der NASA-Administrator Jim Bridenstine erklärte im Jahr 2019 ebenfalls, dass er Pluto weiterhin als Planeten betrachte.</p>
+      <p>2009 beschloss der Senat von Illinois, dem Heimatbundesstaat des Pluto-Entdeckers Clyde Tombaugh, Pluto weiterhin als Planeten zu betrachten.[67] Nicht angenommen hingegen wurde ein entsprechender Resolutionsentwurf im Senat von Kalifornien, der u. a. damit begründet war, dass Pluto den gleichen Namen wie Kaliforniens berühmtester Trickfilmhund hat, dass die Änderung Millionen kalifornischer Schulbücher unbrauchbar machen würde und dass sie psychologische Schäden bei Kaliforniern verursachen werde, die ihren Platz im Universum in Frage stellen würden.[68] Der NASA-Administrator Jim Bridenstine erklärte im Jahr 2019 ebenfalls, dass er Pluto weiterhin als Planeten betrachte.</p>
     </div>
     <div style="flex: 1; text-align: center;">
       <img src="assets/Pluto.jpg" width="300">
