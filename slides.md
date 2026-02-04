@@ -1,20 +1,6 @@
-<style type="text/css">
-#content1 {
-float: left;
-width: 600px;
-height: 600px;
-}
-#content2 {
-float: right;
-width: 600px;
-height: 600px;
-}
-</style>
-
 ## Markdown-Kurzanleitung
 
-![1](https://de.freepik.com/vektoren-kostenlos/handeingabe-auf-schreibmaschine_30770183.htm#fromView=image_search_similar&page=1&position=0&uuid=5e6823fd-7464-4417-a5c6-851e4790cdcd&query=Clipart+writing+machine)
-
+![1](assets/writer.jpg)
 
 Schreiben Sie gut aussehende Texte.  
 Ohne grosses Textprogramm.  
