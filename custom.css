@@ -1,6 +1,6 @@
-:root {
-  --r-main-font: "Fira Sans", sans-serif;
-  --r-heading-font: "Fira Sans", sans-serif;
+/* global linksbündig */
+.reveal .slides {
+  text-align: left;
 }
 
 /* optional: Überschriften ebenfalls explizit */
