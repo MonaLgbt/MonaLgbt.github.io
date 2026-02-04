@@ -1,22 +1,15 @@
 ## Markdown-Kurzanleitung
 
-Schreiben Sie gut aussehende Texte.  
-Ohne grosses Textprogramm.  
-Einfach mit dem Handy.  
-Dafür gibt es eine Methode.  
-Sie heißt *Markdown*.  
-Sie ist leicht zu lernen.
-
----
-
 <section>
   <div style="display: flex; align-items: center; gap: 40px;">
     <div style="flex: 1;">
       <h3>Text links</h3>
-      <p>Dieser Kurs bietet einen kurzen Überblick.  
-      Zum Beispiel:  
-      Es gibt eine Ansicht zum Schreiben:  
-      Ein Kreuz vor einem Wort macht daraus eine Überschrift.</p>
+      <p>Schreiben Sie gut aussehende Texte.  
+        Ohne grosses Textprogramm.  
+        Einfach mit dem Handy.  
+        Dafür gibt es eine Methode.  
+        Sie heißt *Markdown*.  
+        Sie ist leicht zu lernen.</p>
     </div>
     <div style="flex: 1; text-align: center;">
       <img src="assets/writer.jpg" width="300">
@@ -27,46 +20,35 @@ Sie ist leicht zu lernen.
 ---
 
 Dieser Kurs bietet einen kurzen Überblick.  
-Zum Beispiel:
+Zum Beispiel:  
+Ein Rautenzeichen vor einem Wort macht daraus eine Überschrift.  
+Und ein Minus vor einem Wort macht daraus eine Liste.
+
+--
+
 Es gibt eine Ansicht zum Schreiben:
-Ein Kreuz vor einem Wort macht daraus eine Überschrift.
 
 ```md
-# Überschrift
-```
-Oder ein Minus vor einem Wort macht daraus eine Liste.
+# Obstsalat
 
-```md
-- Liste Punkt 1
-- Liste Punkt 2
+- Äpfel
+- Birnen
 ```
+
+--
 
 Und eine Ansicht für das Ergebnis:
 
-### Überschrift
+### Obstsalat
 
-- Liste Punkt 1
-- Liste Punkt 2
+- Äpfel
+- Birnen
 
 </div>
 
 ---
 
-Markdown-Quelltext:
-
-```md
-Eine Überschrift auf oberster Ebene
-============================
-
-# Dasselbe mit 1 Rautezeichen
-
-Eine Überschrift auf zweiter Ebene
----------------------------------------------------------
-
-## Dasselbe mit 2 Rautezeichen
-```
-
-
+## Pluto - ein Planet?
 
 <section>
   <div style="display: flex; align-items: center; gap: 40px;">
@@ -79,9 +61,7 @@ Eine Überschrift auf zweiter Ebene
   </div>
 </section>
 
-
 ---
-
 
 ### Einfache Textformatierung
 
