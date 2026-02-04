@@ -1,6 +1,6 @@
 ## Markdown-Kurzanleitung
 
-![1](assets/writer.jpg =300px)
+<img src="assets/writer.jpg" width="300">
 
 Schreiben Sie gut aussehende Texte.  
 Ohne grosses Textprogramm.  
@@ -14,8 +14,6 @@ Sie ist leicht zu lernen.
 
 Dieser Kurs bietet einen kurzen Überblick.  
 Zum Beispiel:
-
-<div id="content1">
 
 Es gibt eine Ansicht zum Schreiben:
 
@@ -31,9 +29,6 @@ Oder ein Minus vor einem Wort macht daraus eine Liste.
 - Liste Punkt 2
 ```
 
-</div> <!--content1(LINKS)-->
-<div id="content2">
-
 Und eine Ansicht für das Ergebnis:
 
 ### Überschrift
@@ -44,8 +39,6 @@ Und eine Ansicht für das Ergebnis:
 </div>
 
 ---
-
-<div id="content1">
 
 Markdown-Quelltext:
 
