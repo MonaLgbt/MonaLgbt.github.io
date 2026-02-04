@@ -1,7 +1,5 @@
 ## Markdown-Kurzanleitung
 
-<img src="assets/writer.jpg" width="300">
-
 Schreiben Sie gut aussehende Texte.  
 Ohne grosses Textprogramm.  
 Einfach mit dem Handy.  
