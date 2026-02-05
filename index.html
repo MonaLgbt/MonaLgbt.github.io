@@ -1,49 +1,39 @@
-<!doctype html>
-<html lang="de">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Eine kurze Einführung in Markdown – Reveal.js</title>
-
-    <!-- Reveal.js core CSS & Theme from CDN (works on GitHub Pages) -->
-    <link rel="stylesheet" href="https://unpkg.com/reveal.js@^5/dist/reveal.css" />
-    <link rel="stylesheet" href="https://unpkg.com/reveal.js@^5/dist/theme/white.css" id="theme" />
-
-    <!-- Custom overrides -->
-    <link rel="stylesheet" href="custom.css" />
-  </head>
-  <body>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+    <title>Markdown & reveal.js Präsentation</title>
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/theme/white.min.css">
+    <link rel="stylesheet" href="custom.css">
+</head>
+<body>
     <div class="reveal">
-      <div class="slides">
-        <!-- Load slides from Markdown file -->
-        <section
-          data-markdown="slides.md"
-          data-separator="^---$"
-          data-separator-vertical="^--$"
-          data-separator-notes="^Note:"
-          data-charset="utf-8">
-        </section>
-      </div>
+        <div class="slides">
+            <section data-markdown="slides.md" 
+                     data-separator="^---" 
+                     data-vertical="^\*\*\*" 
+                     data-separator-vertical="^\n---\n">
+            </section>
+        </div>
     </div>
 
-    <!-- Reveal.js core JS -->
-    <script src="https://unpkg.com/reveal.js@^5/dist/reveal.js"></script>
-    <!-- Plugins: Markdown, Notes, Highlight -->
-    <script src="https://unpkg.com/reveal.js@^5/plugin/markdown/markdown.js"></script>
-    <script src="https://unpkg.com/reveal.js@^5/plugin/notes/notes.js"></script>
-    <script src="https://unpkg.com/reveal.js@^5/plugin/highlight/highlight.js"></script>
-
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/dist/reveal.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/markdown/markdown.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@5/plugin/notes/notes.min.js"></script>
+    
     <script>
-      // Initialize Reveal
-      Reveal.initialize({
-        hash: true,
-        slideNumber: 'c/t',
-        transition: 'fade',
-        plugins: [ RevealMarkdown, RevealNotes, RevealHighlight ],
-        markdown: {
-          smartypants: true
-        }
-      });
+        Reveal.initialize({
+            hash: true,
+            transition: 'slide',
+            markdown: {
+                smartLists: true,
+                smartypants: true
+            }
+        });
     </script>
-  </body>
+</body>
 </html>

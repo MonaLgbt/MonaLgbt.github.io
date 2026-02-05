@@ -1,128 +1,60 @@
-# Eine kurze Einführung in **Markdown**
+# Markdown & reveal.js
+## Moderne Präsentationen mit GitHub Pages
 
-Markdown ist eine leichtgewichtige Markupsprache, mit der du schnell **formatierte** Texte schreiben kannst – lesbar als Klartext, renderbar als HTML.
-
-**Ziel heute:** Grundlagen verstehen & sofort anwenden.
-
-> Tipp: Diese Präsentation ist selbst in Markdown geschrieben.
-
-Note: Begrüßung, Zielsetzung, kurzer Überblick.
+Überblick über die Vorteile von Markdown-basierten Präsentationen.
 
 ---
+## Warum Markdown für Präsentationen?
 
-<!-- .slide: class="two-col left" -->
-## Grundsyntax – Überschriften & Text
+- **Einfache Syntax**: Keine HTML-Kenntnisse nötig
+- **Versionskontrolle**: Git-freundlich
+- **Plattformunabhängig**: Läuft überall
+- **Schnelle Bearbeitung**: Texteditor reicht
 
-### Überschriften
-```
-# H1
-## H2
-### H3
-```
+**Markdown bleibt lesbar und wartbar.**
 
-### Textformatierung
-```
-**fett**  *kursiv*  ~~durchgestrichen~~  `Code`
-```
+---
+## 2-Spalten Layout
 
-### Absätze & Zeilenumbrüche
-
-Leere Zeile = neuer Absatz.  \
-Zwei Leerstellen am Zeilenende = manueller Zeilenumbruch.
-
-### Listen
-```
+::: two-column
+### Linke Spalte
 - Punkt 1
 - Punkt 2
-  - Unterpunkt
-1. Erster
-2. Zweiter
-```
+- Punkt 3
+
+Absatztext linksbündig ausgerichtet.
+:::
+
+### Rechte Spalte
+- Punkt A
+- Punkt B
+
+**Fette Hervorhebung** und *Kursiv*.
 
 ---
+## Vertikale Folien
 
-<!-- .slide: class="two-col left" -->
-## Links, Bilder & Zitate
+Hier können Unterfolien definiert werden:
 
-### Links
-```
-[Link-Text](https://beispiel.de)
-```
+***
 
-### Bilder
-```
-![Alt-Text](pfad/zum/bild.png)
-```
+### Unterpunkt 1
+Details zu Punkt 1 mit längeren Erklärungen.
 
-### Zitate
-```
-> Ein eingerücktes Zitat
-```
+***
 
-### Trennlinien
-```
----
-```
-
-### Inline-Code & Blöcke
-
-```
-`inline`
-
-```js
-console.log('Codeblock mit Sprache');
-```
-```
+### Unterpunkt 2
+Noch mehr Details in der zweiten Unterfolie.
 
 ---
+## Code-Beispiele
 
-<!-- .slide: class="two-col left" -->
-## Tabellen & Aufgabenlisten
-
-### Tabellen
-```
-| Spalte A | Spalte B |
-|---------:|:---------|
-| rechts   | links    |
-```
-
-### Aufgabenlisten (GFM)
-```
-- [x] erledigt
-- [ ] offen
-```
-
-### Escaping & Sonderzeichen
-Backslash `\` vor Sonderzeichen nutzen, z. B. `\*` für Stern.
-
-### Emojis (optional)
-Einige Renderer unterstützen :tada: :rocket:
-
----
-
-## Best Practices
-
-- **Lesbarkeit vor Perfektion**: Klarer, einfacher Markdown schlägt komplexes HTML.
-- **Konsistente Überschriften-Hierarchie** nutzen.
-- **Kurze Zeilen** (z. B. 80–100 Zeichen) erleichtern Diffs.
-- **Alt‑Texte** für Bilder – Barrierefreiheit und SEO.
-- **Sprache im Codeblock** für Syntax‑Highlighting angeben (z. B. ` ```js `).
-
-Note: Hinweise zur Teamkonvention, Code Reviews, Dokumentation.
-
----
-
-## Nützliche Ressourcen
-
-- Daring Fireball – Original Markdown-Spezifikation: <https://daringfireball.net/projects/markdown/>
-- CommonMark – eine standardisierte Spezifikation: <https://commonmark.org/>
-- GitHub-Flavored Markdown (GFM) Guide: <https://github.github.com/gfm/>
-- Reveal.js Doku (Markdown-Plugin & Folien-Attribute): <https://revealjs.com/markdown/>
-
---
-
-## Danke!
-
-Fragen?
-
-*(Drücke **S** für Referentennotizen, **Esc** für Überblick)*
+```html
+<section class="two-column">
+  <div class="column">
+    Linke Spalte
+  </div>
+  <div class="column">
+    Rechte Spalte
+  </div>
+</section>
