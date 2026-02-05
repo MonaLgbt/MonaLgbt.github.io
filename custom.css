@@ -1,12 +1,48 @@
-/* global linksbündig */
-.reveal .slides {
+/* --- Reveal.js Overrides for left alignment & 2-column Markdown --- */
+
+/* Global: Linksbuendig */
+.reveal .slides section {
+  text-align: left;
+}
+.reveal .slides section h1,
+.reveal .slides section h2,
+.reveal .slides section h3,
+.reveal .slides section h4,
+.reveal .slides section h5,
+.reveal .slides section h6 {
   text-align: left;
 }
 
-/* optional: Überschriften ebenfalls explizit */
-.reveal h1,
-.reveal h2,
-.reveal h3,
-.reveal p {
-  text-align: left;
+/* Zweispaltiges Layout per CSS-Multicolumn – aktiv mit class="two-col" */
+.reveal .slides section.two-col {
+  column-count: 2;
+  column-gap: 3rem;
+}
+/* Headings sollen ueber beide Spalten laufen */
+.reveal .slides section.two-col h1,
+.reveal .slides section.two-col h2,
+.reveal .slides section.two-col h3 {
+  column-span: all;
+}
+
+/* Typografie-Feinschliff */
+.reveal p,
+.reveal li {
+  line-height: 1.45;
+}
+.reveal code { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
+.reveal pre code {
+  white-space: pre-wrap; /* damit lange Zeilen umbrechen */
+  word-break: break-word;
+  font-size: 0.9em;
+}
+
+/* Tabellen besser lesbar */
+.reveal table { width: 100%; border-collapse: collapse; }
+.reveal table th, .reveal table td { border-bottom: 1px solid #ddd; padding: .35rem .5rem; }
+.reveal table thead th { border-bottom: 2px solid #bbb; }
+
+/* Responsiv: auf schmalen Screens einspaltig */
+@media (max-width: 1024px) {
+  .reveal .slides section.two-col { column-count: 1; }
 }
