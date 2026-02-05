@@ -4,9 +4,16 @@ Markdown ist eine leichtgewichtige Markupsprache, mit der du schnell **formatier
 
 **Ziel heute:** Grundlagen verstehen & sofort anwenden.
 
+*2009* beschloss der Senat von Illinois, dem Heimatbundesstaat des Pluto-Entdeckers **Clyde Tombaugh**, Pluto weiterhin **als Planeten** zu betrachten.
+
+*2009* beschloss der Senat von Illinois, dem Heimatbundesstaat des Pluto-Entdeckers **Clyde Tombaugh**, Pluto weiterhin **als Planeten** zu betrachten.
+
+*2009* beschloss der Senat von Illinois, dem Heimatbundesstaat des Pluto-Entdeckers **Clyde Tombaugh**, Pluto weiterhin **als Planeten** zu betrachten.
+
 > Tipp: Diese Präsentation ist selbst in Markdown geschrieben.
 
 Note: Begrüßung, Zielsetzung, kurzer Überblick.
+
 
 ---
 
