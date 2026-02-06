@@ -1,105 +1,556 @@
+<!--slide 01-->
+
 # Markdown Einführung
 
-### Ziel: Markdown-Grundlagen kompakt & übersichtlich.
+**Ziel: Markdown-Grundlagen kompakt & übersichtlich.**
 
 Note: Intro
 
 ---
 
-<!-- .slide: class="left grid-2" -->
-## Grundsyntax
+<!--slide 02 links-->
 
 <div class="col">
-### Überschriften
 
-```
-# H1
-## H2
-### H3
-```
+![1](/storage/emulated/0/Pictures/Wallpapers/md/ghostwriting.jpg)
 
-### Fett/Kursiv
+</div>
 
+<div class="col">
+
+<!--slide 03 rechts-->
+
+Schreiben Sie gut aussehende Texte.  
+Ohne grosses Textprogramm.  
+Einfach mit dem Handy.  
+Dafür gibt es eine Methode.  
+Sie heißt *Markdown*.  
+Sie ist leicht zu lernen.
+
+</div>
+
+---
+
+<div class="col">
+
+<!--slide 04 links-->
+
+Es gibt eine Ansicht zum Schreiben:
+
+Ein Kreuz vor einem Wort macht daraus eine Überschrift.
+
+```md
+# 1. Überschrift
+
+## 2. Überschrift
 ```
-**fett** *kursiv*
+Oder ein Minus vor einem Wort macht daraus eine Liste.
+
+```md
+- Punkt 1
+- Punkt 2
 ```
 
 </div>
 
 <div class="col">
 
-### Gemächlicher Wanderer
+<!--slide 05 rechts-->
 
-Habt ihr Pluto jedoch einmal im Teleskop gefunden, macht er es euch leicht: Jahr für Jahr werdet ihr ihn um dieselbe Zeit fast am gleichen Ort wiederfinden. Denn Pluto hat eine lange Umlaufzeit: Er braucht über 248 Jahre, um die Sonne einmal zu umrunden.
+Und eine Ansicht für das Ergebnis:
 
---
+### 1. Überschrift
 
-Daher ist seine Eigenbewegung am Firmament sehr gering - nicht einmal anderthalb Grad im Jahr (weniger als einen Fingerbreit). In den nächsten Jahren findet ihr ihn im Sternbild Steinbock.
-
-</div>
-
-<div class="col">
-
-### Eine lange, kleine Oppositionsschleife
-
-Pluto zieht die typische Oppositionsschleife über den Himmel, auch wenn sie - entsprechend seiner geringen Eigenbewegung - sehr klein ist. Dafür dauert sie rund ein halbes Jahr: 
-
---
-
-Von Oktober bis Mai zieht Pluto ganz normal ostwärts übers Firmament, durchläuft dabei im Januar seine Konjunktion und ist dann für uns nicht zu sehen, da er hinter der Sonne verschwunden ist. Im Mai kehrt er um und läuft für die nächsten fünf Monate "rückläufig" durch die Oppsitionschleife in Richtung Westen.
-
---
-
-Der Zeitpunkt seiner Opposition ändert sich dabei kaum: Nur um rund zwei Tage pro Jahr. Die beste Zeit zur Beobachtung ist die nächsten Jahre Ende Juli, Anfang August. Dann erreicht Pluto um Mitternacht (ein Uhr in MESZ) seine höchste Position am südlichen Himmel. In diesen Stunden ist es dann auch im Sommer dunkel genug, um ihn zu finden.
-
-</div>
-
-<div class="col">
-
-### Listen
+#### 2. Überschrift
 
 - Punkt 1
 - Punkt 2
-- Punkt 3
 
-### Zitat
-
-```
-> Zitat
-```
 </div>
 
 ---
-<!-- .slide: class="left grid-2" -->
-## Medien
 
 <div class="col">
-### Link
-```
-[Beispiel](https://example.com)
+
+<!--slide 06-->
+
+Markdown-Quelltext:
+
+```md
+Eine Überschrift auf oberster Ebene
+============================
+
+# Dasselbe mit 1 Rautezeichen
+
+Eine Überschrift auf zweiter Ebene
+---------------------------------------------------------
+
+## Dasselbe mit 2 Rautezeichen
+
+### Eine Überschrift auf dritter Ebene
+
+#### Eine Überschrift auf dritter Ebene
+
+##### Eine Überschrift auf vierter Ebene
+
+###### Bei der sechsten Ebene ist Dchluss
+
 ```
 
-### Bild
+</div>
+
+--
+
+<div class="col">
+
+<!--slide 07-->
+
+### Einfache Textformatierung
+
+```md
+Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. 
+
+**Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. 
+
+***Drei zusammen*** für ___beides___.
 ```
-![Alt](bild.png)
-```
+
 </div>
 
 <div class="col">
-### Codeblock
-```js
-console.log('Hi');
+
+<!--slide 08 rechts-->
+
+Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. 
+
+**Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. 
+
+***Drei zusammen*** für ___beides___.
 ```
 
-### Tabelle
-```
-| A | B |
-|--|--|
-| 1 | 2 |
-```
 </div>
 
 ---
-## Danke!
+
+
+Absätze sind auch ziemlich einfach. Fügen Sie einfach eine Leerzeile zwischen Textblöcken ein.
+
+> Dieser Textblock befindet sich in einem Blockzitat. Seine mehreren Zeilen werden alle
+> gegenüber dem Rest des Textes etwas eingerückt.
+>
+> > Mehrere Ebenen von Blockzitaten funktionieren ebenfalls.
+
+```md
+Absätze sind auch ziemlich einfach. Fügen Sie einfach eine Leerzeile zwischen Textblöcken ein.
+
+> Dieser Textblock befindet sich in einem Blockzitat. Seine mehreren Zeilen werden alle
+> gegenüber dem Rest des Textes etwas eingerückt.
+>
+> > Mehrere Ebenen von Blockzitaten funktionieren ebenfalls.
+```
+
+
+---
+
+
+### Inline-Code
+
+**Code-Schnipsel in Fließtext  richtig  
+anzeigen.**
+
+Manchmal möchten Sie Code einfügen,  
+beispielsweise wenn Sie erklären,  
+wie `<h1>` HTML-Tags funktionieren,  
+oder wenn Sie als Programmierer über  
+`eineMethode()` sprechen.  
+Dann klammern Sie diese Teile mit  
+einem Backtick ( ` ) ein.
+
+--
+
+```md
+
+### Inline-Code
+
+**Code-Schnipsel in Fließtext  richtig  
+anzeigen.**
+
+Manchmal möchten Sie Code einfügen,  
+beispielsweise wenn Sie erklären,  
+wie `<h1>` HTML-Tags funktionieren,  
+oder wenn Sie als Programmierer über  
+`eineMethode()` sprechen.  
+Dann klammern Sie diese Teile mit  
+einem Backtick ( ` ) ein.
+
+```
+
+---
+
+
+Wenn Sie Code einfügen und neue
+Zeilen beibehalten möchten, rücken Sie die Zeile mit einem Tabulator
+oder mindestens **vier** Leerzeichen ein:
+
+    Auch hier funktionieren zusätzliche Leerzeichen.
+    Dies wird auch als vorformatierter Text bezeichnet und ist nützlich, um Beispiele anzuzeigen.
+    Der Text bleibt als Text erhalten, sodass alle von Ihnen hinzugefügten *Markdown*- oder <u>HTML</u>-Elemente
+    nicht formatiert angezeigt werden. Auf diese Weise können Sie Markdown-Beispiele in einem
+    Markdown-Dokument anzeigen.
+
+```md
+    Auch hier funktionieren zusätzliche Leerzeichen.
+    Dies wird auch als vorformatierter Text bezeichnet und ist nützlich, um Beispiele anzuzeigen.
+    Der Text bleibt als Text erhalten, sodass alle von Ihnen hinzugefügten *Markdown*- oder <u>HTML</u>-Elemente
+    nicht formatiert angezeigt werden. Auf diese Weise können Sie Markdown-Beispiele in einem
+    Markdown-Dokument anzeigen.
+```
+
+---
+
+
+>     Sie können auch vorformatierten Text mit Ihren Blockzitaten verwenden,
+>     solange Sie mindestens **fünf"" Leerzeichen hinzufügen.
+
+```md
+>     Sie können auch vorformatierten Text mit Ihren Blockzitaten verwenden,
+>     solange Sie mindestens **fünf** Leerzeichen hinzufügen.
+```
+
+
+---
+
+
+Überschriften
+===========
+
+Es gibt mehrere Möglichkeiten, Überschriften zu erstellen. Durch die Verwendung von drei oder mehr Gleichheitszeichen in einer Zeile unter einer Überschrift wird diese zum Stil „h1”. Drei oder mehr Bindestriche unter einer Zeile machen sie zu „h2” (etwas kleiner).
+
+Sie können auch mehrere Rautezeichen (`#`) vor und nach einer Überschrift verwenden. Rautezeichen nach dem Titel werden ignoriert, aber sie verdeutlichen möglicherweise eine Überschrift im Quelltext, genauso wie es die Unterstreichungen tun.
+
+
+---
+
+
+Hier sind einige Beispiele:
+
+Dies ist eine H1 Überschrift
+============================
+
+Dies ist eine H2 Überschrift
+---
+
+# Dies ist H1
+
+## Dies ist H2
+
+### Dies ist H3 mit einigen zusätzlichen Rautezeichen ###
+
+#### Sie verstehen, worauf ich hinaus will ####
+
+##### Ich brauche am Ende keine zusätzlichen Rautezeichen
+
+###### H6 ist das Maximum
+
+
+---
+
+
+```md
+Dies ist eine H1 Überschrift
+============================
+
+Dies ist eine H2 Überschrift
+---
+
+# Dies ist H1
+
+## Dies ist H2
+
+### Dies ist H3 mit einigen zusätzlichen Rautezeichen ###
+
+#### Sie verstehen, worauf ich hinaus will ####
+
+##### Ich brauche am Ende keine zusätzlichen Rautezeichen
+
+###### H6 ist das Maximum
+```
+
+
+---
+
+
+Links
+=====
+
+Verlinken wir ein paar Websites.  
+Zunächst verwenden wir die reine URL,  
+wie   <https://www.github.com>.  
+Das ist gut für Text,  
+aber unschön für HTML.
+
+Als Nächstes kommt ein Inline-Link  
+zu [Google](https://www.google.com).  
+Das sieht schon etwas besser aus.
+
+
+---
+
+
+Dies ist ein Link im Referenzstil  
+zu [Wikipedia] [1].  
+Zuletzt noch ein hübscher Link  
+zu [Yahoo].  
+Der Link im Referenzstil und der hübsche Link verwenden beide automatisch die unten definierten Links, aber sie könnten *überall* im Markdown definiert werden und werden aus dem HTML entfernt. Bei den Namen wird auch nicht zwischen Groß- und Kleinschreibung unterschieden, sodass Sie [YaHoO] verwenden können und der Link trotzdem richtig funktioniert.
+
+
+[1]: https://www.wikipedia.org
+[Yahoo]: https://www.yahoo.com
+
+
+---
+
+
+Titelattribute können zu Links hinzugefügt werden, indem Text nach einem Link eingefügt wird.
+
+Dies ist der [Inline-Link](https://www.bing.com „Bing”) mit dem Titel „Bing”.
+
+Sie können auch zu „W3C” [2] gehen und vielleicht einen [Freund] besuchen.
+
+
+[2]: https://w3.org (The W3C puts out specs for web-based things)
+[Freund]: https://facebook.com "Facebook!"
+
+
+---
+
+
+E-Mail-Adressen im Klartext sind nicht verlinkt: test@example.com.  
+E-Mail-Adressen in spitzen Klammern sind verlinkt: <test@example.com>.  
+Sie sind außerdem verschleiert, damit Spam-Roboter sie hoffentlich nicht finden können.
+
+
+---
+
+
+Listen
+=====
+
+* Dies ist eine Aufzählungsliste.
+* Ideal für Einkaufslisten.
+- Sie können auch Bindestriche verwenden.
++ Oder Pluszeichen.
++ Nochmal Pluszeichen. (Interessant: keine eingefügte Leerzeile)
+
+Das oben Genannte ist eine „ungeordnete” Liste. Nun zu etwas Ordnung.
+
+1. Nummerierte Listen sind ebenfalls einfach
+2. Beginnen Sie einfach mit einer Zahl
+3. Die tatsächliche Zahl spielt jedoch keine Rolle, wenn sie in HTML konvertiert wird.
+4. Dies wird weiterhin als 4 angezeigt.
+
+
+---
+
+
+Möglicherweise benötigen Sie einige erweiterte Listen:
+
+- Diese Liste der obersten Ebene ist in Absatz-Tags eingeschlossen
+- Dadurch wird zwischen jedem Element der obersten Ebene ein zusätzlicher Abstand erzeugt.
+
+- Dies erreichen Sie durch Hinzufügen einer Leerzeile
+
+- Diese verschachtelte Liste enthält ebenfalls Leerzeilen zwischen den Listenelementen.
+
+
+---
+
+
+- So erstellen Sie verschachtelte Listen:
+  - Beginnen Sie mit Ihrer regulären Liste.
+  - Verschachtelte Listen werden um zwei Leerzeichen eingerückt.
+  - Bei weiteren Verschachtelungen sollten Sie um zwei weitere Leerzeichen einrücken.
+    - Diese Zeile ist um vier Leerzeichen eingerückt.
+
+
+---
+
+
+- Listenelemente können recht lang sein. Sie können einfach weiter tippen und sie entweder
+ohne Einrückung in der nächsten Zeile fortsetzen.
+
+- Alternativ können Sie, wenn Ihnen das nicht gefällt,
+  die nächste Zeile etwas einrücken, um ein schöneres Erscheinungsbild zu erzielen.
+
+- Sie können große Textblöcke in Ihre Liste einfügen, indem Sie sie einfach um zwei Leerzeichen einrücken.
+
+  Dies wird genauso formatiert wie Code, aber wenn Sie den HTML-Code überprüfen,
+ werden Sie feststellen, dass er lediglich in einen `<p>`-Tag eingeschlossen ist und *nicht*
+  als vorformatierter Text angezeigt wird.
+
+  Sie können einem einzelnen Listenelement immer mehr Absätze hinzufügen, indem Sie die herkömmliche Leerzeile einfügen und dann die Absätze weiterhin um zwei Leerzeichen einrücken.
+
+Sie müssen eigentlich nur die erste Zeile einrücken, aber das sieht unschön aus.
+
+
+---
+
+
+- Listen unterstützen Blockzitate
+
+> Genau wie in diesem Beispiel hier. Übrigens können Sie
+> Listen innerhalb von Blockzitaten verschachteln!
+  > - Fantastisch!
+
+- Listen unterstützen vorformatierten Text
+
+      Sie müssen lediglich **vier** zusätzliche Leerzeichen einrücken.
+
+
+---
+
+
+# Noch mehr
+
+Horizontale Linie
+- - -
+
+Wenn Sie eine horizontale Linie benötigen, müssen Sie lediglich mindestens drei Bindestriche, Sternchen oder Unterstriche in einer Zeile allein stehen lassen. Sie können sogar Leerzeichen zwischen die Zeichen setzen.
+
+```md
+Horizontale Linie
+- - -
+---
+****************************
+_ _ _ _ _ _
+```
+Alle erzeugen horizontale Linien.
+
+Beachten Sie, dass drei Bindestriche unter einem Text diesen Text in eine Überschrift umwandeln.
+
+Fügen Sie daher ein Leerzeichen ein, wenn Sie Bindestriche verwenden ( - - - ) oder nehmen Sie den Unterstrich ( ___ ) oder lassen Sie eine Leerzeile dazwischen.
+
+
+---
+
+
+## Bilder
+
+Bilder funktionieren genau wie Links, haben jedoch ein Ausrufezeichen vorangestellt. Sie funktionieren auch mit Referenzen und Titeln.
+
+![Google Logo](https://www.google.com/images/errors/logo_sm.gif) and ![Happy]
+
+[Happy]: https://img.icons8.com/color/48/linux--v1.png ("Linux)
+
+[icons8.de](https://icons8.de/icons/set/tux)
+
+icons8-linux-48.png
+
+:blush: ("Smiley face")
+
+
+---
+
+
+## Inline-HTML
+
+Wenn Markdown zu einschränkend ist, können Sie einfach Ihr eigenes <strike>verrücktes</strike> HTML einfügen. 
+
+**3 Varianten für das Durchstreichen:**
+
+```md
+~~durchgestrichen~~ (Markdown)
+
+<s> durchgestrichen </s> (Html)
+
+<strike>durchgestrichen</strike> (auch Html)
+```
+
+**Für dasselbe Ergebnis:**
+
+~~durchgestrichen~~
+
+
+---
+
+
+Span-Level-HTML <u>kann *weiterhin* Markdown verwenden</u>.
+
+```md
+Span-Level-HTML <u>kann *weiterhin* Markdown verwenden</u>. 
+```
+
+
+---
+
+
+Block-Level-Elemente müssen durch eine Leerzeile vom Text getrennt werden und dürfen keine Leerzeichen vor dem öffnenden und schließenden HTML-Tag enthalten.
+
+<div style='font-family: "Comic Sans MS", "Comic Sans", cursive;'>
+
+Es ist schade, aber Markdown funktioniert hier für die meisten Markdown-Parser **nicht**.
+
+**Marked** kommt damit recht gut zurecht.
+</div>
+
+```html
+<div style='font-family: "Comic Sans MS", "Comic Sans", cursive;'>
+
+Es ist schade, aber Markdown funktioniert hier für die meisten Markdown-Parser **nicht**.
+
+**Marked** kommt damit recht gut zurecht.
+</div>
+```
+
+**Markor kann es auch!**  
+Das ist ein Editor für Android.
+
+
+---
+
+
+### Tabellen
+
+**In Markdown werden Tabellen aus Textzeichen quasi "gemalt".**
+
+|  🔆    |    A |   B |   C |
+|---------:|------:|------:|-----:|
+| **1** |    7  | 31 |  33 |
+| **2** |  95  | 17 |    2 |
+| **3** |    5  | 10 |  50 |
+
+- Der Spaltentrenner ist ( | )
+- Unter der oberen Tabellenbeschriftung ist immer mindestens: ( ---|---|--- )
+- Die Ausrichtung der Spalten bestimmt ein Doppelpunkt " : "
+- Links: ( :---|:---|:--- ) oder  ( ---|---|--- )
+- Rechts: ( ---:|---:|---: )
+- Mittig:  ( :---:|:---:|:---: )
+- Gemischt:  ( :---|:---:|---: )
+
+---
+
+
+In reinem Markdown gibt es keinen offiziellen Befehl, um die Spaltenbreite direkt zu setzen. Viele Renderer erlauben aber eingebettetes HTML oder CSS, mit dem sich die Breite steuern lässt.
+
+ 🔆  | <div style="width:60px">A</div> | <div style="width:60px">B</div> | <div style="width:60px">C</div>
+----:|-----:|-----:|-----:
+ **1** |   7 |  31 |  33
+ **2** |  95 |  17 |   2
+ **3** |   5 |  10 |  50
+
+```html
+
+🔆 | <div style="width:60px">A</div> | <div style="width:60px">B</div> | <div style="width:60px">C</div>
+------:|----:|----:|----:
+ **1** |   7 |  31 |  33
+ **2** |  95 |  17 |   2
+ **3** |   5 |  10 |  50
+```
+
+
+---
+
+### Danke!
 
 Fragen?
+
