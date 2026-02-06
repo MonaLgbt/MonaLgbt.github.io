@@ -1,37 +1,32 @@
-/* Reveal.js – zweispaltig (getrennte Blöcke) & linksbündig */
-
-/* Globale Linksbündigkeit */
+/* GLOBAL LEFT ALIGN */
 .reveal .slides section,
 .reveal .slides section h1,
 .reveal .slides section h2,
-.reveal .slides section h3,
-.reveal .slides section h4,
-.reveal .slides section h5,
-.reveal .slides section h6 { text-align: left; }
+.reveal .slides section h3 { text-align: left; }
 
-/* Zweispaltiges Grid pro Folie mit .grid-2 */
+/* ENFORCE GRID + FIX SCALING ISSUES */
 .reveal .slides section.grid-2 {
-  display: grid;
+  display: grid !important;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
   align-items: start;
+  width: 100% !important; /* important scaling fix */
 }
-.reveal .slides section.grid-2 .col { min-width: 0; }
 
-/* Typo-Feinschliff */
-.reveal p, .reveal li { line-height: 1.45; }
+/* column elements */
+.reveal .slides section.grid-2 .col {
+  min-width: 0;
+}
+
+/* code readability */
 .reveal pre code {
   white-space: pre-wrap;
   word-break: break-word;
-  font-size: 0.9em;
 }
 
-/* Tabellen-Optik */
-.reveal table { width: 100%; border-collapse: collapse; }
-.reveal table th, .reveal table td { border-bottom: 1px solid #ddd; padding: .35rem .5rem; }
-.reveal table thead th { border-bottom: 2px solid #bbb; }
-
-/* Responsives Fallback: auf schmalen Screens einspaltig */
-@media (max-width: 720px) {
-  .reveal .slides section.grid-2 { grid-template-columns: 1fr; }
+/* responsive fallback */
+@media(max-width: 1024px) {
+  .reveal .slides section.grid-2 {
+    grid-template-columns: 1fr;
+  }
 }
