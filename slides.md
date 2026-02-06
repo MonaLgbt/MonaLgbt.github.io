@@ -12,7 +12,7 @@ Note: Intro
 
 <div class="col">
 
-![1](assets/writer.jpg)
+<img src="assets/writer.jpg" width="200">
 
 </div>
 
