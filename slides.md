@@ -2,7 +2,7 @@
 
 # Markdown Einführung
 
-**Ziel: Markdown-Grundlagen kompakt & übersichtlich.**
+**Grundlagen kompakt & übersichtlich.**
 
 Note: Intro
 
@@ -12,7 +12,7 @@ Note: Intro
 
 <div class="col">
 
-![1](/storage/emulated/0/Pictures/Wallpapers/md/ghostwriting.jpg)
+![1](assets/writer.jpg)
 
 </div>
 
@@ -77,29 +77,22 @@ Und eine Ansicht für das Ergebnis:
 Markdown-Quelltext:
 
 ```md
-Eine Überschrift auf oberster Ebene
-============================
+# Eine Überschrift auf oberster Ebene
 
-# Dasselbe mit 1 Rautezeichen
-
-Eine Überschrift auf zweiter Ebene
----------------------------------------------------------
-
-## Dasselbe mit 2 Rautezeichen
+## Eine Überschrift auf zweiter Ebene
 
 ### Eine Überschrift auf dritter Ebene
 
-#### Eine Überschrift auf dritter Ebene
+#### Eine Überschrift auf vierter Ebene
 
-##### Eine Überschrift auf vierter Ebene
+##### Eine Überschrift auf fünfter Ebene
 
-###### Bei der sechsten Ebene ist Dchluss
-
+###### Bei der sechsten Ebene ist Schluss
 ```
 
 </div>
 
---
+---
 
 <div class="col">
 
@@ -117,9 +110,11 @@ Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden.
 
 </div>
 
+--
+
 <div class="col">
 
-<!--slide 08 rechts-->
+<!--slide 08-->
 
 Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. 
 
