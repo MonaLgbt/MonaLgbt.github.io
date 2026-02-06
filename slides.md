@@ -1,115 +1,24 @@
-# Markdown
+<!--slide 01-->
 
-**Grundlagen kompakt & übersichtlich**
+# Markdown Einführung
+
+**Grundlagen kompakt & übersichtlich.**
 
 Note: Intro
 
 ---
 
-<!-- .slide: class="left grid-2" -->
+<!--slide 02 links-->
 
 <div class="col">
 
-### Gemächlicher Wanderer
-
-Habt ihr Pluto jedoch einmal im Teleskop gefunden, macht er es euch leicht: Jahr für Jahr werdet ihr ihn um dieselbe Zeit fast am gleichen Ort wiederfinden. Denn Pluto hat eine lange Umlaufzeit: Er braucht über 248 Jahre, um die Sonne einmal zu umrunden.
+<img src="assets/writer.jpg" width="200">
 
 </div>
 
 <div class="col">
-
-Daher ist seine Eigenbewegung am Firmament sehr gering - nicht einmal anderthalb Grad im Jahr (weniger als einen Fingerbreit). In den nächsten Jahren findet ihr ihn im Sternbild Steinbock.
-
-</div>
-
----
-
 
 <!-- .slide: class="left grid-2" -->
-
-<div class="col">
-
-### Eine lange, kleine Oppositionsschleife
-
-Pluto zieht die typische Oppositionsschleife über den Himmel, auch wenn sie - entsprechend seiner geringen Eigenbewegung - sehr klein ist. Dafür dauert sie rund ein halbes Jahr: 
-
-</div>
-
-<div class="col">
-
-Von Oktober bis Mai zieht Pluto ganz normal ostwärts übers Firmament, durchläuft dabei im Januar seine Konjunktion und ist dann für uns nicht zu sehen, da er hinter der Sonne verschwunden ist. Im Mai kehrt er um und läuft für die nächsten fünf Monate "rückläufig" durch die Oppsitionschleife in Richtung Westen.
-
-</div>
-
----
-
-<div class="col">
-
-Der Zeitpunkt seiner Opposition ändert sich dabei kaum: Nur um rund zwei Tage pro Jahr. Die beste Zeit zur Beobachtung ist die nächsten Jahre Ende Juli, Anfang August. Dann erreicht Pluto um Mitternacht (ein Uhr in MESZ) seine höchste Position am südlichen Himmel. In diesen Stunden ist es dann auch im Sommer dunkel genug, um ihn zu finden.
-
-</div>
-
-<div class="col">
-
-### Listen
-
-- Punkt 1
-- Punkt 2
-- Punkt 3
-
-### Zitat
-
-```
-> Zitat
-```
-</div>
-
----
-<!-- .slide: class="left grid-2" -->
-## Medien
-
-<div class="col">
-### Link
-```
-[Beispiel](https://example.com)
-```
-
-### Bild
-```
-![Alt](bild.png)
-```
-</div>
-
-<div class="col">
-### Codeblock
-```js
-console.log('Hi');
-```
-
-</div>
-
-<div class="col">
-
-
-### Tabelle
-```
-| A | B |
-|--|--|
-| 1 | 2 |
-```
-</div>
-
----
-
-### Danke!
-
-Fragen?
-
-
-
-## Markdown-Kurzanleitung
-
-![1](/storage/emulated/0/Pictures/Wallpapers/md/ghostwriting.jpg)
 
 Schreiben Sie gut aussehende Texte.  
 Ohne grosses Textprogramm.  
@@ -118,72 +27,103 @@ Dafür gibt es eine Methode.
 Sie heißt *Markdown*.  
 Sie ist leicht zu lernen.
 
+</div>
 
---
+---
 
-Dieser Kurs bietet einen kurzen Überblick.  
-Zum Beispiel:
+<div class="col">
 
-<div id="content1">
+<!--slide 04 links-->
 
 Es gibt eine Ansicht zum Schreiben:
 
 Ein Kreuz vor einem Wort macht daraus eine Überschrift.
 
 ```md
-# Überschrift
+# 1. Überschrift
+
+## 2. Überschrift
 ```
 Oder ein Minus vor einem Wort macht daraus eine Liste.
 
 ```md
-- Liste Punkt 1
-- Liste Punkt 2
+- Punkt 1
+- Punkt 2
 ```
 
-</div> <!--content1(LINKS)-->
-<div id="content2">
+</div>
+
+<div class="col">
+
+<!-- .slide: class="left grid-2" -->
 
 Und eine Ansicht für das Ergebnis:
 
-### Überschrift
+### 1. Überschrift
 
-- Liste Punkt 1
-- Liste Punkt 2
+#### 2. Überschrift
+
+- Punkt 1
+- Punkt 2
 
 </div>
 
 ---
 
-<div id="content1">
+<div class="col">
+
+<!--slide 06-->
 
 Markdown-Quelltext:
 
 ```md
-Eine Überschrift auf oberster Ebene
-============================
+# Eine Überschrift auf oberster Ebene
 
-# Dasselbe mit 1 Rautezeichen
+## Eine Überschrift auf zweiter Ebene
 
-Eine Überschrift auf zweiter Ebene
----------------------------------------------------------
+### Eine Überschrift auf dritter Ebene
 
-## Dasselbe mit 2 Rautezeichen
+#### Eine Überschrift auf vierter Ebene
+
+##### Eine Überschrift auf fünfter Ebene
+
+###### Bei der sechsten Ebene ist Schluss
 ```
 
+</div>
 
 ---
 
+<div class="col">
+
+<!--slide 07-->
 
 ### Einfache Textformatierung
 
-Das Wichtigste zuerst: Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. **Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. ***Drei zusammen*** für ___beides___.
-
 ```md
-# Einfache Textformatierung
+Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. 
 
-Das Wichtigste zuerst: Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. **Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. ***Drei zusammen*** für ___beides___.
+**Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. 
+
+***Drei zusammen*** für ___beides___.
 ```
 
+</div>
+
+--
+
+<div class="col">
+
+<!--slide 08-->
+
+Sie können *Sternchen* oder _Unterstriche_ für Kursivschrift verwenden. 
+
+**Doppelte Sternchen** und __doppelte Unterstriche__ für Fettschrift. 
+
+***Drei zusammen*** für ___beides___.
+```
+
+</div>
 
 ---
 
