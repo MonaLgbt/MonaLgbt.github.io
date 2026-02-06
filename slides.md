@@ -23,11 +23,12 @@ Note: Intro
 </div>
 
 <div class="col">
+
 ### Listen
-```
-- Punkt
-- Punkt
-```
+
+- Punkt 1
+- Punkt 2
+- Punkt 3
 
 ### Zitat
 ```
