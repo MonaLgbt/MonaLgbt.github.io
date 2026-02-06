@@ -1,24 +1,17 @@
 # Eine kurze Einführung in **Markdown**
 
-Markdown ist eine leichtgewichtige Markupsprache, mit der du schnell **formatierte** Texte schreiben kannst – lesbar als Klartext, renderbar als HTML.
+Ziel: Die wichtigsten Markdown-Bausteine kurz & praxisnah.
 
-**Ziel heute:** Grundlagen verstehen & sofort anwenden.
+> Hinweis: Diese Slides werden aus `slides.md` geladen und mit CSS zweispaltig per **getrennten Blöcken** gelayoutet.
 
-*2009* beschloss der Senat von Illinois, dem Heimatbundesstaat des Pluto-Entdeckers **Clyde Tombaugh**, Pluto weiterhin **als Planeten** zu betrachten.
-
-*2009* beschloss der Senat von Illinois, dem Heimatbundesstaat des Pluto-Entdeckers **Clyde Tombaugh**, Pluto weiterhin **als Planeten** zu betrachten.
-
-*2009* beschloss der Senat von Illinois, dem Heimatbundesstaat des Pluto-Entdeckers **Clyde Tombaugh**, Pluto weiterhin **als Planeten** zu betrachten.
-
-> Tipp: Diese Präsentation ist selbst in Markdown geschrieben.
-
-Note: Begrüßung, Zielsetzung, kurzer Überblick.
-
+Note: Vorstellung, Zielsetzung, Ablauf.
 
 ---
 
-<!-- .slide: class="two-col left" -->
+<!-- .slide: class="left grid-2" -->
 ## Grundsyntax – Überschriften & Text
+
+<div class="col">
 
 ### Überschriften
 ```
@@ -32,10 +25,12 @@ Note: Begrüßung, Zielsetzung, kurzer Überblick.
 **fett**  *kursiv*  ~~durchgestrichen~~  `Code`
 ```
 
-### Absätze & Zeilenumbrüche
-
-Leere Zeile = neuer Absatz.  \
+### Absätze & Zeilenumbruch
+Leere Zeile = neuer Absatz.  \\
 Zwei Leerstellen am Zeilenende = manueller Zeilenumbruch.
+
+</div>
+<div class="col">
 
 ### Listen
 ```
@@ -44,21 +39,6 @@ Zwei Leerstellen am Zeilenende = manueller Zeilenumbruch.
   - Unterpunkt
 1. Erster
 2. Zweiter
-```
-
----
-
-<!-- .slide: class="two-col left" -->
-## Links, Bilder & Zitate
-
-### Links
-```
-[Link-Text](https://beispiel.de)
-```
-
-### Bilder
-```
-![Alt-Text](pfad/zum/bild.png)
 ```
 
 ### Zitate
@@ -71,26 +51,43 @@ Zwei Leerstellen am Zeilenende = manueller Zeilenumbruch.
 ---
 ```
 
-### Inline-Code & Blöcke
-
-```
-`inline`
-
-```js
-console.log('Codeblock mit Sprache');
-```
-```
+</div>
 
 ---
 
-<!-- .slide: class="two-col left" -->
-## Tabellen & Aufgabenlisten
+<!-- .slide: class="left grid-2" -->
+## Links, Bilder & Code
+
+<div class="col">
+
+### Links
+```
+[Link-Text](https://beispiel.de)
+```
+
+### Bilder
+```
+![Alt-Text](pfad/zum/bild.png)
+```
+
+### Inline-Code
+```
+`inline`
+```
+
+</div>
+<div class="col">
+
+### Codeblöcke (mit Sprache)
+```js
+console.log('Hallo Markdown');
+```
 
 ### Tabellen
 ```
-| Spalte A | Spalte B |
-|---------:|:---------|
-| rechts   | links    |
+| A | B |
+|--:|:--|
+| 1 | x |
 ```
 
 ### Aufgabenlisten (GFM)
@@ -99,37 +96,37 @@ console.log('Codeblock mit Sprache');
 - [ ] offen
 ```
 
-### Escaping & Sonderzeichen
-Backslash `\` vor Sonderzeichen nutzen, z. B. `\*` für Stern.
-
-### Emojis (optional)
-Einige Renderer unterstützen :tada: :rocket:
+</div>
 
 ---
 
-## Best Practices
+<!-- .slide: class="left grid-2" -->
+## Praxis-Tipps & Ressourcen
 
-- **Lesbarkeit vor Perfektion**: Klarer, einfacher Markdown schlägt komplexes HTML.
-- **Konsistente Überschriften-Hierarchie** nutzen.
-- **Kurze Zeilen** (z. B. 80–100 Zeichen) erleichtern Diffs.
-- **Alt‑Texte** für Bilder – Barrierefreiheit und SEO.
-- **Sprache im Codeblock** für Syntax‑Highlighting angeben (z. B. ` ```js `).
+<div class="col">
 
-Note: Hinweise zur Teamkonvention, Code Reviews, Dokumentation.
+### Best Practices
+- Lesbarkeit > Komplexität
+- Konsistente Überschriften-Hierarchie
+- Kurze Zeilen (80–100 Zeichen) für bessere Diffs
+- Alt-Texte bei Bildern
+- Sprache im Codeblock angeben (z. B. ```js)
+
+</div>
+<div class="col">
+
+### Ressourcen
+- Daring Fireball: <https://daringfireball.net/projects/markdown/>
+- CommonMark: <https://commonmark.org/>
+- GitHub-Flavored Markdown: <https://github.github.com/gfm/>
+- Reveal.js (Markdown): <https://revealjs.com/markdown/>
+
+</div>
 
 ---
-
-## Nützliche Ressourcen
-
-- Daring Fireball – Original Markdown-Spezifikation: <https://daringfireball.net/projects/markdown/>
-- CommonMark – eine standardisierte Spezifikation: <https://commonmark.org/>
-- GitHub-Flavored Markdown (GFM) Guide: <https://github.github.com/gfm/>
-- Reveal.js Doku (Markdown-Plugin & Folien-Attribute): <https://revealjs.com/markdown/>
-
---
 
 ## Danke!
 
 Fragen?
 
-*(Drücke **S** für Referentennotizen, **Esc** für Überblick)*
+*(S = Referentennotizen, Esc = Überblick)*

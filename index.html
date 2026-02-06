@@ -3,9 +3,9 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Eine kurze Einführung in Markdown – Reveal.js</title>
+    <title>Markdown – Zweispaltig (getrennte Blöcke) · Reveal.js</title>
 
-    <!-- Reveal.js core CSS & Theme from CDN (works on GitHub Pages) -->
+    <!-- Reveal.js core CSS & Theme -->
     <link rel="stylesheet" href="https://unpkg.com/reveal.js@^5/dist/reveal.css" />
     <link rel="stylesheet" href="https://unpkg.com/reveal.js@^5/dist/theme/white.css" id="theme" />
 
@@ -15,7 +15,6 @@
   <body>
     <div class="reveal">
       <div class="slides">
-        <!-- Load slides from Markdown file -->
         <section
           data-markdown="slides.md"
           data-separator="^---$"
@@ -28,21 +27,18 @@
 
     <!-- Reveal.js core JS -->
     <script src="https://unpkg.com/reveal.js@^5/dist/reveal.js"></script>
-    <!-- Plugins: Markdown, Notes, Highlight -->
+    <!-- Plugins -->
     <script src="https://unpkg.com/reveal.js@^5/plugin/markdown/markdown.js"></script>
     <script src="https://unpkg.com/reveal.js@^5/plugin/notes/notes.js"></script>
     <script src="https://unpkg.com/reveal.js@^5/plugin/highlight/highlight.js"></script>
 
     <script>
-      // Initialize Reveal
       Reveal.initialize({
         hash: true,
         slideNumber: 'c/t',
         transition: 'fade',
         plugins: [ RevealMarkdown, RevealNotes, RevealHighlight ],
-        markdown: {
-          smartypants: true
-        }
+        markdown: { smartypants: true }
       });
     </script>
   </body>
