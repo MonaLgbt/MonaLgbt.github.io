@@ -32,6 +32,6 @@
 .reveal table thead th { border-bottom: 2px solid #bbb; }
 
 /* Responsives Fallback: auf schmalen Screens einspaltig */
-@media (max-width: 1024px) {
+@media (max-width: 720px) {
   .reveal .slides section.grid-2 { grid-template-columns: 1fr; }
 }
