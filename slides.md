@@ -24,6 +24,9 @@ Daher ist seine Eigenbewegung am Firmament sehr gering - nicht einmal anderthalb
 
 ---
 
+
+<!-- .slide: class="left grid-2" -->
+
 <div class="col">
 
 ### Eine lange, kleine Oppositionsschleife
