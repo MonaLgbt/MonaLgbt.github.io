@@ -1,5 +1,7 @@
 <!--slide 01-->
 
+<!-- .slide: class="left grid-2" -->
+
 ## Markdown Einführung
 
 **Grundlagen kompakt & übersichtlich.**
@@ -9,6 +11,8 @@ Note: \<!-- .slide: class="left grid-2" --> ist nicht nur Kommentar. Es wird off
 ---
 
 <!--slide 02-->
+
+<!-- .slide: class="left grid-2" -->
 
 <div class="col">
 
@@ -33,6 +37,8 @@ Sie ist leicht zu lernen.
 
 <!--slide 03-->
 
+<!-- .slide: class="left grid-2" -->
+
 <div class="col">
 
 ### Ansicht zum Schreiben:
@@ -53,6 +59,8 @@ Ein Minus vor einem Wort macht daraus eine Liste.
 
 </div>
 
+--
+
 <!-- .slide: class="left grid-2" -->
 
 <div class="col">
@@ -71,6 +79,8 @@ Ein Minus vor einem Wort macht daraus eine Liste.
 ---
 
 <!--slide 04-->
+
+<!-- .slide: class="left grid-2" -->
 
 <div class="col">
 
@@ -95,6 +105,8 @@ Ein Minus vor einem Wort macht daraus eine Liste.
 ---
 
 <!--slide 05-->
+
+<!-- .slide: class="left grid-2" -->
 
 <div class="col">
 
