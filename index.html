@@ -1,34 +1,203 @@
 <!doctype html>
-<html lang='de'>
+<html lang="de">
 <head>
-  <meta charset='utf-8'>
-  <meta name='viewport' content='width=device-width, initial-scale=1'>
-  <title>Markdown – Zweispaltig (Blocklayout) · Reveal.js</title>
-  <link rel='stylesheet' href='https://unpkg.com/reveal.js@^5/dist/reveal.css'>
-  <link rel='stylesheet' href='https://unpkg.com/reveal.js@^5/dist/theme/dracula.css'>
-  <link rel='stylesheet' href='custom.css'>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Markdown – Offline Zwei-Spalten · Reveal.js (file://-sicher)</title>
+  <!-- Lokale Reveal.js-Dateien erwartet unter /revealjs/ -->
+  <link rel="stylesheet" href="revealjs/dist/reveal.css" />
+  <link rel="stylesheet" href="revealjs/dist/theme/dracula.css" id="theme" />
+  <link rel="stylesheet" href="custom.css" />
 </head>
+
 <body>
-<div class='reveal'>
-  <div class='slides'>
-    <section data-markdown='slides.md'
-      data-separator='^---$'
-      data-separator-vertical='^--$'
-      data-separator-notes='^Note:'
-      data-charset='utf-8'></section>
+<div class="reveal">
+  <div class="slides">
+
+    <!-- EIN EINZIGER Inline-Markdown-Block mit Trennern -->
+    <section
+      data-markdown
+      data-separator="---"
+      data-separator-vertical="--"
+      data-separator-notes="^Note:"
+    >
+      <script type="text/template">
+# Gefährdungen im Büro  
+## Überblick für die Gefährdungsbeurteilung
+*Mit <kbd>Pfeil</kbd>-Tasten navigieren.*
+
+---
+
+## Ergonomische Gefährdungen
+
+- Falsche Sitzhaltung  
+- Ungeeignete Tisch- und Stuhlhöhe  
+- Nicht ergonomische Maus/Tastatur  
+- Falsch eingestellter Monitor  
+- Langes Sitzen ohne Bewegung  
+
+--
+### Mögliche Folgen
+
+- Rücken- und Nackenschmerzen  
+- Verspannungen  
+- Sehnenscheidenentzündungen  
+- Kopfschmerzen  
+- Ermüdung
+
+---
+
+## Gefährdungen durch Bildschirmarbeit
+
+- Augenbelastung & Ermüdung  
+- Trockene Augen  
+- Blendung durch falsche Beleuchtung  
+- Kopfschmerzen  
+- Blaulichtbelastung
+
+--
+### Maßnahmen
+
+- 20-20-20-Regel  
+- Blendfreie Beleuchtung  
+- Richtige Monitorhöhe  
+- Regelmäßige kurze Pausen  
+
+---
+
+## Elektrische Gefährdungen
+
+- Defekte Kabel oder Stecker  
+- Überlastete Mehrfachsteckdosen  
+- Stolperfallen durch lose Leitungen  
+- Nicht geprüfte Elektrogeräte (DGUV V3)
+
+--
+### Maßnahmen
+
+- Sichtprüfung vor Nutzung  
+- Kabelmanagement  
+- Nur geprüfte Geräte verwenden
+
+---
+
+## Brand- und Brandschutzrisiken
+
+- Überhitzte Netzteile oder Ladegeräte  
+- Papierstau im Drucker/Kopierer  
+- Zugestellte Fluchtwege  
+- Fehlende Feuerlöscher oder Rauchmelder  
+
+--
+### Maßnahmen
+
+- Geräte nicht abdecken  
+- Ordnung halten  
+- Fluchtwege freihalten  
+- Regelmäßige Brandschutzunterweisung  
+
+---
+
+## Mechanische Gefährdungen
+
+- Stolpern oder Ausrutschen  
+- Loses Kabel oder Teppichkanten  
+- Schnittverletzungen durch Papier  
+- Einklemmgefahr bei Schubladen
+
+---
+
+## Chemische Gefährdungen
+
+- Tonerstaub  
+- Ausdünstungen von Klebern  
+- Reinigungsmittel
+
+---
+
+## Biologische Gefährdungen
+
+- Schimmelbildung  
+- Verkeimte Klimaanlagen  
+- Krankheitsübertragung in Großraumbüros
+
+---
+
+## Raumklima & Umgebungsfaktoren
+
+- Zu trockene Luft  
+- Zugluft  
+- Zu hohe oder zu niedrige Temperaturen  
+- Schlechte Belüftung → Konzentrationsprobleme  
+
+---
+
+## Lärmbelastung im Büro
+
+- Telefone  
+- Gespräche  
+- Drucker/Kopierer  
+- Klimaanlage  
+
+--
+### Auswirkungen
+
+- Konzentrationsstörungen  
+- Stress  
+- Leistungsabfall  
+
+---
+
+## Psychische Belastungen
+
+- Multitasking & ständige Erreichbarkeit  
+- Zeitdruck  
+- Unterbrechungen  
+- Konflikte im Team  
+- Über- oder Unterforderung  
+- Monotone Tätigkeiten  
+
+---
+
+## Organisatorische Gefährdungen
+
+- Fehlende Unterweisungen  
+- Unklare Verantwortlichkeiten  
+- Unaufgeräumte Arbeitsplätze  
+- Unklare Ablagesysteme  
+
+---
+
+## Zusammenfassung
+
+- Ergonomie ist der größte Risikofaktor  
+- Viele Gefährdungen wirken „unscheinbar“  
+- Kleine Maßnahmen → große Wirkung  
+- Ziel: Gesundheit, Sicherheit & Produktivität  
+
+---
+
+# Danke!
+**Ich freue mich auf die Diskussion!**
+
+*Freigegeben unter CC0, Bilder von Unsplash*
+      </script>
+    </section>
+
   </div>
 </div>
-<script src='https://unpkg.com/reveal.js@^5/dist/reveal.js'></script>
-<script src='https://unpkg.com/reveal.js@^5/plugin/markdown/markdown.js'></script>
-<script src='https://unpkg.com/reveal.js@^5/plugin/notes/notes.js'></script>
-<script src='https://unpkg.com/reveal.js@^5/plugin/highlight/highlight.js'></script>
-<script>
-Reveal.initialize({
-  hash: true,
-  slideNumber: 'c/t',
-  transition: 'fade',
-  plugins: [RevealMarkdown, RevealNotes, RevealHighlight]
-});
-</script>
+
+  <script src="revealjs/dist/reveal.js"></script>
+  <script src="revealjs/plugin/markdown/markdown.js"></script>
+  <script src="revealjs/plugin/notes/notes.js"></script>
+  <script src="revealjs/plugin/highlight/highlight.js"></script>
+  <script>
+    Reveal.initialize({
+      hash: true,
+      slideNumber: 'c/t',
+      transition: 'fade',
+      plugins: [ RevealMarkdown, RevealNotes, RevealHighlight ]
+    });
+  </script>
 </body>
 </html>
