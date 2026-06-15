@@ -1,4 +1,5 @@
-Lizenz und Namensnennung
+## Lizenz und Namensnennung
+
 Diese Präsentation ist ausschließlich für private und pädagogische Zwecke bestimmt.  
 Sie stellt kein kommerzielles Angebot dar und wird nicht gewerblich betrieben.
 Dieses Repository basiert auf einem Fork von reveal.js von Hakim El Hattab.  
@@ -8,12 +9,16 @@ Sie sind so weit wie rechtlich möglich gemeinfrei gestellt und dürfen frei ver
 verändert und weitergegeben werden, ohne dass eine Namensnennung erforderlich ist.
 Einige Präsentationsbilder stammen von Unsplash (https://unsplash.com)  
 und dürfen frei verwendet werden.
+
 Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt,  
 die Intelligenz nachahmen. Sie dienen ausschließlich Bildungszwecken.
 Reveal.js Vorlage: Markdown – Einführung
+
 Diese minimalistische Vorlage liefert eine sofort lauffähige Reveal‑Präsentation,  
 deren Inhalte vollständig in Markdown (`slides.md`) gepflegt werden.
-Schnellstart
+
+### Schnellstart
+
 Download entpacken und Ordner öffnen.
 `index.html` im Browser öffnen – fertig.
 > 💡 Die Vorlage lädt reveal.js & Plugins bequem über **CDN**. Für Offline‑Nutzung siehe Abschnitt *Offline verwenden*.
