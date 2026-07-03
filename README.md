@@ -16,4 +16,4 @@ und dürfen gemäß den dortigen Lizenzbedingungen frei verwendet werden.
 Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt,  
 die Intelligenz nachahmen. Sie dienen ausschließlich Bildungszwecken.
 
-pages/Dingsi.md
+[Link](pages/Dingsi.md)
