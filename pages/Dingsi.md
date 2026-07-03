@@ -5,7 +5,7 @@ title: Seite 2
 
 # Seite 2
 
-[Zurück](https://monalgbt.github.io/readme.html)
+[Zurück](https://monalgbt.github.io)
 
 ## Microsoft's Markdown-Dingsi
 
