@@ -1,3 +1,8 @@
+---
+layout: default
+title: Seite 2
+---
+
 ## Microsoft's Markdown-Dingsi
 
 **Microsoft bietet in Ondrive/Sharepoint (fast)  
