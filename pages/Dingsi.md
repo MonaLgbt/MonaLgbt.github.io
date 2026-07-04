@@ -5,7 +5,7 @@ title: Seite 2
 
 # Seite 2
 
-[Zurück](../readme.md)
+[Zurück](./readme.md)
 
 ## Microsoft's Markdown-Dingsi
 
