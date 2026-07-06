@@ -57,7 +57,7 @@ Aber das Meiste geht dennoch:
 
 rechts | links | mittig
 -------|------:|:---:
-101    | 2     | 3
+101    | 2     | 301
 1      | 201   | 3
 
 ---
