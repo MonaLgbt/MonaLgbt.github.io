@@ -1,22 +1,14 @@
----
-layout: default
-title: Seite 2
----
-
-# Seite 2
-
 [Zurück](../README.md)
 
-## Microsoft's Markdown-Dingsi
+# Microsoft's Markdown-Dingsi
 
-**Microsoft bietet in Onedrive/Sharepoint  
-einen (fast) richtigen Markdown-Editor an.**
+**Microsoft bietet in Onedrive/Sharepoint einen (fast) richtigen Markdown-Editor an.**
 
-Fast heißt: Er kann das meiste, was ein solcher können soll.  
-Leider ist der theoretsch durch Html, Css und Javascript  
-unbegrenzte Funktionsumfang unnötigerweise gedeckelt.  
-(Javascript ist in Multiuser-Umgebungen nicht sicher.  
-Aber lokal ist es sehr praktisch.)
+Fast heißt: Er kann das meiste, was ein solcher können soll.
+
+Leider ist der theoretsch durch Html, Css und Javascript unbegrenzte Funktionsumfang unnötigerweise gedeckelt.
+
+Javascript ist in Multiuser-Umgebungen nicht sicher. Aber lokal ist es sehr praktisch.
 
 > **Eingeschränkt heißt nicht:**  
 dass man nicht überall, wo Texteingabe möglich ist,  
