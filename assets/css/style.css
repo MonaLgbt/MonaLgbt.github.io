@@ -1,1 +1,9 @@
+p {
+    text-align: justify;
+    hyphens: auto;
+}
 
+main {
+    max-width: 70ch;
+    margin: auto;
+}
