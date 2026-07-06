@@ -9,7 +9,7 @@ title: Seite 2
 
 ## Microsoft's Markdown-Dingsi
 
-**Microsoft bietet in Ondrive/Sharepoint (fast)  
+**Microsoft bietet in Onedrive/Sharepoint (fast)  
 einen richtigen Markdown-Editor an.**
 
 Fast heißt: Er kann das meiste, was ein solcher können soll.  
@@ -99,14 +99,14 @@ Schreibe **im** Text `print("Goodbye, World!")` sowas.
 ### Kommentare
 
 > Kommentare sind etwas eingerückt  
-und haben links einen senkrechten Strick.  
+und haben links einen senkrechten Strich.  
 >> Für Zitate kann man auch weiter einrücken.
 
 Ein Codeblock zeigt den Quelltext:
 
 ```md
 > Kommentare sind etwas eingerückt  
-und haben links einen senkrechten Strick.  
+und haben links einen senkrechten Strich.  
 >> Für Zitate kann man auch weiter einrücken.
 ```
 
