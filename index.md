@@ -5,8 +5,6 @@ layout: default
 
 # Willkommen
 
-Hier entlang zu /pages/Dingsi.html
-
 ## Lizenz und Namensnennung
 
 Diese Präsentation ist ausschließlich für private und pädagogische Zwecke bestimmt. Sie stellt kein kommerzielles Angebot dar und wird nicht gewerblich betrieben.
@@ -19,4 +17,4 @@ Einzelne Präsentationsbilder wurden von Unsplash (https://unsplash.com) bezogen
 
 Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt, die Intelligenz nachahmen. Sie dienen ausschließlich Bildungszwecken.
 
-[Link](pages/Dingsi.md)
+[Link zu Dingsi.md](pages/Dingsi.md)
