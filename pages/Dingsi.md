@@ -3,7 +3,7 @@ layout: default
 title: Dingsi
 ---
 
-[Zurück](..)
+[Zurück](/)
 
 # Microsoft's Markdown-Dingsi
 
