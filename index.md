@@ -1,6 +1,6 @@
 ---
+title: Test
 layout: default
-title: Startseite
 ---
 
 # Willkommen
