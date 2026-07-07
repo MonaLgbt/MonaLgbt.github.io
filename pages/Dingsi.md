@@ -3,7 +3,7 @@ layout: default
 title: Dingsi
 ---
 
-[Zurück](../README.md)
+[Zurück](../imdex.md)
 
 {{ '/' | relative_url }}
 
