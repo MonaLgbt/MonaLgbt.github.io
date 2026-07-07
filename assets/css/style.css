@@ -1,11 +1,8 @@
 body {
-    text-align: justify;
-    hyphens: auto;
-}
-
-main {
     max-width: 70ch;
     margin: auto;
+    text-align: justify;
+    hyphens: auto;
 }
 
 h1 {
