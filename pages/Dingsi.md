@@ -7,6 +7,8 @@ title: Dingsi
 
 {{ '/' | relative_url }}
 
+[Google](https://www.google.de)
+
 # Microsoft's Markdown-Dingsi
 
 **Microsoft bietet in Onedrive/Sharepoint einen (fast) richtigen Markdown-Editor an.**
