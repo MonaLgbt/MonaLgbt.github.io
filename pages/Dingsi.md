@@ -3,11 +3,7 @@ layout: default
 title: Dingsi
 ---
 
-# Dingsi
-
-/
-
-[Zurück](../README.md)
+[Zurück](../)
 
 # Microsoft's Markdown-Dingsi
 
