@@ -7,3 +7,7 @@ main {
     max-width: 70ch;
     margin: auto;
 }
+
+h1 {
+    color: red !important;
+}
