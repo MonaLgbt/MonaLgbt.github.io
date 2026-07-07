@@ -5,6 +5,8 @@ title: Dingsi
 
 [Zurück](../README.md)
 
+{{ '/' | relative_url }}
+
 # Microsoft's Markdown-Dingsi
 
 **Microsoft bietet in Onedrive/Sharepoint einen (fast) richtigen Markdown-Editor an.**
