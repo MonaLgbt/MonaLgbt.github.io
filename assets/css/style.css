@@ -7,6 +7,12 @@ body {
     line-height: 1.5;
 }
 
+@media (max-width: 600px) {
+    body {
+        max-width: none;
+    }
+}
+
 h1 {
     color: red !important;
 }
