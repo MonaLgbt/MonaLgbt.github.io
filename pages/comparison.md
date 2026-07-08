@@ -1,5 +1,5 @@
 ---
-title: Test 6
+title: Test 7
 layout: default
 ---
 
@@ -9,7 +9,7 @@ layout: default
 
 Windows Notepad vs. OneDrive-Editor
 
-| <div style="width:200px"> Funktion </div> | <div style="width:200px"> Notepad </div> | <div style="width:200px"> OneDrive-Editor </div> |
+| <div style="width:200px"> Funktion </div> | Notepad &nbsp; &nbsp;| OneDrive-Editor &nbsp; &nbsp; |
 |-----------|----------|----------|
 | Markdown-Dateien öffnen | ✅ | ⚠️ Als Text |
 | Markdown-Vorschau | ✅ Eingeschränkt | ❌ |
