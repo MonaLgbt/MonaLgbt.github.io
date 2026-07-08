@@ -1,4 +1,11 @@
-# Markdown-Vergleich: 
+---
+title: Test 4
+layout: default
+---
+
+[Zurück zu index.md](../index.md)
+
+# Vergleich der Windows-Editoren
 
 Windows Notepad vs. OneDrive-Editor (Word für Web) vs. VS Code vs. Obsidian
 
