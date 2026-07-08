@@ -18,13 +18,13 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
 | Aufzählungen | ✅ | ✅ |
 | Nummerierte Listen | ✅ | ✅ |
 | Verschachtelte Listen | ✅ | ✅ |
-| Links | ✅ | ✅ |
+| Links ([Text](link)) | ✅ | ✅ |
 | Blockzitate (`> Text`) | ❌ | ✅ |
 | Tabellen | ❌ | ✅ |
 | Codeblöcke (```` ``` ````) | ❌ | ✅ |
 | Inline-Code (`` `Code` ``) | ❌ | ✅ |
 | Checklisten (`- [x]`) | ❌ | ✅ |
-| Bilder | ❌ | ✅ |
+| Bilder (![Text](link)) | ❌ | ✅ |
 | Horizontale Linien (`---`) | ❌ | ✅ |
 | Fußnoten (Text[^1]) | ❌ ? | ✅ ? |
 | GitHub-Flavored Markdown | ❌ | ✅ Größtenteils |
