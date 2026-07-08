@@ -21,4 +21,4 @@ Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt, die Intellige
 
 [Link zu Examples.md](pages/Examples.md)
 
-[Link zu Vergleich.md](pages/Vergleich.md)
+[Link zu comparison.md](pages/comparison.md)
