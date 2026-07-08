@@ -23,9 +23,10 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
 | Tabellen | ❌ | ✅ |
 | Codeblöcke (```` ``` ````) | ❌ | ✅ |
 | Inline-Code (`` `Code` ``) | ❌ | ✅ |
-| Checklisten (`- [ ]`) | ❌ | ✅ |
+| Checklisten (`- [x]`) | ❌ | ✅ |
 | Bilder | ❌ | ✅ |
 | Horizontale Linien (`---`) | ❌ | ✅ |
+| Fußnoten (Text[^1]) | ❌ ? | ✅ ? |
 | GitHub-Flavored Markdown | ❌ | ✅ Größtenteils |
 | Markdown-Quelltext anzeigen | ✅ | ✅ |
 | Gerenderte Vorschau | ✅ Einfach | ✅ Deutlich umfangreicher |
