@@ -10,7 +10,7 @@ layout: default
 Windows Notepad vs. M365 Markdown-Editor  
 (OneDrive/SharePoint)
 
-| Funktion | Notepad &emsp;&emsp;&emsp; | M365-Dingsi |
+| Funktion | Notepad &emsp;&emsp; | M365-Dingsi |
 |-----------|----------|----------|
 | Überschriften (`#`) | ✅ | ✅ |
 | Fett (`**Text**`) | ✅ | ✅ |
@@ -30,7 +30,7 @@ Windows Notepad vs. M365 Markdown-Editor
 | Fußnoten (Text[^1]) | ❌ ? | ✅ ? |
 | GitHub-Flavored Markdown | ❌ | ✅ Größtenteils |
 | Markdown-Quelltext anzeigen | ✅ | ✅ |
-| Gerenderte Vorschau | ✅ Einfach | ✅ Deutlich umfangreicher |
+| Gerenderte Vorschau | ✅ einfach | ✅ umfangreicher |
 
 ## Kurzfassung
 
