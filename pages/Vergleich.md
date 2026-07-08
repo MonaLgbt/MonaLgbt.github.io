@@ -7,9 +7,9 @@ layout: default
 
 # Vergleich der Windows-Editoren
 
-Windows Notepad vs. OneDrive-Editor (Word für Web)
+Windows Notepad vs. OneDrive-Editor
 
-| <div style="width:200px"> Funktion </div> | <div style="width:200px"> Notepad </div> | <div style="width:200px">OneDrive-Editor (Word für Web) </div> |
+| <div style="width:200px"> Funktion </div> | <div style="width:200px"> Notepad </div> | <div style="width:200px"> OneDrive-Editor </div> |
 |-----------|----------|----------|
 | Markdown-Dateien öffnen | ✅ | ⚠️ Als Text |
 | Markdown-Vorschau | ✅ Eingeschränkt | ❌ |
