@@ -20,3 +20,5 @@ Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt, die Intellige
 [Link zu Dingsi.md](pages/Dingsi.md)
 
 [Link zu Examples.md](pages/Examples.md)
+
+[Link zu Vergleich.md](pages/Vergleich.md)
