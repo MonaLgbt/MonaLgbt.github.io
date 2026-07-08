@@ -18,4 +18,4 @@ In Word werden gerne selten genutzte Funktionen versteckt, um nicht zu verwirren
 
 Das Dingsi hat noch nichtmal einen richtigen Namen. Notepad hat zwar einen Namen und kann auch Markdown, aber es ist leider sogar noch mehr kastriert.
 
-[weiter](pages/Examples.md)
+[weiter](Examples.md)
