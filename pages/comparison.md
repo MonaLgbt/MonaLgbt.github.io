@@ -7,10 +7,9 @@ layout: default
 
 # Vergleich der Windows-Editoren
 
-Windows Notepad vs. M365 Markdown-Editor  
-(OneDrive/SharePoint)
+Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
 
-| Funktion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Notepad &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | M365 Markdown-Editor |
+| Funktion | Notepad | M365 Markdown-Editor |
 |-----------|----------|----------|
 | Überschriften (`#`) | ✅ | ✅ |
 | Fett (`**Text**`) | ✅ | ✅ |
