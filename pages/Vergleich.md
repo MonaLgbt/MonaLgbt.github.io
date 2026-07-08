@@ -7,7 +7,7 @@ layout: default
 
 # Vergleich der Windows-Editoren
 
-Windows Notepad vs. OneDrive-Editor (Word für Web) vs. VS Code vs. Obsidian
+Windows Notepad vs. OneDrive-Editor (Word für Web)
 
 | <div style="width:200px"> Funktion </div> | <div style="width:200px"> Notepad </div> | <div style="width:200px">OneDrive-Editor (Word für Web) </div> |
 |-----------|----------|-------------------------------|
