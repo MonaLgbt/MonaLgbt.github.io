@@ -9,7 +9,7 @@ layout: default
 
 Windows Notepad vs. OneDrive-Editor
 
-| Funktion &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Notepad &emsp;&emsp;&emsp; | OneDrive-Editor &emsp;&emsp;&emsp; |
+| Funktion &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Notepad &emsp;&emsp;&emsp; | OneDrive-Editor &emsp;&emsp;&emsp; |
 |-----------|----------|----------|
 | Markdown-Dateien öffnen | ✅ | ✅ |
 | Markdown-Vorschau | ✅ Eingeschränkt | ❌ |
