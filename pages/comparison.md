@@ -11,14 +11,14 @@ Windows Notepad vs. OneDrive-Editor
 
 | Funktion &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | Notepad &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | OneDrive-Editor &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; |
 |-----------|----------|----------|
-| Markdown-Dateien öffnen | ✅ | ⚠️ Als Text |
+| Markdown-Dateien öffnen | ✅ | ✅ |
 | Markdown-Vorschau | ✅ Eingeschränkt | ❌ |
 | Überschriften (`#`) | ✅ | ❌ |
 | Fett (`**Text**`) | ✅ | ❌ |
 | Kursiv (`*Text*`) | ✅ | ❌ |
 | Durchgestrichen (`~~Text~~`) | ✅ | ❌ |
-| Aufzählungen | ✅ | ✅ (kein Markdown) |
-| Nummerierte Listen | ✅ | ✅ (kein Markdown) |
+| Aufzählungen | ✅ | ✅ |
+| Nummerierte Listen | ✅ | ✅ |
 | Verschachtelte Listen | ✅ | ✅ |
 | Links (`[Text](URL)`) | ✅ | ✅ |
 | Bilder (`![Alt](Bild.png)`) | ❌ | ✅ |
