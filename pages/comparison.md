@@ -1,5 +1,5 @@
 ---
-title: Test 4
+title: Test 11
 layout: default
 ---
 
@@ -7,44 +7,61 @@ layout: default
 
 # Vergleich der Windows-Editoren
 
-Windows Notepad vs. OneDrive-Editor
+Windows Notepad vs. M365 Markdown-Editor  
+(OneDrive/SharePoint)
 
-| Funktion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Notepad &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | OneDrive-Editor &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Funktion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Notepad | M365 Markdown-Editor |
 |-----------|----------|----------|
-| Markdown-Dateien öffnen | ✅ | ✅ |
-| Markdown-Vorschau | ✅ Eingeschränkt | ❌ |
-| Überschriften (`#`) | ✅ | ❌ |
-| Fett (`**Text**`) | ✅ | ❌ |
-| Kursiv (`*Text*`) | ✅ | ❌ |
-| Durchgestrichen (`~~Text~~`) | ✅ | ❌ |
+| Überschriften (`#`) | ✅ | ✅ |
+| Fett (`**Text**`) | ✅ | ✅ |
+| Kursiv (`*Text*`) | ✅ | ✅ |
+| Durchgestrichen (`~~Text~~`) | ✅ | ✅ |
 | Aufzählungen | ✅ | ✅ |
 | Nummerierte Listen | ✅ | ✅ |
 | Verschachtelte Listen | ✅ | ✅ |
-| Links (`[Text](URL)`) | ✅ | ✅ |
-| Bilder (`![Alt](Bild.png)`) | ❌ | ✅ |
-| Tabellen | ❌ | ❌ |
-| Inline-Code (`` `Code` ``) | ❌ | ❌ |
-| Codeblöcke | ❌ | ❌ |
-| Blockzitate (`> Text`) | ❌ | ❌ |
-| Checklisten (`- [ ]`) | ❌ | ❌ |
-| Fußnoten | ❌ | ❌ |
-| HTML in Markdown | ❌ | ❌ |
-| Mermaid-Diagramme | ❌ | ❌ |
-| GitHub-Flavored Markdown | ❌ | ❌ |
-| WYSIWYG-Bearbeitung | ✅ Teilweise | ✅ Vollständig |
+| Links | ✅ | ✅ |
+| Blockzitate (`> Text`) | ❌ | ✅ |
+| Tabellen | ❌ | ✅ |
+| Codeblöcke (```` ``` ````) | ❌ | ✅ |
+| Inline-Code (`` `Code` ``) | ❌ | ✅ |
+| Checklisten (`- [ ]`) | ❌ | ✅ |
+| Bilder | ❌ | ✅ |
+| Horizontale Linien (`---`) | ❌ | ✅ |
+| GitHub-Flavored Markdown | ❌ | ✅ Größtenteils |
+| Markdown-Quelltext anzeigen | ✅ | ✅ |
+| Gerenderte Vorschau | ✅ Einfach | ✅ Deutlich umfangreicher |
 
-## Fazit
+## Kurzfassung
 
 ### Notepad
+Kann im Wesentlichen nur:
 
-- Gut für einfache Markdown-Notizen.
-- Unterstützt nur Basisfunktionen.
-- Keine Tabellen, Codeblöcke, Checklisten oder Bilder.
+- Überschriften
+- Fett
+- Kursiv
+- Durchgestrichen
+- Listen
+- Links
 
-### OneDrive-Editor (Word für Web)
+Alles darüber hinaus (Tabellen, Codeblöcke, Checklisten, Bilder usw.) wird meist als normaler Text angezeigt.
 
-- Kein echter Markdown-Editor.
-- Markdown wird nicht gerendert.
-- Eignet sich für DOCX-Dokumente
+### M365 Markdown-Editor (OneDrive/SharePoint)
+
+Kann zusätzlich:
+
+- Tabellen
+- Codeblöcke
+- Inline-Code
+- Blockzitate
+- Checklisten
+- Bilder
+- Trennlinien
+- große Teile von GitHub-Flavored Markdown
+
+## Merksatz
+
+Der **Notepad-Markdown-Support** ist eher ein Rich-Text-Formatierer mit Markdown-Syntax.
+
+Der **M365 Markdown-Editor** ist dagegen ein echter Markdown-Viewer/-Editor für Dokumentation und README-Dateien.
 
 
