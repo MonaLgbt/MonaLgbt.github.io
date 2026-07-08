@@ -10,7 +10,7 @@ layout: default
 Windows Notepad vs. M365 Markdown-Editor  
 (OneDrive/SharePoint)
 
-| Funktion | Notepad | M365 Markdown-Editor |
+| Funktion | Notepad &emsp;&emsp;&emsp; | M365 Markdown-Editor |
 |-----------|----------|----------|
 | Überschriften (`#`) | ✅ | ✅ |
 | Fett (`**Text**`) | ✅ | ✅ |
@@ -21,7 +21,7 @@ Windows Notepad vs. M365 Markdown-Editor
 | Verschachtelte Listen | ✅ | ✅ |
 | Links (`[Text](link)`) | ✅ | ✅ |
 | Blockzitate (`> Text`) | ❌ | ✅ |
-| Tabellen | ❌ | ✅ |
+| Tabellen (`|:---:|`) | ❌ | ✅ |
 | Codeblöcke (```` ``` ````) | ❌ | ✅ |
 | Inline-Code (`` `Code` ``) | ❌ | ✅ |
 | Checklisten (`- [x]`) | ❌ | ✅ |
