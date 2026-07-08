@@ -63,6 +63,6 @@ Kann zusätzlich:
 
 Der **Notepad-Markdown-Support** ist eher ein Rich-Text-Formatierer mit Markdown-Syntax.
 
-Der **M365 Markdown-Editor** ist dagegen ein echter Markdown-Viewer/-Editor für Dokumentation und README-Dateien.
+Der **M365 Markdown-Editor** ist dagegen ein echter Markdown-Viewer/-Editor für Dokumentation und README-Dateien. Allerdings ohne die Möglichkeit mit Html, Css ubd JavaScript zu erweitern.
 
 
