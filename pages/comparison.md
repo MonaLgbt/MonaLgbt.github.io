@@ -27,8 +27,8 @@ Windows Notepad vs. M365 Markdown-Editor
 | Checklisten (`- [x]`) | ❌ | ✅ |
 | Bilder (`![Text](link)`) | ❌ | ✅ |
 | Horizontale Linien (`---`) | ❌ | ✅ |
-| Fußnoten (Text[^1]) | ❌ ? | ✅ ? |
-| GitHub-Flavored Markdown | ❌ | ✅ Größtenteils |
+| Fußnoten (Text[^1]) | ❌ | ✅ ? |
+| GitHub-Flavored Markdown | ❌ | ✅ größtenteils |
 | Markdown-Quelltext anzeigen | ✅ | ✅ |
 | Gerenderte Vorschau | ✅ einfach | ✅ umfangreicher |
 
