@@ -25,10 +25,19 @@ Aber das Meiste geht dennoch:
 
 ### Tabellen mit Ausrichtung
 
-rechts | links | mittig
--------|------:|:---:
-101    | 2     | 301
-1      | 201   | 3
+links  | rechts | mittig
+-------|-------:|:---:
+101    | 2      | 301
+1      | 201    | 3
+
+Codeblocks zeigen den Quelltext:
+
+```md
+links  | rechts | mittig
+-------|-------:|:---:
+101    | 2      | 301
+1      | 201    | 3
+```
 
 ---
 
