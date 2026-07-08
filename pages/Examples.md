@@ -7,9 +7,9 @@ layout: default
 
 # Beispiele für Markdown-Funktionen
 
-Zum Beispiel:
+Das Dingsi unterstützt zum Beispiel nicht:
 
-### Fußnoten werden nicht unterstützt
+### Fußnoten
 
 ```markdown
 Text[^1]
