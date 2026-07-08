@@ -17,3 +17,5 @@ Fast heißt: Er kann das meiste, was ein solcher können soll. Leider ist der th
 In Word werden gerne selten genutzte Funktionen versteckt, um nicht zu verwirren. Im Dingsi hat man sogar alles was über Standard-Markdown hinausgeht ganz weg gelassen. Anfänger stört das nicht, weil sie davon nichts wissen. Aber Fortgeschrittene vermissen es.
 
 Das Dingsi hat noch nichtmal einen richtigen Namen. Notepad hat zwar einen Namen und kann auch Markdown, aber es ist leider sogar noch mehr kastriert.
+
+[weiter](pages/Examples.md)
