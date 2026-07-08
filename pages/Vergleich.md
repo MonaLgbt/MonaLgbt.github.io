@@ -22,16 +22,16 @@ Windows Notepad vs. OneDrive-Editor (Word für Web) vs. VS Code vs. Obsidian
 | Verschachtelte Listen | ✅ | ✅ |
 | Links (`[Text](URL)`) | ✅ | ✅ |
 | Bilder (`![Alt](Bild.png)`) | ❌ | ✅ |
-| Tabellen | ❌ | ❌ | ✅ | ✅ |
-| Inline-Code (`` `Code` ``) | ❌ | ❌ | ✅ | ✅ |
-| Codeblöcke | ❌ | ❌ | ✅ | ✅ |
-| Blockzitate (`> Text`) | ❌ | ❌ | ✅ | ✅ |
-| Checklisten (`- [ ]`) | ❌ | ❌ | ✅ | ✅ |
-| Fußnoten | ❌ | ❌ | ✅ | ✅ |
-| HTML in Markdown | ❌ | ❌ | ✅ | ✅ |
-| Mermaid-Diagramme | ❌ | ❌ | ⚠️ Erweiterung | ✅ |
-| GitHub-Flavored Markdown | ❌ | ❌ | ✅ | ✅ |
-| WYSIWYG-Bearbeitung | ✅ Teilweise | ✅ Vollständig | ⚠️ Erweiterung | ✅ Optional |
+| Tabellen | ❌ | ❌ |
+| Inline-Code (`` `Code` ``) | ❌ | ❌ |
+| Codeblöcke | ❌ | ❌ |
+| Blockzitate (`> Text`) | ❌ | ❌ |
+| Checklisten (`- [ ]`) | ❌ | ❌ |
+| Fußnoten | ❌ | ❌ |
+| HTML in Markdown | ❌ | ❌ |
+| Mermaid-Diagramme | ❌ | ❌ |
+| GitHub-Flavored Markdown | ❌ | ❌ |
+| WYSIWYG-Bearbeitung | ✅ Teilweise | ✅ Vollständig |
 
 ## Fazit
 
