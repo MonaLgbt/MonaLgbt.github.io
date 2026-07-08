@@ -10,7 +10,7 @@ layout: default
 Windows Notepad vs. OneDrive-Editor (Word für Web) vs. VS Code vs. Obsidian
 
 | <div style="width:200px"> Funktion </div> | <div style="width:200px"> Notepad </div> | <div style="width:200px">OneDrive-Editor (Word für Web) </div> |
-|-----------|----------|-------------------------------|
+|-----------|----------|-------------------------------|---|---|
 | Markdown-Dateien öffnen | ✅ | ⚠️ Als Text |
 | Markdown-Vorschau | ✅ Eingeschränkt | ❌ |
 | Überschriften (`#`) | ✅ | ❌ |
