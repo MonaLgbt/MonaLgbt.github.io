@@ -7,7 +7,7 @@ layout: default
 
 # Frage an Copilot
 
-> **Wie stellt sich Microsoft die Ausgabe von Narkdown als PDF oder auf Papier vor?**
+> **Wie stellt sich Microsoft die Ausgabe von Markdown als PDF oder auf Papier vor?**
 
 ### Kurz gesagt:
 
@@ -58,7 +58,8 @@ Deshalb wird für druckreife Dokumente typischerweise ein weiterer Schritt benö
 - HTML + Browser-Druckfunktion
 - Microsoft-Ökosystem heute
 
-Interessanterweise gibt es in Microsoft 365 bislang keinen einheitlichen „Markdown → PDF“-Standardworkflow, wie man ihn etwa von Pandoc kennt.
+!!! info 'Infobox'
+**Interessanterweise gibt es in Microsoft 365 bislang keinen einheitlichen „Markdown → PDF“-Standardworkflow, wie man ihn etwa von Pandoc kennt.**
 
 Microsoft investiert aktuell deutlich stärker in:
 
