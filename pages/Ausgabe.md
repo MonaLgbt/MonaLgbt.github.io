@@ -13,12 +13,12 @@ layout: default
 
 **Microsoft betrachtet Markdown primär als Austausch-, Struktur- und KI-Format – nicht als fertiges Drucklayoutformat.**
 
-> **Ja gut, Microsoft's Interessen sind nicht unbedingt die der Anwender.**
-
 **Das sieht man an mehreren Stellen:**
 
 - Microsofts MarkItDown konvertiert Office-Dokumente, PDFs usw. nach Markdown, damit Inhalte von LLMs und Analysewerkzeugen verarbeitet werden können. Microsoft schreibt ausdrücklich, dass die Ausgabe zwar oft gut lesbar ist, aber nicht für eine hochpräzise Dokumentdarstellung für Menschen gedacht ist.
 - Azure Document Intelligence und Content Understanding liefern Markdown-Ausgaben, um die semantische Struktur (Überschriften, Tabellen, Listen, Bilder usw.) zu erhalten. Ziel sind Weiterverarbeitung, Suche, Automatisierung und KI-Szenarien.
+
+> **Ja gut, Microsoft's Interessen sind nicht unbedingt die der Anwender.**
 
 ### Was bedeutet das für PDF und Papier?
 
