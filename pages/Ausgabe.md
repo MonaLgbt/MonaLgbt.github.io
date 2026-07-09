@@ -7,7 +7,6 @@ layout: default
 
 # Frage an Copilot
 
-> [!NOTE]
 > **Wie stellt sich Microsoft die Ausgabe von Markdown als PDF oder auf Papier vor?**
 
 ### Kurz gesagt:
@@ -19,7 +18,7 @@ layout: default
 - Microsofts MarkItDown konvertiert Office-Dokumente, PDFs usw. nach Markdown, damit Inhalte von LLMs und Analysewerkzeugen verarbeitet werden können. Microsoft schreibt ausdrücklich, dass die Ausgabe zwar oft gut lesbar ist, aber nicht für eine hochpräzise Dokumentdarstellung für Menschen gedacht ist.
 - Azure Document Intelligence und Content Understanding liefern Markdown-Ausgaben, um die semantische Struktur (Überschriften, Tabellen, Listen, Bilder usw.) zu erhalten. Ziel sind Weiterverarbeitung, Suche, Automatisierung und KI-Szenarien.
 
-> **Ja gut, Microsoft's Interessen sind nicht unbedingt die der Anwender.**
+> **⚠️ Ja gut, Microsoft's Interessen sind nicht unbedingt die der Anwender.**
 
 ### Was bedeutet das für PDF und Papier?
 
@@ -61,8 +60,7 @@ Deshalb wird für druckreife Dokumente typischerweise ein weiterer Schritt benö
 - HTML + Browser-Druckfunktion
 - Microsoft-Ökosystem heute
 
-> [!NOTE]
-> **Interessanterweise gibt es in Microsoft 365 bislang keinen einheitlichen „Markdown → PDF“-Standardworkflow, wie man ihn etwa von Pandoc kennt.**
+> **⚠️ Interessanterweise gibt es in Microsoft 365 bislang keinen einheitlichen „Markdown → PDF“-Standardworkflow, wie man ihn etwa von Pandoc kennt.**
 
 Microsoft investiert aktuell deutlich stärker in:
 
