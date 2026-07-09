@@ -1,3 +1,10 @@
+---
+title: Test 2
+layout: default
+---
+
+[Zurück zu index.md](../index.md)
+
 > **Wie stellt sich Microsoft die Ausgabe von Narkdown als PDF oder auf Papier vor?**
 
 Kurz gesagt: Microsoft betrachtet Markdown primär als Austausch-, Struktur- und KI-Format – nicht als fertiges Drucklayoutformat.
