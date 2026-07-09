@@ -60,8 +60,8 @@ Deshalb wird für druckreife Dokumente typischerweise ein weiterer Schritt benö
 - HTML + Browser-Druckfunktion
 - Microsoft-Ökosystem heute
 
-!!! info 'Infobox'
-**Interessanterweise gibt es in Microsoft 365 bislang keinen einheitlichen „Markdown → PDF“-Standardworkflow, wie man ihn etwa von Pandoc kennt.**
+> [!NOTE]
+> **Interessanterweise gibt es in Microsoft 365 bislang keinen einheitlichen „Markdown → PDF“-Standardworkflow, wie man ihn etwa von Pandoc kennt.**
 
 Microsoft investiert aktuell deutlich stärker in:
 
