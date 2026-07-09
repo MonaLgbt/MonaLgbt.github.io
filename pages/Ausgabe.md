@@ -11,7 +11,9 @@ layout: default
 
 ### Kurz gesagt:
 
-Microsoft betrachtet Markdown primär als Austausch-, Struktur- und KI-Format – nicht als fertiges Drucklayoutformat.
+**Microsoft betrachtet Markdown primär als Austausch-, Struktur- und KI-Format – nicht als fertiges Drucklayoutformat.**
+
+> **Ja gut, Microsoft's Interessen sind nicht unbedingt die der Anwender.**
 
 **Das sieht man an mehreren Stellen:**
 
