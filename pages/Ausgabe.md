@@ -7,7 +7,7 @@ layout: default
 
 # Frage an Copilot
 
-> **Wie stellt sich Microsoft die Ausgabe von Markdown als PDF oder auf Papier vor?**
+> **❓ Wie stellt sich Microsoft die Ausgabe von Markdown als PDF oder auf Papier vor?**
 
 ### Kurz gesagt:
 
