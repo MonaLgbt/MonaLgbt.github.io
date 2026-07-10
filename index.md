@@ -24,3 +24,13 @@ Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt, die Intellige
 [Link zu comparison.md](pages/comparison.md)
 
 [Link zu Ausgabe.md](pages/Ausgabe.md)
+
+
+---
+
+### Python
+
+```python
+for i in range(10):
+    print(i)
+```
