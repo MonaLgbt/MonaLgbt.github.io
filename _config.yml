@@ -1,7 +1,11 @@
 theme: minima
 lang: de
 title: Meine Seite
-markdown: kramdown
 
+# Conversion
+markdown: kramdown
+highlighter: rouge
 kramdown:
+  input: GFM
+  hard_wrap: false
   syntax_highlighter: rouge
