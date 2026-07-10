@@ -88,4 +88,11 @@ und haben links einen senkrechten Strich.
 >> Für Zitate kann man auch weiter einrücken.
 ```
 
+### Python
+
+```python
+for i in range(10):
+    print(i)
+```
+
 [weiter](comparison.md)
