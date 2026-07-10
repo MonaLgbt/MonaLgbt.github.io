@@ -1,3 +1,5 @@
 theme: minima
 lang: de
 title: Meine Seite
+markdown: kramdown
+highlighter: rouge
