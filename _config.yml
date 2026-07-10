@@ -2,4 +2,6 @@ theme: minima
 lang: de
 title: Meine Seite
 markdown: kramdown
-highlighter: rouge
+
+kramdown:
+  syntax_highlighter: rouge
