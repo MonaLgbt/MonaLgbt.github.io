@@ -3,7 +3,30 @@
 
 @import "minima";
 
+body {
+    max-width: 60ch;
+    margin: auto;
+    padding: 1rem;
+    text-align: justify;
+    hyphens: auto;
+    line-height: 1.5;
+    font-family: Cantarell;
+    font-size: 26px;
+}
+
+@media (max-width: 600px) {
+    body {
+        max-width: none;
+    }
+}
+
+@import "minima";
+
 .highlight {
-  background: #f6f8fa;
-  color: red;
+    background: #f6f8fa;
+    color: red;
+}
+
+h1 {
+    color: red !important;
 }
