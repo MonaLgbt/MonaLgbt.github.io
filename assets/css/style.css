@@ -18,7 +18,8 @@ body {
 @import "minima";
 
 .highlight {
-  background: #f6f8fa;
+    background: #f6f8fa;
+    color: blue;
 }
 
 h1 {
