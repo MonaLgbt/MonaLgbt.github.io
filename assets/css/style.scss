@@ -3,6 +3,10 @@
 
 @import "minima";
 
+.page-content .wrapper {
+    max-width: 60ch;
+}
+
 body {
     text-align: justify;
     hyphens: auto;
