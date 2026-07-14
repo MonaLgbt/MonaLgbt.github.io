@@ -57,7 +57,7 @@ print("Goodbye, World!")
 '''
 ```
 
-```
+---
 
 **Für dieses Beispiel:**  
 Damit die Klammer sich nicht schließt  
