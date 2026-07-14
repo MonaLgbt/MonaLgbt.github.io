@@ -65,9 +65,9 @@ for i in range(10):
 Damit die Klammer sich nicht schließt  
 stehen innen z.B. Hochkommas statt Backticks.
 
-<br>
+---
 
-## Codeblocks hier im Wili
+## Codeblocks hier im Wiki
 
 ```python
 for i in range(10):
