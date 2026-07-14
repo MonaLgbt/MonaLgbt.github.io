@@ -25,6 +25,11 @@ body {
     }
 }
 
+html {
+    display: flex;
+    justify-content: center;
+}
+
 @import "minima";
 
 .highlight {
