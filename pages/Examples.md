@@ -57,6 +57,12 @@ print("Goodbye, World!")
 '''
 ```
 
+```
+
+**Für dieses Beispiel:**  
+Damit die Klammer sich nicht schließt  
+stehen innen z.B. Hochkommas statt Backticks.
+
 ---
 
 **Python innerhalb dieses Wikis hat Unterstützung für Highlighting:**
@@ -65,12 +71,6 @@ print("Goodbye, World!")
 for i in range(10):
     print(i)
 ```
-
-```
-
-**Für dieses Beispiel:**  
-Damit die Klammer sich nicht schließt  
-stehen innen z.B. Hochkommas statt Backticks.
 
 ---
 
