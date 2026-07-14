@@ -25,12 +25,3 @@ Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt, die Intellige
 
 [Link zu Ausgabe.md](pages/Ausgabe.md)
 
-
----
-
-### Python
-
-```python
-for i in range(10):
-    print(i)
-```
