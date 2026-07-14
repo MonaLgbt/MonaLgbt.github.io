@@ -57,6 +57,17 @@ print("Goodbye, World!")
 '''
 ```
 
+---
+
+**Python innerhalb dieses Wikis hat Unterstützung für Highlighting:**
+
+```python
+for i in range(10):
+    print(i)
+```
+
+```
+
 **Für dieses Beispiel:**  
 Damit die Klammer sich nicht schließt  
 stehen innen z.B. Hochkommas statt Backticks.
@@ -89,12 +100,5 @@ und haben links einen senkrechten Strich.
 ```
 
 ---
-
-### Python
-
-```python
-for i in range(10):
-    print(i)
-```
 
 [weiter](comparison.md)
