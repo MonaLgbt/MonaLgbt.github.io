@@ -99,6 +99,4 @@ und haben links einen senkrechten Strich.
 >> Für Zitate kann man auch weiter einrücken.
 ```
 
----
-
 [weiter](comparison.md)
