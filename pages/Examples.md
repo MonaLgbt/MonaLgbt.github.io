@@ -9,7 +9,7 @@ layout: default
 
 Das Dingsi unterstützt zum Beispiel nicht:
 
-### Fußnoten
+## Fußnoten
 
 ```markdown
 Text[^1]
@@ -23,7 +23,7 @@ Text[^1]
 
 Aber das Meiste geht dennoch:
 
-### Tabellen mit Ausrichtung
+## Tabellen mit Ausrichtung
 
 links  | rechts | mittig
 -------|-------:|:---:
@@ -41,7 +41,7 @@ links  | rechts | mittig
 
 ---
 
-### Codeblocks im Dingsi
+## Codeblocks im Dingsi
 
 ```text
 for i in range(10):
@@ -67,7 +67,7 @@ stehen innen z.B. Hochkommas statt Backticks.
 
 <br>
 
-### Codeblocks hier im Wili
+## Codeblocks hier im Wili
 
 ```python
 for i in range(10):
@@ -77,7 +77,7 @@ for i in range(10):
 
 ---
 
-### Inline Code
+## Inline Code
 
 Schreibe **im** Text `print("Goodbye, World!")` sowas.
 
@@ -89,7 +89,7 @@ Schreibe **im** Text `print("Goodbye, World!")` sowas.
 
 ---
 
-### Kommentare
+## Kommentare
 
 > Kommentare sind etwas eingerückt und haben links (meistens) einen senkrechten Strich. In diesem Fall nicht, es hängt ab vom verwendeten CSS-Stil.
 >> Für Zitate kann man auch weiter einrücken.
