@@ -41,7 +41,7 @@ links  | rechts | mittig
 
 ---
 
-### Codeblocks
+### Codeblocks im Dingsi
 
 ```text
 for i in range(10):
@@ -67,12 +67,13 @@ stehen innen z.B. Hochkommas statt Backticks.
 
 <br>
 
-**Python innerhalb dieses Wikis hat Unterstützung für Highlighting:**
+### Codeblocks hier im Wili
 
 ```python
 for i in range(10):
     print(i)
 ```
+✔️ Unterstützung für Highlighting
 
 ---
 
