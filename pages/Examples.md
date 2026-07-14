@@ -43,8 +43,9 @@ links  | rechts | mittig
 
 ### Codeblocks
 
-```python
-print("Goodbye, World!")
+```text
+for i in range(10):
+    print(i)
 ```
 
 ❌ keine Unterstützung für Highlighting
@@ -53,17 +54,18 @@ Codeblocks zeigen den Quelltext:
 
 ```md
 '''python
-print("Goodbye, World!")
+for i in range(10):
+    print(i)
 '''
 ```
 
----
+<br>
 
 **Für dieses Beispiel:**  
 Damit die Klammer sich nicht schließt  
 stehen innen z.B. Hochkommas statt Backticks.
 
----
+<br>
 
 **Python innerhalb dieses Wikis hat Unterstützung für Highlighting:**
 
