@@ -19,10 +19,10 @@ body {
     font-size: 26px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 600px) {
     body {
         max-width: none;
-        padding: 0.5;
+        padding: 1;
     }
 }
 
