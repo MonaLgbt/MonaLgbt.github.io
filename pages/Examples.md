@@ -87,7 +87,8 @@ Schreibe sowas **im** Text:
 Ein Codeblock zeigt den Quelltext:
 
 ```md
-Schreibe **im** Text `print("Goodbye, World!")` sowas.
+Schreibe sowas **im** Text:  
+`print("Goodbye, World!")`
 ```
 
 ---
