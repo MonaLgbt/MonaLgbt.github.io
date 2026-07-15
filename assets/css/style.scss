@@ -41,3 +41,11 @@ h2 {
     color: blue !important;
 }
 
+pre {
+    overflow-x: auto;
+}
+
+table {
+    display: block;
+    overflow-x: auto;
+}
