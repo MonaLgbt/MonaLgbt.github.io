@@ -81,7 +81,8 @@ for i in range(10):
 
 ## Inline Code
 
-Schreibe **im** Text `print("Goodbye, World!")` sowas.
+Schreibe sowas **im** Text:  
+`print("Goodbye, World!")`
 
 Ein Codeblock zeigt den Quelltext:
 
