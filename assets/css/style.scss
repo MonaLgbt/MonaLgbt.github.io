@@ -3,11 +3,6 @@
 
 @import "minima";
 
-.wrapper {
-    max-width: 60ch;
-    margin: 0 auto;
-}
-
 body {
     max-width: 60ch;
     margin: auto;
@@ -22,7 +17,8 @@ body {
 @media (max-width: 800px) {
     body {
         max-width: none;
-        margin: 2rem;
+        margin: 2vm;
+        padding: 2vm;
     }
 }
 
