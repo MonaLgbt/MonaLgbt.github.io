@@ -23,12 +23,14 @@ Text[^1]
 
 Aber das Meiste geht dennoch:
 
+```
 ## Tabellen mit Ausrichtung
 
 links  | rechts | mittig
 -------|-------:|:---:
 101    | 2      | 301
 1      | 201    | 3
+```
 
 Codeblocks zeigen den Quelltext:
 
