@@ -59,7 +59,7 @@ for i in range(10):
 '''
 ```
 
-<br>
+
 
 **Für dieses Beispiel:**  
 Damit die Klammer sich nicht schließt  
