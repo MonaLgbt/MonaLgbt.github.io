@@ -21,7 +21,7 @@ Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt, die Intellige
 
 [Link zu Examples.md](pages/Examples.md)
 
-<-- [Link zu ex_02.md](pages/ex_02.md) -->
+<!-- [Link zu ex_02.md](pages/ex_02.md) -->
 
 [Link zu comparison.md](pages/comparison.md)
 
