@@ -105,3 +105,11 @@ und haben links einen senkrechten Strich.
 ```
 
 [weiter](comparison.md)
+
+<script>
+document.body.insertAdjacentHTML(
+  'beforeend',
+  '<p>innerWidth=' + window.innerWidth +
+  ' scrollWidth=' + document.body.scrollWidth + '</p>'
+);
+</script>
