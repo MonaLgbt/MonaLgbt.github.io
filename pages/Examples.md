@@ -77,14 +77,12 @@ for i in range(10):
 
 ## Inline Code
 
-Schreibe sowas **im** Text:  
-`print("Goodbye, World!")`
+Schreibe `print("Hallo")` **im** Text.
 
 Ein Codeblock zeigt den Quelltext:
 
-```md
-Schreibe sowas **im** Text:  
-`print("Goodbye, World!")`
+```text
+Schreibe `print("Hallo")` **im** Text.
 ```
 
 ---
