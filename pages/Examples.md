@@ -52,7 +52,7 @@ for i in range(10):
 
 Codeblocks zeigen den Quelltext:
 
-````md
+````text
 ```python
 for i in range(10):
     print(i)
