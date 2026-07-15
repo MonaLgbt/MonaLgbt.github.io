@@ -59,10 +59,6 @@ for i in range(10):
 ```
 ````
 
-**Für dieses Beispiel:**  
-Damit die Klammer sich nicht schließt  
-stehen innen z.B. Hochkommas statt Backticks.
-
 ---
 
 ## Codeblocks hier im Wiki
