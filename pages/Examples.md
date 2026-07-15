@@ -93,17 +93,20 @@ Schreibe sowas **im** Text:
 
 ## Kommentare
 
-> Kommentare sind etwas eingerückt und haben links (meistens) einen senkrechten Strich. In diesem Fall nicht, es hängt ab vom verwendeten CSS-Stil.
->> Für Zitate kann man auch weiter einrücken.
+> Kommentare sind etwas eingerückt  
+und haben meistens links einen  
+senkrechten Strich. Es hängt aber  
+vom verwendeten CSS-Stil ab.  
+>> Für Zitate kann man auch weiter  
+einrücken.
 
 Ein Codeblock zeigt den Quelltext:
 
 ```md
 > Kommentare sind etwas eingerückt 
-> und haben links (meistens) einen 
-> senkrechten Strich. In diesem Fall 
-> nicht, es hängt ab vom verwendeten 
-> CSS-Stil.
+> und haben meistens links einen 
+> senkrechten Strich. Es hängt aber 
+vom verwendeten CSS-Stil ab. 
 >> Für Zitate kann man auch weiter 
 >> einrücken.
 ```
