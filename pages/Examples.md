@@ -110,6 +110,7 @@ einrücken.
 
 [weiter](comparison.md)
 
+<!-- Dies ist ein mehrzeiliger Kommentar.
 <script>
 document.body.insertAdjacentHTML(
   'beforeend',
@@ -117,3 +118,4 @@ document.body.insertAdjacentHTML(
   ' scrollWidth=' + document.body.scrollWidth + '</p>'
 );
 </script>
+-->
