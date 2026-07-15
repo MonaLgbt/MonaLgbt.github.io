@@ -101,9 +101,13 @@ Schreibe sowas **im** Text:
 Ein Codeblock zeigt den Quelltext:
 
 ```md
-> Kommentare sind etwas eingerückt  
-und haben links einen senkrechten Strich.  
->> Für Zitate kann man auch weiter einrücken.
+> Kommentare sind etwas eingerückt 
+und haben links (meistens) einen 
+senkrechten Strich. In diesem Fall 
+nicht, es hängt ab vom verwendeten 
+CSS-Stil.
+>> Für Zitate kann man auch weiter 
+einrücken.
 ```
 
 [weiter](comparison.md)
