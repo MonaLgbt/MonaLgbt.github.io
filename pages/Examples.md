@@ -55,10 +55,10 @@ for i in range(10):
 Codeblocks zeigen den Quelltext:
 
 ```md
-````python
+\`\`\`python
 for i in range(10):
     print(i)
-````
+\`\`\`
 ```
 
 **Für dieses Beispiel:**  
