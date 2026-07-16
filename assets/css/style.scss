@@ -6,9 +6,10 @@
 body {
     max-width: 60ch;
     width: 100%;
-    margin: 1rem;
+    margin: 1rem auto;
     padding: 1rem;
-    border: 1px solid black;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 8px rgba(0,0,0,.1);
     text-align: justify;
     hyphens: auto;
     line-height: 1.5;
