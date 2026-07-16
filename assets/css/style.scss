@@ -4,6 +4,7 @@
 @import "minima";
 
 body {
+    box-sizing: border-box;
     max-width: 60ch;
     width: 100%;
     margin: 1rem auto;
@@ -20,8 +21,8 @@ body {
 @media (max-width: 800px) {
     body {
         max-width: none;
-        margin: 2vw;
-        padding: 2vw;
+        margin: 0;
+        border-width: 8px;
     }
 }
 
