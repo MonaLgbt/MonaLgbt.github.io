@@ -1,3 +1,10 @@
+---
+title: Test 2
+layout: default
+---
+
+[Zurück zu index.md](../index.md)
+
 Viele Menschen benutzen das Programm Word.
 Microsoft hat jetzt eine neue Art zum Schreiben.
 Sie heißt Markdown.
