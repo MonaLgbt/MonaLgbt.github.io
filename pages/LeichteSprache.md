@@ -33,7 +33,7 @@ Ein Blog ist wie ein Tagebuch im Internet.
 Markdown ist eine Sprache für Texte.  
 Markdown hilft, Texte leicht zu schreiben.  
 Darum kann man mit Markdown alle Arten von Texten schreiben.  
- 
+
 Um Texte zu tauschen, gibt es PDF.  
 PDF ist eine Art, Text zu speichern.  
 Mit PDF kann jeder den Text lesen.  
