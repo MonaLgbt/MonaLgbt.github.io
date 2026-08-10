@@ -19,6 +19,8 @@ Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt, die Intellige
 
 [Link zu Dingsi.md](pages/Dingsi.md)
 
+[Link zu Dingsi.md](pages/LeichteSprache.md)
+
 [Link zu Examples.md](pages/Examples.md)
 
 <!-- [Link zu ex_02.md](pages/ex_02.md) -->
