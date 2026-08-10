@@ -55,6 +55,8 @@ Mit HTML kann man Texte noch besser und schöner machen.
 Aber die KI braucht das nicht.
 Darum hat Microsoft diese Möglichkeit weggelassen.
 
+[weiter](Examples.md)
+
 Viele Menschen denken:
 Die Geschichte ist noch nicht fertig.
 Es fehlt einfach sehr viel.
