@@ -35,7 +35,7 @@ Die 2 Programme sind etwas eingeschränkt in der Nutzung.
 Das heißt:  
 Microsoft möchte Word nicht ersetzen.  
 Für Microsoft scheint die Künstliche Intelligenz wichtiger zu sein.  
- 
+
 **Das merkt man zum Beispiel daran:**  
 Microsoft hat viele bekannte Funktionen nicht eingebaut.  
 Microsoft denkt: Die KI braucht diese Funktionen nicht.  
