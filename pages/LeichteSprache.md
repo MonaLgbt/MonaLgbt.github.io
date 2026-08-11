@@ -13,8 +13,6 @@ Sie sprechen es so: Mark-Daun.
 
 Markdown ist eine Sprache für Texte.  
 Das bedeutet:  
-Markdown ist eine Art zu schreiben.  
-Das geht so:  
 Es gibt besondere Zeichen.  
 Diese Zeichen schreibt man in den Text.  
 Mit diesen Zeichen kann man den Text verändern.  
