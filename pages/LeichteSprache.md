@@ -27,6 +27,14 @@ Das heißt:
 -	Texte sehen schöner aus.  
 -	Texte sind leichter zu lesen.  
 
+**Markdown ist neu bei Microsoft.**  
+Aber viele Menschen benutzen Markdown schon länger.  
+Besonders Menschen, die mit Linux arbeiten.  
+Linux ist ein anderes Betriebssystem für Computer.  
+Auch Menschen, die Webseiten machen, benutzen Markdown.  
+Mit Markdown kann man leicht Texte zu einem Blog hinzufügen.  
+Ein Blog ist wie ein Tagebuch im Internet.  
+
 **Mit 2 Programmen von Microsoft kann man Markdown schreiben.**  
 Aber Microsoft braucht Markdown auch für die Künstliche Intelligenz.  
 Mit Markdown kann die besser arbeiten.  
@@ -50,24 +58,6 @@ Um Texte weiterzugeben, gibt es PDF.
 PDF speichert Texte so, dass jeder sie lesen kann.  
 In Word ist das völlig normal.  
 Aber Microsoft hat PDF in Markdown nicht bedacht.  
-
-**Markdown ist neu bei Microsoft.**  
-Aber viele Menschen benutzen Markdown schon länger.  
-Besonders Menschen, die mit Linux arbeiten.  
-Linux ist ein anderes Betriebssystem für Computer.  
-Auch Menschen, die Webseiten machen, benutzen Markdown.  
-Mit Markdown kann man leicht Texte zu einem Blog hinzufügen.  
-Ein Blog ist wie ein Tagebuch im Internet.  
-
-**Microsoft hat viele bekannte Funktionen nicht eingebaut.**  
-Microsoft meint:  
-Die KI braucht diese Funktionen nicht.  
-Zum Beispiel:  
-Normalerweise kann man Markdown mit HTML verbessern.  
-HTML ist eine Sprache für Webseiten.  
-Mit HTML kann man Texte schöner machen.  
-Die KI braucht das nicht.  
-Darum hat Microsoft diese Möglichkeit weggelassen.  
 
 **Deshalb sind manche Menschen verwirrt.**  
 Sie denken: Es fehlt noch etwas.  
