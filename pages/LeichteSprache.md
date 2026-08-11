@@ -69,7 +69,7 @@ HTML ist eine Sprache für Webseiten.
 Mit HTML kann man Texte schöner machen.  
 Die KI braucht das nicht.  
 Darum hat Microsoft diese Möglichkeit weggelassen.  
- 
+
 Deshalb sind manche Menschen verwirrt.  
 Sie denken: Es fehlt noch etwas.  
 Microsoft muss noch mehr machen.  
