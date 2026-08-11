@@ -11,7 +11,8 @@ Aber Microsoft hat jetzt auch eine neue Art zum Schreiben.
 Die neue Art heißt Markdown.  
 Sie sprechen es so: Mark-Daun.  
 
-Markdown ist eine Sprache für Texte.  
+Sie können Markdown benutzen zum Schreiben von Texten.  
+Aber Markdown ist eine Sprache für Texte.  
 Das bedeutet:  
 Es gibt besondere Zeichen.  
 Diese Zeichen schreibt man in den Text.  
@@ -25,7 +26,6 @@ Mit Markdown kann man Texte leicht gestalten.
 Das heißt:  
 -	Texte sehen schöner aus.  
 -	Texte sind leichter zu lesen.  
-Du kannst Markdown benutzen, wenn du Texte schreibst.  
 
 Mit 2 Programmen von Microsoft kann man Markdown schreiben.  
 Aber Microsoft braucht Markdown auch für die Künstliche Intelligenz.  
