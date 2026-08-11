@@ -6,59 +6,71 @@ layout: default
 [Zurück zu index.md](../index.md)
 
 Viele Menschen benutzen das Programm Word.  
-Microsoft hat jetzt eine neue Art zum Schreiben.  
-Sie heißt Markdown.  
-Markdown spricht man so: Mark-Daun.  
+Word ist ein Programm zum Schreiben von Texten.  
+Aber Microsoft hat jetzt auch eine neue Art zum Schreiben.  
+Die neue Art heißt Markdown.  
+Sie sprechen es so: Mark-Daun.  
 
 Markdown ist eine Sprache für Texte.  
+Das bedeutet:  
+Markdown ist eine Art zu schreiben.  
+Das geht so:  
+Es gibt besondere Zeichen.  
+Diese Zeichen schreibt man in den Text.  
+Mit diesen Zeichen kann man den Text verändern.  
+Zum Beispiel:  
+-	Man kann Überschriften machen.  
+-	Oder man kann Wörter fett schreiben.  
 Markdown macht das Schreiben einfacher.  
-Viele Programme von Microsoft benutzen jetzt Markdown.  
-Die Programme können Texte in Markdown lesen und schreiben.  
+Mit Markdown kann man Texte leicht gestalten.  
+Das heißt:  
+-	Texte sehen schöner aus.  
+-	Texte sind leichter zu lesen.  
+Du kannst Markdown benutzen, wenn du Texte schreibst.  
 
-Microsoft will Word nicht abschaffen.  
-Microsoft braucht Markdown.  
-Damit kann die Künstliche Intelligenz besser arbeiten.  
+Mit 2 Programmen von Microsoft kann man Markdown schreiben.  
+Aber Microsoft braucht Markdown auch für die Künstliche Intelligenz.  
+Mit Markdown kann die besser arbeiten.  
 Künstliche Intelligenz nennt man oft KI.  
-
-Markdown ist bei Microsoft neu.  
-Aber viele Menschen kennen Markdown schon länger.  
-Viele Menschen benutzen Markdown schon lange.  
-Vor allem Menschen, die mit Linux arbeiten.  
-Linux ist ein anderes Betriebs-System.  
-
-Auch Menschen, die Webseiten machen, benutzen Markdown.  
-Mit Markdown kann man einfach Texte zu einem Blog hinzufügen.  
-Ein Blog ist wie ein Tagebuch im Internet.  
-
-Markdown ist eine Sprache für Texte.  
-Markdown hilft, Texte leicht zu schreiben.  
-Darum kann man mit Markdown alle Arten von Texten schreiben.  
-
-Um Texte zu tauschen, gibt es PDF.  
-PDF ist eine Art, Text zu speichern.  
-Mit PDF kann jeder den Text lesen.  
-Auch Texte in Markdown kann man in PDF umwandeln.  
-So macht man es auch mit Word-Texten.  
-
-Microsoft hat Markdown eingeführt.  
-Aber Microsoft hat nicht an PDF gedacht.  
-Die Menschen sollen weiter Word benutzen.  
-Aber manche Menschen kennen Markdown schon.  
-Sie sind jetzt verwirrt.  
-
+Die 2 Programme sind etwas eingeschränkt in der Nutzung.  
+Das heißt:  
+Microsoft möchte Word nicht ersetzen.  
+Für Microsoft scheint die Künstliche Intelligenz wichtiger zu sein.  
+ 
+Das merkt man zum Beispiel daran:  
 Microsoft hat viele bekannte Funktionen nicht eingebaut.  
 Microsoft denkt: Die KI braucht diese Funktionen nicht.  
-Zum Beispiel kann man mit Markdown Texte einfach gestalten.  
 Normalerweise kann man Markdown auch mit HTML verbessern.  
 HTML ist eine Sprache für Webseiten.  
 Mit HTML kann man Texte noch besser und schöner machen.  
 Aber die KI braucht das nicht.  
 Darum hat Microsoft diese Möglichkeit weggelassen.  
 
-Viele Menschen denken:  
-Die Geschichte ist noch nicht fertig.  
-Es fehlt einfach sehr viel.  
-Für Menschen mit Linux ist das alles kein Problem.  
-Aber bei Microsoft ist es ein Problem.  
+Das merkt man zum Beispiel auch daran:  
+Um Texte weiterzugeben, gibt es PDF.  
+PDF speichert Texte so, dass jeder sie lesen kann.  
+In Word ist das völlig normal.  
+Aber Microsoft hat PDF in Markdown nicht bedacht.  
 
-[weiter](Examples.md)
+Markdown ist neu bei Microsoft.  
+Aber viele Menschen benutzen Markdown schon länger.  
+Besonders Menschen, die mit Linux arbeiten.  
+Linux ist ein anderes Betriebssystem für Computer.  
+Auch Menschen, die Webseiten machen, benutzen Markdown.  
+Mit Markdown kann man leicht Texte zu einem Blog hinzufügen.  
+Ein Blog ist wie ein Tagebuch im Internet.  
+
+Microsoft hat viele bekannte Funktionen nicht eingebaut.  
+Microsoft meint:  
+Die KI braucht diese Funktionen nicht.  
+Zum Beispiel:  
+Normalerweise kann man Markdown mit HTML verbessern.  
+HTML ist eine Sprache für Webseiten.  
+Mit HTML kann man Texte schöner machen.  
+Die KI braucht das nicht.  
+Darum hat Microsoft diese Möglichkeit weggelassen.  
+ 
+Deshalb sind manche Menschen verwirrt.  
+Sie denken: Es fehlt noch etwas.  
+Microsoft muss noch mehr machen.  
+Markdown ist noch nicht fertig.  
