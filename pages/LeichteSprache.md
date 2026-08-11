@@ -21,6 +21,7 @@ Mit diesen Zeichen kann man den Text verändern.
 Zum Beispiel:  
 -	Man kann Überschriften machen.  
 -	Oder man kann Wörter fett schreiben.  
+
 Markdown macht das Schreiben einfacher.  
 Mit Markdown kann man Texte leicht gestalten.  
 Das heißt:  
