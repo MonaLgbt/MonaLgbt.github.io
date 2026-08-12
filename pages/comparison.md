@@ -16,9 +16,9 @@ Windows Notepad vs. M365 Markdown-Editor
 | Fett (`**Text**`) | ✅ | ✅ |
 | Kursiv (`*Text*`) | ✅ | ✅ |
 | Durchgestrichen (`~~Text~~`) | ✅ | ✅ |
-| Aufzählungen (`- Text`) | ✅ | ✅ |
-| Nummerierte Listen (`1. Text`) | ✅ | ✅ |
-| Verschachtelte Listen (`  - Text`) | ✅ | ✅ |
+| Aufzählungen (`- Pt.`) | ✅ | ✅ |
+| Nummerierte Listen (`1. Pt.`) | ✅ | ✅ |
+| Verschachtelte Listen (`  - Pt.`) | ✅ | ✅ |
 | Links (`[Text](link)`) | ✅ | ✅ |
 | Blockzitate (`> Text`) | ❌ | ✅ |
 | Tabellen (`|:---:|`) | ❌ | ✅ |
