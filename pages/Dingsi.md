@@ -5,17 +5,36 @@ layout: default
 
 [Zurück zu index.md](../index.md)
 
-# Microsoft's Markdown-Dingsi
+### Microsoft hat jetzt sogar 2 Programme für Markdown
 
-**Microsoft bietet in Onedrive/Sharepoint einen (fast) richtigen Markdown-Editor an.**
+Mit diesen Programmen können Sie Markdown schreiben.  
+Die Programme heißen Notepad und Microsoft 365 Editor.  
+Notepad und der Microsoft 365 Editor sind einfache Programme 
+zum Schreiben von Texten.
+Sie haben nur wenige Funktionen.
+Deshalb sind sie leicht zu bedienen.
 
-Fast heißt: Er kann das meiste, was ein solcher können soll. Leider ist der theoretsch durch Html, Css und Javascript unbegrenzte Funktionsumfang unnötigerweise gedeckelt. Javascript ist in Multiuser-Umgebungen nicht sicher. Aber lokal ist es sehr praktisch.
+Notepad gibt es schon sehr lange.  
+Er wird benutzt für kleine Notizen oder für Konfigurations-Dateien.  
+Eine Konfigurations-Datei ist eine Datei für Einstellungen.  
+Notepad zeigt jetzt Markdown richtig an. Das ist neu.  
 
-> **Eingeschränkt heißt nicht:** dass man nicht überall, wo Texteingabe möglich ist, ein vollständiges Markdown mit allen Möglichkeiten schreiben könnte. Man muss es nur abspeichern, und sich irgendwo einen Renderer suchen. Dann ist wieder alles chic.  
->> **Wenn Markdown Routine ist:** dann braucht man diese visuelle Kontrolle auch nicht mehr. Nur für den letzten Schritt (Ausgabe als PDF) ist es noch nötig.
+Auch neu ist der Microsoft 365 Editor.  
+Es gibt den Editor erst seit kurzer Zeit.  
+Mit dem Editor kann man Markdown schreiben.  
+Und Sie können sich Texte in Markdown anschauen.  
 
-In Word werden gerne selten genutzte Funktionen versteckt, um nicht zu verwirren. Im Dingsi hat man sogar alles was über Standard-Markdown hinausgeht ganz weg gelassen. Anfänger stört das nicht, weil sie davon nichts wissen. Aber Fortgeschrittene vermissen es.
+Der Microsoft 365 Editor gehört zu Sharepoint und OneDrive.  
+Sharepoint und OneDrive sind zum Dateien speichern und teilen.  
+Microsoft hat dem Editor keinen richtigen Namen gegeben.  
+Das bedeutet: Der Editor heißt nicht Microsoft 365 Editor.  
+Man wird ihn über diesen Suchbegriff also nicht finden.  
+Der Editor ist einfach da und hat keinen speziellen Namen.  
+Beide sind einfache Schreibprogramme.  
 
-Das Dingsi hat noch nichtmal einen richtigen Namen. Notepad hat zwar einen Namen und kann auch Markdown, aber es ist leider sogar noch mehr kastriert.
+Markdown ist eine einfache Möglichkeit, Texte am Computer zu gestalten.  
+Zum Beispiel können Sie Überschriften oder Listen machen.  
+Sie können Notepad oder Microsoft 365 Editor benutzen, 
+um einfach Texte zu schreiben und zu gestalten.
 
 [weiter](LeichteSprache.md)
