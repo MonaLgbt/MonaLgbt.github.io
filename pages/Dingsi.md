@@ -31,9 +31,8 @@ Microsoft hat dem Editor keinen richtigen Namen gegeben.
 Das bedeutet:  
 Sie werden ihn über diesen Suchbegriff nicht finden.  
 Der Editor ist einfach da und hat keinen speziellen Namen.  
-Beide sind einfache Schreibprogramme.  
 
 Sie können Notepad oder Microsoft 365 Editor benutzen,  
-um einfach Texte zu schreiben und zu gestalten.
+um einfach Texte zu schreiben und zu gestalten.  
 
 [weiter](LeichteSprache.md)
