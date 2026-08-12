@@ -12,13 +12,13 @@ Windows Notepad vs. M365 Markdown-Editor
 
 | Funktion | Notepad &emsp;&emsp; | M365-Dingsi |
 |-----------|----------|----------|
-| Überschriften (`#`) | ✅ | ✅ |
+| Überschriften (`#, ##`) | ✅ | ✅ |
 | Fett (`**Text**`) | ✅ | ✅ |
 | Kursiv (`*Text*`) | ✅ | ✅ |
 | Durchgestrichen (`~~Text~~`) | ✅ | ✅ |
-| Aufzählungen | ✅ | ✅ |
-| Nummerierte Listen | ✅ | ✅ |
-| Verschachtelte Listen | ✅ | ✅ |
+| Aufzählungen (`- Text`) | ✅ | ✅ |
+| Nummerierte Listen (`1. Text`) | ✅ | ✅ |
+| Verschachtelte Listen (`  - Text`) | ✅ | ✅ |
 | Links (`[Text](link)`) | ✅ | ✅ |
 | Blockzitate (`> Text`) | ❌ | ✅ |
 | Tabellen (`|:---:|`) | ❌ | ✅ |
