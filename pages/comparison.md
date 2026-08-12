@@ -55,7 +55,7 @@ Windows Notepad vs. M365 Markdown-Editor
       <td>✅</td>
     </tr>
     <tr>
-      <td>Links (<code>[ink</code>)</td>
+      <td>Links (<code>[Text](Link)</code>)</td>
       <td>✅</td>
       <td>✅</td>
     </tr>
@@ -70,7 +70,7 @@ Windows Notepad vs. M365 Markdown-Editor
       <td>✅</td>
     </tr>
     <tr>
-      <td>Codeblöcke (<code>```</code>)</td>
+      <td>Codeblöcke (<code>```Code```</code>)</td>
       <td>❌</td>
       <td>✅</td>
     </tr>
@@ -85,7 +85,7 @@ Windows Notepad vs. M365 Markdown-Editor
       <td>✅</td>
     </tr>
     <tr>
-      <td>Bilder (<code>link</code>)</td>
+      <td>Bilder (<code>![Text](Link)</code>)</td>
       <td>❌</td>
       <td>✅</td>
     </tr>
