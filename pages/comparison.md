@@ -20,7 +20,7 @@ Windows Notepad vs. M365 Markdown-Editor
   </thead>
   <tbody>
     <tr>
-      <td>Überschriften (<code>#</code>, <code>##</code>)</td>
+      <td>Überschriften (<code>#, ##, ###</code>)</td>
       <td>✅</td>
       <td>✅</td>
     </tr>
@@ -80,7 +80,7 @@ Windows Notepad vs. M365 Markdown-Editor
       <td>✅</td>
     </tr>
     <tr>
-      <td>Checklisten (<code>- [x]</code>)</td>
+      <td>Checklisten (<code>- [x], - [ ]</code>)</td>
       <td>❌</td>
       <td>✅</td>
     </tr>
