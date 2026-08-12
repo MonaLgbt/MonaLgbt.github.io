@@ -10,27 +10,114 @@ layout: default
 Windows Notepad vs. M365 Markdown-Editor  
 (OneDrive/SharePoint)
 
-| Funktion | Notepad | M365-Dingsi |
-|-----------|----------|----------|
-| Überschriften (`#, ##`) | ✅ | ✅ |
-| Fett (`**Text**`) | ✅ | ✅ |
-| Kursiv (`*Text*`) | ✅ | ✅ |
-| Durchgestrichen (`~~Text~~`) | ✅ | ✅ |
-| Aufzählungen (`- Pt.`) | ✅ | ✅ |
-| Nummerierte Listen (`1. Pt.`) | ✅ | ✅ |
-| Verschachtelte Listen (`  - Pt.`) | ✅ | ✅ |
-| Links (`[Text](link)`) | ✅ | ✅ |
-| Blockzitate (`> Text`) | ❌ | ✅ |
-| Tabellen (`|:---:|`) | ❌ | ✅ |
-| Codeblöcke (```` ``` ````) | ❌ | ✅ |
-| Inline-Code (`` `Code` ``) | ❌ | ✅ |
-| Checklisten (`- [x]`) | ❌ | ✅ |
-| Bilder (`![Text](link)`) | ❌ | ✅ |
-| Horizontale Linien (`---`) | ❌ | ✅ |
-| Fußnoten (Text[^1]) | ❌ | ✅ ? |
-| GitHub-Flavored Markdown | ❌ | ✅ größtenteils |
-| Markdown-Quelltext anzeigen | ✅ | ✅ |
-| Gerenderte Vorschau | ✅ einfach | ✅ umfangreicher |
+<br>
+
+<table>
+  <thead>
+    <tr>
+      <th>Funktion</th>
+      <th>Notepad</th>
+      <th>M365-Dingsi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Überschriften (<code>#</code>, <code>##</code>)</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Fett (<code>**Text**</code>)</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Kursiv (<code>*Text*</code>)</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Durchgestrichen (<code>~~Text~~</code>)</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Aufzählungen (<code>- Pt.</code>)</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Nummerierte Listen (<code>1. Pt.</code>)</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Verschachtelte Listen (<code>  - Pt.</code>)</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Links (<code>[ink</code>)</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Blockzitate (<code>&gt; Text</code>)</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Tabellen (<code>|:---:|</code>)</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Codeblöcke (<code>```</code>)</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Inline-Code (<code>`Code`</code>)</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Checklisten (<code>- [x]</code>)</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Bilder (<code>link</code>)</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Horizontale Linien (<code>---</code>)</td>
+      <td>❌</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Fußnoten (<code>Text[^1]</code>)</td>
+      <td>❌</td>
+      <td>✅ ?</td>
+    </tr>
+    <tr>
+      <td>GitHub-Flavored Markdown</td>
+      <td>❌</td>
+      <td>✅ größtenteils</td>
+    </tr>
+    <tr>
+      <td>Markdown-Quelltext anzeigen</td>
+      <td>✅</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Gerenderte Vorschau</td>
+      <td>✅ einfach</td>
+      <td>✅ umfangreicher</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Kurzfassung
 
