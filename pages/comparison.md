@@ -60,7 +60,7 @@ Windows Notepad vs. M365 Markdown-Editor
       <td>✅</td>
     </tr>
     <tr>
-      <td>Blockzitate (<code>&gt; Text</code>)</td>
+      <td>Blockzitate (<code>&gt; Text, &gt;&gt; Text</code>)</td>
       <td>❌</td>
       <td>✅</td>
     </tr>
