@@ -9,8 +9,7 @@ layout: default
 
 Mit diesen Programmen können Sie Markdown schreiben.  
 Die Programme heißen Notepad und Microsoft 365 Editor.  
-Notepad und der Microsoft 365 Editor  
-sind einfache Programme zum Schreiben von Texten.  
+Es sind einfache Programme zum Schreiben von Texten.  
 Sie haben nur wenige Funktionen.  
 Deshalb sind sie leicht zu bedienen.  
 
