@@ -10,8 +10,6 @@ layout: default
 Windows Notepad vs. M365 Markdown-Editor  
 (OneDrive/SharePoint)
 
-<br>
-
 <table>
   <thead>
     <tr>
