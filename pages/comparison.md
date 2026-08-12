@@ -10,7 +10,7 @@ layout: default
 Windows Notepad vs. M365 Markdown-Editor  
 (OneDrive/SharePoint)
 
-| Funktion | Notepad &emsp;&emsp; | M365-Dingsi |
+| Funktion &emsp;&emsp; | Notepad &emsp;&emsp; | M365-Dingsi |
 |-----------|----------|----------|
 | Überschriften (`#, ##`) | ✅ | ✅ |
 | Fett (`**Text**`) | ✅ | ✅ |
