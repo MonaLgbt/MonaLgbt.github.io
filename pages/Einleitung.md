@@ -11,19 +11,27 @@ layout: default
 
 **Markdown ist wie ein guter Notizblock für unterwegs: einfach, klar und immer bereit. Man schreibt los, und der Text bleibt übersichtlich, leicht lesbar und später gut wiederzufinden. Es macht das Schreiben leichter, das Denken ordentlicher und die Wissenssammlung lebendiger. Markdown ist auch ein freundlicher Einstieg ins Web. Man muss kein Profi sein, um schöne, gut strukturierte Texte zu schreiben. Genau das macht es so attraktiv: Es fühlt sich nicht nach Technik an, sondern nach Freiheit.**
 
-### Warum sollte man sich für Markdown interessieren?
+### Warum Markdown gut ist
 
-- Die Schreib-Werkstatt ist immer dabei
-- Das Schreib-Archiv ist immer dabei
-- Büroarbeit auf dem Sofa oder sonstwo
-- Ein "organisierteres" Leben
-- Dinge durch Aufschreiben besser verstehen
-- Unterschiedliche Tastaturen nutzen
-- Bequeme Eingabe per Speech to Text
-- Spielerisches Lernen von Webtechniken
-- Webseiten als Hobby entdecken
-- Eigene Dokumente auf das gegebene Hochformat anpassen: Chou3 statt A4
-- Konvertieren in beliebige Zielformate
+- Die Schreib-Werkstatt ist immer dabei.
+- Das Schreib-Archiv ist immer dabei.
+- Man kann auf dem Sofa arbeiten.
+- Man kann auch unterwegs arbeiten.
+- Man braucht nicht viel Technik.
+- Man kann sich gut auf den Inhalt konzentrieren.
+- Das Schreiben fühlt sich oft leichter an.
+- Dinge werden klarer, wenn man sie aufschreibt.
+- Man kann Gedanken sammeln und ordnen.
+- Eine Wissenssammlung wächst mit der Zeit.
+- Man findet eigene Notizen später leichter wieder.
+- Texte bleiben lange gut lesbar.
+- Man kann sie in vielen Programmen öffnen.
+- Man kann sie oft leicht in andere Formate bringen.
+- Markdown passt gut für Notizen, Ideen und Listen.
+- Markdown ist gut für Menschen, die gerne strukturieren.
+- Man lernt nebenbei etwas über das Web.
+- Man kann Webseiten als Hobby entdecken.
+- Man kann besser verstehen, wie Inhalte aufgebaut sind.
 
 
 > **Wie geht die Eingabe per Speech to Text in Android?**
