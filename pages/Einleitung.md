@@ -7,9 +7,9 @@ layout: default
 
 > **"Word" steht hier nur als bekanntes Synonym für Textprogramme. Für die mobile Nutzung ist es komplett ungeeignet.**
 
-# Ein Leichtes "Word" für die Hosentasche
+# Ein "Word" für die Hosentasche
 
-**Oder Markdown ist immer dabei. – Wie man das auch beim Bezahlen oder Ausweisen mit einer Wallet gewohnt ist. So ist auch das persönliche Büro immer dabei. Wer es noch nicht wusste: Handys sind heute ausgewachsene PCs und mit Reels gucken total unterfordert ;)**
+**Markdown ist wie ein guter Notizblock für unterwegs: einfach, klar und immer bereit. Man schreibt los, und der Text bleibt übersichtlich, leicht lesbar und später gut wiederzufinden. Es macht das Schreiben leichter, das Denken ordentlicher und die Wissenssammlung lebendiger. Markdown ist auch ein freundlicher Einstieg ins Web. Man muss kein Profi sein, um schöne, gut strukturierte Texte zu schreiben. Genau das macht es so attraktiv: Es fühlt sich nicht nach Technik an, sondern nach Freiheit.**
 
 ### Warum sollte man sich für Markdown interessieren?
 
