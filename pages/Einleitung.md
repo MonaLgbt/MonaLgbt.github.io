@@ -13,8 +13,8 @@ layout: default
 
 ### Warum sollte man sich für Markdown interessieren?
 
-- die Schreib-Werkstatt ist immer dabei
-- das Schreib-Archiv ist immer dabei
+- Die Schreib-Werkstatt ist immer dabei
+- Das Schreib-Archiv ist immer dabei
 - Büroarbeit auf dem Sofa oder sonstwo
 - Ein "organisierteres" Leben
 - Dinge durch Aufschreiben besser verstehen
@@ -22,8 +22,8 @@ layout: default
 - Bequeme Eingabe per Speech to Text
 - Spielerisches Lernen von Webtechniken
 - Webseiten als Hobby entdecken
-- eigene Dokumente auf das gegebene Hochformat anpassen: Chou3 statt A4
-- konvertieren in beliebige Zielformate
+- Eigene Dokumente auf das gegebene Hochformat anpassen: Chou3 statt A4
+- Konvertieren in beliebige Zielformate
 
 
 > **Wie geht die Eingabe per Speech to Text in Android?**
