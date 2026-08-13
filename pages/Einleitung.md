@@ -71,7 +71,7 @@ Wichtig ist: Die Tastatur liefert die Schaltfläche und fügt den Text ein; die 
 Kurz gesagt: **In der jeweiligen Tastatur nach dem Mikrofon suchen.** Wenn es fehlt, in den Tastatureinstellungen die Spracheingabe oder die Tastatur-Symbolleiste aktivieren.
 
 
-> **In HeliBoard sehe ich kein Micro.**
+> **In HeliBoard sehe ich kein Mikro.**
 
 Ja, das ist bei **HeliBoard** normal: Die Spracheingabe ist nicht unbedingt standardmäßig als Mikrofon sichtbar.
 ## Mikrofon einblenden
