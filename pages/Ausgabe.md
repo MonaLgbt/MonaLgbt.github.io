@@ -1,5 +1,5 @@
 ---
-title: Test 6
+title: Test 7
 layout: default
 ---
 
