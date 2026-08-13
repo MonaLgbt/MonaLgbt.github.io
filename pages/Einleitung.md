@@ -33,6 +33,27 @@ layout: default
 - Man kann Webseiten als Hobby entdecken.
 - Man kann besser verstehen, wie Inhalte aufgebaut sind.
 
+### Ideal für Wissenssammlungen
+
+- Wenn man regelmäßig Notizen macht, wird Markdown mit der Zeit sehr nützlich.
+- Man kann Themen sammeln, Dinge verknüpfen und später wieder darauf aufbauen.
+- So entsteht nach und nach ein eigenes kleines Wissensnetz.
+- Das ist praktisch für Arbeit, Alltag, Lernen und persönliche Projekte.
+- Du behältst den Überblick, auch wenn deine Sammlung wächst.
+
+### Webtechniken lernen
+
+- Außerdem ist Markdown ein guter Weg, um das Web besser zu verstehen. 
+- Es ist einfach genug für den Alltag und interessant genug zum Entdecken.
+- So wird Schreiben nicht nur Arbeit, sondern auch ein kleines Hobby.
+
+### Alles passend machen
+
+- Unterschiedliche Tastaturen nutzen
+- Bequeme Eingabe per Speech to Text
+- eigene Dokumente auf das gegebene Hochformat anpassen: Chou3 statt A4
+- konvertieren in beliebige Zielformate
+
 
 > **Wie geht die Eingabe per Speech to Text in Android?**
 
