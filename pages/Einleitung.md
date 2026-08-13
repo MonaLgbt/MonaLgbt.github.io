@@ -41,8 +41,7 @@ Dort die Spracheingabe einschalten. Auf Samsung-Geräten heißt der Weg häufig 
 
 Prüfe außerdem unter **Einstellungen → Apps → Gboard beziehungsweise Tastatur → Berechtigungen**, ob der **Mikrofonzugriff** erlaubt ist. [sky-scribe](https://www.sky-scribe.com/de/blog/how-do-i-turn-on-talk-to-text-on-android-guides-step-by-step)
 
-!!! tip 'Tipp'
-Sprich in normalem Tempo und möglichst in ruhiger Umgebung. Für Deutsch sollte in den Tastatur- oder Spracheinstellungen **Deutsch** als Eingabesprache ausgewählt sein.
+> **Tipp:** Sprich in normalem Tempo und möglichst in ruhiger Umgebung. Für Deutsch sollte in den Tastatur- oder Spracheinstellungen **Deutsch** als Eingabesprache ausgewählt sein.
 
 > **Hm, ist die Funktion in die jeweilige Tastatur eingebaut?**
 
