@@ -5,6 +5,8 @@ layout: default
 
 [Zurück zu index.md](../index.md)
 
+> **„Microsoft ♥ Linux“.  Wow!  Was für eine Aussage von Microsoft-CEO Satya Nadella. Man könnte denken auch Markdown wird jetzt mit viel Liebe bedacht. Aber naja...**
+
 **Viele Menschen benutzen das Programm Word.**  
 Word ist ein Programm zum Schreiben von Texten.  
 Aber Microsoft hat jetzt auch eine neue Art zum Schreiben.  
