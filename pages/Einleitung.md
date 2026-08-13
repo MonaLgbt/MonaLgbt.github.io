@@ -19,7 +19,6 @@
 - konvertieren in beliebige Zielformate
 
 
-
 > **Wie geht die Eingabe per Speech to Text in Android?**
 
 ## So funktioniert es
@@ -31,6 +30,8 @@
 5. Sage Satzzeichen mit an, zum Beispiel **„Komma“**, **„Punkt“** oder **„Fragezeichen“**. Google beschreibt diesen Ablauf ebenfalls für Gboard. [support.google](https://support.google.com/messages/answer/2781851?hl=de&co=GENIE.Platform=Android)
 6. Prüfe den erkannten Text und korrigiere ihn bei Bedarf.
 
+> **Tipp:** Sprich in normalem Tempo und möglichst in ruhiger Umgebung. Für Deutsch sollte in den Tastatur- oder Spracheinstellungen **Deutsch** als Eingabesprache ausgewählt sein.
+
 ## Falls das Mikrofon fehlt
 
 Bei **Gboard**:
@@ -41,7 +42,6 @@ Dort die Spracheingabe einschalten. Auf Samsung-Geräten heißt der Weg häufig 
 
 Prüfe außerdem unter **Einstellungen → Apps → Gboard beziehungsweise Tastatur → Berechtigungen**, ob der **Mikrofonzugriff** erlaubt ist. [sky-scribe](https://www.sky-scribe.com/de/blog/how-do-i-turn-on-talk-to-text-on-android-guides-step-by-step)
 
-> **Tipp:** Sprich in normalem Tempo und möglichst in ruhiger Umgebung. Für Deutsch sollte in den Tastatur- oder Spracheinstellungen **Deutsch** als Eingabesprache ausgewählt sein.
 
 > **Hm, ist die Funktion in die jeweilige Tastatur eingebaut?**
 
