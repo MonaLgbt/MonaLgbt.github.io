@@ -39,7 +39,7 @@ Ein Blog ist wie ein Tagebuch im Internet.
 
 **Mit 2 Programmen von Microsoft kann man Markdown schreiben.**  
 Aber Microsoft braucht Markdown für die Künstliche Intelligenz.  
-Mit Markdown kann die besser arbeiten.  
+Die kann mit Markdown besser arbeiten.  
 Künstliche Intelligenz nennt man oft KI.  
 Die 2 Programme sind etwas eingeschränkt in der Nutzung.  
 Das heißt:  
