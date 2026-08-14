@@ -14,7 +14,9 @@ layout: default
 - Unterschiedliche Tastaturen nutzen
 - Bequeme Eingabe per Speech to Text
 - eigene Dokumente auf das gegebene Hochformat anpassen: Chou3 statt A4
-- konvertieren in beliebige Zielformate
+- konvertieren in beliebige Zielformate  
+Das heißt: Markdown in Word umwandeln  
+(Ja, das geht! Mit pandoc)
 
 > **Wie geht die Eingabe per Speech to Text in Android?**
 
