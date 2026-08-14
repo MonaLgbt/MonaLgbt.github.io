@@ -44,8 +44,8 @@ Denn Microsoft braucht Markdown für die Künstliche Intelligenz.
 Die kann mit Markdown besser arbeiten.  
 Künstliche Intelligenz nennt man oft KI.  
 Das heißt:  
-Markdown ist kein Ersatz für Word.  
-Und Markdown ist wichtig für die KI.  
+- Markdown ist kein Ersatz für Word.  
+- Und Markdown ist wichtig für die KI.  
 
 **Das merkt man zum Beispiel daran:**  
 Microsoft hat viele bekannte Funktionen nicht eingebaut.  
