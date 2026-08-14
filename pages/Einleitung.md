@@ -32,11 +32,8 @@ Es fühlt sich nicht nach Technik an, sondern nach Freiheit.**
 - Das Schreiben fühlt sich oft leichter an.
 - Dinge werden klarer, wenn man sie aufschreibt.
 - Man kann Gedanken sammeln und ordnen.
-- Eine Wissenssammlung wächst mit der Zeit.
-- Man findet eigene Notizen später leichter wieder.
-- Texte bleiben lange gut lesbar.
-- Man kann sie in vielen Programmen öffnen.
-- Man kann sie oft leicht in andere Formate bringen.
+- Ein reines Text-Format ist gut als Archiv.
+- Man kann es in vielen Programmen öffnen.
 - Markdown passt gut für Notizen, Ideen und Listen.
 - Markdown ist gut für Menschen, die gerne strukturieren.
 
