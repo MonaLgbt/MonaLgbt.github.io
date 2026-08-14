@@ -22,11 +22,11 @@ Notepad zeigt jetzt Markdown richtig an.
 Das ist neu.  
 
 Auch neu ist der Microsoft 365 Editor.  
-Es gibt den Editor erst seit kurzer Zeit.  
-Mit dem Editor kann man Markdown schreiben.  
+Es gibt den M365 Editor erst seit kurzer Zeit.  
+Der Editor ist für das Schreiben von Markdown gemacht.  
 Und Sie können sich Texte in Markdown anschauen.  
 
-Der Microsoft 365 Editor gehört zu Sharepoint und OneDrive.  
+Der M365 Editor gehört zu Sharepoint und OneDrive.  
 Sharepoint und OneDrive helfen Ihnen beim Ablegen  
 und Weitergeben von Dateien.  
 Microsoft hat dem Editor keinen richtigen Namen gegeben.  
@@ -34,7 +34,7 @@ Das bedeutet:
 Sie werden ihn über diesen Suchbegriff nicht finden.  
 Der Editor ist einfach da und hat keinen speziellen Namen.  
 
-Sie können Notepad oder Microsoft 365 Editor benutzen,  
+Sie können Notepad oder M365 Editor benutzen,  
 um einfach Texte zu schreiben und zu gestalten.  
 
 [weiter](LeichteSprache.md)
