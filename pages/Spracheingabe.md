@@ -5,20 +5,6 @@ layout: default
 
 [Zurück zu index.md](../index.md)
 
-# Ein "Word" für die Hosentasche
-
-### Alles passend machen
-
-- Unterschiedliche Tastaturen nutzen.  
-- Bequeme Eingabe per Speech to Text.  
-- Eigene Dokumente auf das gegebene Hochformat anpassen,  
-damit PDF besser in das Handyformat passen.  
-Zum Beispiel: Chou3 (120 x 235 mm) statt A4.  
-- In beliebige Zielformate konvertieren.  
-Das heißt:  
-Zum Beispiel Markdown in Word umwandeln.  
-(Ja, das geht! Mit Pandoc)
-
 > **Wie geht die Eingabe per Speech to Text in Android?**
 
 ## So funktioniert es
