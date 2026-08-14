@@ -38,7 +38,7 @@ Mit Markdown kann man leicht Texte zu einem Blog hinzufügen.
 Ein Blog ist wie ein Tagebuch im Internet.  
 
 **Es gibt gleich 2 Programme für Markdown.**  
-Das sind Notepad und M365 Editor.  
+Das sind Notepad und der namenlose M365 Editor.  
 Aber Microsoft braucht Markdown für die Künstliche Intelligenz.  
 Die kann mit Markdown besser arbeiten.  
 Künstliche Intelligenz nennt man oft KI.  
