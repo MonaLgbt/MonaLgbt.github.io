@@ -7,7 +7,7 @@ layout: default
 
 # Markdown-Funktionen
 
-Das Dingsi unterstützt zum Beispiel nicht:
+M365 Editor unterstützt zum Beispiel nicht:
 
 ## Fußnoten
 
@@ -41,7 +41,7 @@ links  | rechts | mittig
 
 ---
 
-## Codeblocks im Dingsi
+## Codeblocks im M365 Editor
 
 ```text
 for i in range(10):
