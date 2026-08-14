@@ -55,7 +55,7 @@ Es fühlt sich nicht nach Technik an, sondern nach Freiheit.**
 
 - Unterschiedliche Tastaturen nutzen.  
 - Bequeme Eingabe per Speech to Text.  
-- Damit PDF besser in das Handyformat passen, kann man das Format anpassen.  
+- Damit die eigenen PDF besser in das Handyformat passen, kann man das Format anpassen.  
 Zum Beispiel: Chou3 (120 x 235 mm) statt A4.  
 - In beliebige Zielformate konvertieren.  
 Das heißt:  
