@@ -29,7 +29,7 @@ Das heißt:
 -	Texte sehen schöner aus.  
 -	Texte sind leichter zu lesen.  
 
-**Markdown ist neu bei Microsoft.**  
+**Markdown ist neu bei Windows.**  
 Aber viele Menschen benutzen Markdown schon länger.  
 Besonders Menschen, die mit Linux arbeiten.  
 Linux ist ein anderes Betriebssystem für Computer.  
