@@ -30,9 +30,7 @@ Microsoft investiert aktuell deutlich stärker in:
 
 als in ein vollständiges Publishing-System für Druckausgaben.
 
-Wenn du in Microsoft 365 Dokumentation schreibst, ist Markdown aus Microsoft-Sicht eher: „das Quellformat“
-
-und PDF ist: „ein Exportformat, das durch einen separaten Renderer erzeugt wird“.
+Wenn du in Microsoft 365 Dokumentation schreibst, ist Markdown aus Microsoft-Sicht eher: „das Quellformat“ und PDF ist: „ein Exportformat, das durch einen separaten Renderer erzeugt wird“.
 
 Für technische Dokumentation funktioniert das sehr gut. Für formale Dokumente mit definiertem Layout, Freigabelinien, Briefkopf oder Corporate Design landet man häufig wieder bei Word oder einem spezialisierten Markdown-Renderer.
 
