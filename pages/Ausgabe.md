@@ -24,7 +24,7 @@ layout: default
 
 Microsoft investiert aktuell deutlich stärker in:
 
-- Markdown als KI- und Dokumentenaustauschformat
+- Markdown als KI- und Dokumenten&shy;austauschformat
 - Markdown-Ausgabe aus Azure-Diensten
 - Markdown als Zwischenschicht zwischen Dokumenten und LLMs
 
