@@ -39,9 +39,6 @@ Es fühlt sich nicht nach Technik an, sondern nach Freiheit.**
 - Man kann sie oft leicht in andere Formate bringen.
 - Markdown passt gut für Notizen, Ideen und Listen.
 - Markdown ist gut für Menschen, die gerne strukturieren.
-- Man lernt nebenbei etwas über das Web.
-- Man kann Webseiten als Hobby entdecken.
-- Man kann besser verstehen, wie Inhalte aufgebaut sind.
 
 ### Ideal für Wissenssammlungen
 
