@@ -5,8 +5,6 @@ layout: default
 
 [Zurück zu index.md](../index.md)
 
-> **"Word" steht hier nur als bekanntes Synonym für Textprogramme. Für die mobile Nutzung ist es komplett ungeeignet.**
-
 # Ein "Word" für die Hosentasche
 
 ### Alles passend machen
