@@ -38,7 +38,7 @@ Mit Markdown kann man leicht Texte zu einem Blog hinzufügen.
 Ein Blog ist wie ein Tagebuch im Internet.  
 
 **Mit 2 Programmen von Microsoft kann man Markdown schreiben.**  
-Aber Microsoft braucht Markdown auch für die Künstliche Intelligenz.  
+Aber Microsoft braucht Markdown für die Künstliche Intelligenz.  
 Mit Markdown kann die besser arbeiten.  
 Künstliche Intelligenz nennt man oft KI.  
 Die 2 Programme sind etwas eingeschränkt in der Nutzung.  
