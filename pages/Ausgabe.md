@@ -20,47 +20,7 @@ layout: default
 
 > **⚠️ Ja gut, Microsoft's Interessen sind nicht unbedingt die der Anwender.**
 
-### Was bedeutet das für PDF und Papier?
-
-Microsoft geht im Wesentlichen von diesem Ablauf aus:
-
-1. Inhalt  
-   ↓
-2. Markdown  
-   ↓
-3. Renderer / Dokumentwerkzeug  
-   ↓
-4. PDF oder Druck  
-
-
-### Markdown beschreibt:
-
-- Überschriften
-- Listen
-- Tabellen
-- Links
-- Bilder
-- Codeblöcke
-
-**aber nicht:**
-
-- exakte Seitenumbrüche
-- Kopf-/Fußzeilen
-- Druckränder
-- Corporate Design
-- Seitenzahlen an definierten Stellen
-- typografische Feinheiten
-
-Deshalb wird für druckreife Dokumente typischerweise ein weiterer Schritt benötigt, z. B.:
-
-- Word
-- VS Code + Markdown-PDF
-- Pandoc
-- GitHub Pages → PDF
-- HTML + Browser-Druckfunktion
-- Microsoft-Ökosystem heute
-
-> **⚠️ Interessanterweise gibt es in Microsoft 365 bislang keinen einheitlichen „Markdown → PDF“-Standardworkflow, wie man ihn etwa von Pandoc kennt.**
+### Meine praktische Einschätzung
 
 Microsoft investiert aktuell deutlich stärker in:
 
@@ -70,16 +30,12 @@ Microsoft investiert aktuell deutlich stärker in:
 
 als in ein vollständiges Publishing-System für Druckausgaben.
 
-### Meine praktische Einschätzung
+Wenn du in Microsoft 365 Dokumentation schreibst, ist Markdown aus Microsoft-Sicht eher: „das Quellformat“
 
-Wenn du in Microsoft 365 Dokumentation schreibst, ist Markdown aus Microsoft-Sicht eher:
-
-„das Quellformat“
-
-und PDF ist:
-
-„ein Exportformat, das durch einen separaten Renderer erzeugt wird“.
+und PDF ist: „ein Exportformat, das durch einen separaten Renderer erzeugt wird“.
 
 Für technische Dokumentation funktioniert das sehr gut. Für formale Dokumente mit definiertem Layout, Freigabelinien, Briefkopf oder Corporate Design landet man häufig wieder bei Word oder einem spezialisierten Markdown-Renderer.
 
 Deshalb empfinden viele Microsoft-Anwender die Geschichte derzeit als etwas unfertig: Markdown wird an vielen Stellen erzeugt und konsumiert, aber der Weg zu einem professionellen PDF ist nicht durchgängig standardisiert.
+
+> **⚠️ Interessanterweise gibt es in Microsoft 365 bislang keinen einheitlichen „Markdown → PDF“-Standardworkflow, wie man ihn etwa von Pandoc kennt.**
