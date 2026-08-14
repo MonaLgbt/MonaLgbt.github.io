@@ -9,15 +9,14 @@ layout: default
 
 ### Alles passend machen
 
-- Unterschiedliche Tastaturen nutzen
-- Bequeme Eingabe per Speech to Text
+- Unterschiedliche Tastaturen nutzen.  
+- Bequeme Eingabe per Speech to Text.  
 - Eigene Dokumente auf das gegebene Hochformat anpassen,  
 damit PDF besser in das Handyformat passen.  
 Zum Beispiel: Chou3 (120 x 235) statt A4.  
-
-- konvertieren in beliebige Zielformate  
-Das heißt: Markdown in Word umwandeln  
-(Ja, das geht! Mit pandoc)
+- In beliebige Zielformate konvertieren.  
+Das heißt: Markdown in Word umwandeln.  
+(Ja, das geht! Mit Pandoc)
 
 > **Wie geht die Eingabe per Speech to Text in Android?**
 
