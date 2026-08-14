@@ -119,6 +119,7 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
 ## Kurzfassung
 
 ### Notepad
+
 Kann im Wesentlichen nur:
 
 - Überschriften
@@ -130,7 +131,7 @@ Kann im Wesentlichen nur:
 
 Alles darüber hinaus (Tabellen, Codeblöcke, Checklisten, Bilder usw.) wird meist als normaler Text angezeigt.
 
-### M365 Markdown-Editor (OneDrive/SharePoint)
+### M365 Markdown-Editor
 
 Kann zusätzlich:
 
