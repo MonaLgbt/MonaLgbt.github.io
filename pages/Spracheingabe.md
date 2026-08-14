@@ -13,7 +13,7 @@ layout: default
 - Bequeme Eingabe per Speech to Text.  
 - Eigene Dokumente auf das gegebene Hochformat anpassen,  
 damit PDF besser in das Handyformat passen.  
-Zum Beispiel: Chou3 (120 x 235) statt A4.  
+Zum Beispiel: Chou3 (120 x 235 mm) statt A4.  
 - In beliebige Zielformate konvertieren.  
 Das heißt: Markdown in Word umwandeln.  
 (Ja, das geht! Mit Pandoc)
