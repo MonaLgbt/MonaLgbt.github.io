@@ -57,4 +57,16 @@ Es fühlt sich nicht nach Technik an, sondern nach Freiheit.**
 - Es ist einfach genug für den Alltag und interessant genug zum Entdecken.
 - So wird Schreiben nicht nur Arbeit, sondern auch ein kleines Hobby.
 
+### Alles passend machen
+
+- Unterschiedliche Tastaturen nutzen.  
+- Bequeme Eingabe per Speech to Text.  
+- Eigene Dokumente auf das gegebene Hochformat anpassen,  
+damit PDF besser in das Handyformat passen.  
+Zum Beispiel: Chou3 (120 x 235 mm) statt A4.  
+- In beliebige Zielformate konvertieren.  
+Das heißt:  
+Zum Beispiel Markdown in Word umwandeln.  
+(Ja, das geht! Mit Pandoc)
+
 [weiter](Spracheingabe.md)
