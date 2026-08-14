@@ -42,7 +42,7 @@ Das sind Notepad und M365 Editor.
 Aber Microsoft braucht Markdown für die Künstliche Intelligenz.  
 Die kann mit Markdown besser arbeiten.  
 Künstliche Intelligenz nennt man oft KI.  
-Die 2 Programme sind etwas eingeschränkt in der Nutzung.  
+Leider sind die Programme etwas eingeschränkt in der Nutzung.  
 Das heißt:  
 Microsoft möchte Word nicht ersetzen.  
 Für Microsoft scheint die KI wichtiger zu sein.  
