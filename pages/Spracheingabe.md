@@ -15,7 +15,8 @@ layout: default
 damit PDF besser in das Handyformat passen.  
 Zum Beispiel: Chou3 (120 x 235 mm) statt A4.  
 - In beliebige Zielformate konvertieren.  
-Das heißt: Markdown in Word umwandeln.  
+Das heißt:  
+Zum Beispiel Markdown in Word umwandeln.  
 (Ja, das geht! Mit Pandoc)
 
 > **Wie geht die Eingabe per Speech to Text in Android?**
