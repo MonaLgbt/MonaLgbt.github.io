@@ -37,7 +37,7 @@ Auch Menschen, die Webseiten machen, benutzen Markdown.
 Mit Markdown kann man leicht Texte zu einem Blog hinzufügen.  
 Ein Blog ist wie ein Tagebuch im Internet.  
 
-**Mit 2 Programmen von Microsoft kann man Markdown schreiben.**  
+**Es gibt gleich 2 Programme für Markdown.**  
 Das sind Notepad und M365 Editor.  
 Aber Microsoft braucht Markdown für die Künstliche Intelligenz.  
 Die kann mit Markdown besser arbeiten.  
