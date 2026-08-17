@@ -62,4 +62,4 @@ Danach in HeliBoard nochmals **Spracheingabe** in der Symbolleiste aktivieren. [
 
 Wenn du eine möglichst datenschutzfreundliche Lösung möchtest, ist **FUTO Voice Input** eine mögliche Ergänzung zu HeliBoard; danach lässt sich die Spracheingabe-Schaltfläche in HeliBoard aktivieren. [community.e](https://community.e.foundation/t/speech-2-text-privacy-friendly/58061)
 
-[weiter](Dingsi.md)
+[weiter](040_Dingsi.md)
