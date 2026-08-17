@@ -32,3 +32,5 @@ Manche Messenger zeigen den Text schön an,
 wenn Sie Markdown benutzen.  
 Probieren Sie es einfach aus.  
 Vielleicht funktioniert es bei Ihrem Messenger.  
+
+[weiter](030_Spracheingabe.md)
