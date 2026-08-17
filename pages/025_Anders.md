@@ -13,8 +13,8 @@ Normale Textprogramme haben ein Menü.
 Ein Menü ist eine Liste mit Befehlen.  
 Zum Beispiel: Word oder Google Docs haben ein Menü.  
 
-Markdown hat kein Menü.  
-Sie brauchen kein Menü.  
+**Markdown hat kein Menü.  
+Sie brauchen kein Menü.**
 
 Zum Beispiel:  
 Sie möchten einen Satz als Überschrift machen.  
