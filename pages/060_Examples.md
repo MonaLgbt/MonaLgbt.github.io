@@ -103,7 +103,7 @@ Ein Codeblock zeigt den Quelltext:
 >> einrücken.
 ```
 
-[weiter](comparison.md)
+[weiter](070_Vergleich.md)
 
 <!-- Dies ist ein mehrzeiliger Kommentar.
 <script>
