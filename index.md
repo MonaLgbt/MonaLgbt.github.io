@@ -19,6 +19,7 @@ Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt, die Intellige
 
 [Test 2](pages/020_Einleitung.md) 
 [Test 25](pages/025_Anders.md) 
+[Test 26](pages/026_Nomenu.md)
 [Test 3](pages/030_Spracheingabe.md) 
 [Test 4](pages/040_Dingsi.md) 
 [Test 5](pages/050_LeichteSprache.md) 
