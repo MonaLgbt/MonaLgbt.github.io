@@ -37,4 +37,4 @@ Der Editor ist einfach da und hat keinen speziellen Namen.
 Sie können Notepad oder M365 Editor benutzen,  
 um einfach Texte zu schreiben und zu gestalten.  
 
-[weiter](LeichteSprache.md)
+[weiter](050_LeichteSprache.md)
