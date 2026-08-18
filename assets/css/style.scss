@@ -17,11 +17,11 @@ body {
     line-height: 1.5;
     font-family: Cantarell;
     font-size: 35px;
-    background-color: FloralWhite !important;
+    /* background-color: FloralWhite !important; */
     /* background-color: #fdfcf7; */
-    /* background-color: #faf7f0; */
-    /* color: #222; */
-    color: darkblue !important;
+    background-color: #faf7f0 !important;
+    color: #222 !important;
+    /* color: darkblue !important; */
 }
 
 @media (max-width: 800px) {
