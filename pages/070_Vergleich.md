@@ -111,7 +111,7 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
     <tr>
       <td>Gerenderte Vorschau</td>
       <td>✅ einfach</td>
-      <td>✅ umfangreicher</td>
+      <td>✅ umfangreich</td>
     </tr>
   </tbody>
 </table>
