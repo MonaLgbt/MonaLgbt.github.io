@@ -12,9 +12,9 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
 <table>
   <thead>
     <tr>
-      <th style="width: 60%;">Funktion</th>
-      <th style="width: 20%;">Notepad</th>
-      <th style="width: 20%;">M365-Dingsi</th>
+      <th style="width: 50%;">Funktion</th>
+      <th style="width: 25%;">Notepad</th>
+      <th style="width: 25%;">M365-Dingsi</th>
     </tr>
   </thead>
   <tbody>
