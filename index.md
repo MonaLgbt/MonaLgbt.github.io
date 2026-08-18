@@ -17,14 +17,15 @@ Einzelne Präsentationsbilder wurden von Unsplash (https://unsplash.com) bezogen
 
 Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt, die Intelligenz nachahmen. Sie dienen ausschließlich Bildungszwecken.
 
-[Test 20](pages/020_Einleitung.md) 
-[Test 25](pages/025_Anders.md) 
+[Test 20](pages/020_Einleitung.md)  
+[Test 24](pages/024_Ablenkung.md)  
+[Test 25](pages/025_Anders.md)  
 [Test 26](pages/026_Nomenu.md)  
-[Test 30](pages/030_Spracheingabe.md) 
-[Test 40](pages/040_Dingsi.md) 
+[Test 30](pages/030_Spracheingabe.md)  
+[Test 40](pages/040_Dingsi.md)  
 [Test 50](pages/050_LeichteSprache.md)  
-[Test 60](pages/060_Examples.md) 
-[Test 70](pages/070_Vergleich.md) 
+[Test 60](pages/060_Examples.md)  
+[Test 70](pages/070_Vergleich.md)  
 [Test 80](pages/080_Ausgabe.md)  
 
 <!-- [Link zu ex_02.md](pages/ex_02.md) -->
