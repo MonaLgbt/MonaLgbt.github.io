@@ -62,4 +62,4 @@ Das heißt:
 Zum Beispiel Markdown in Word umwandeln.  
 Ja, das geht mit Pandoc.
 
-[weiter](025_Anders.md)
+[weiter](024_Ablenkung.md)
