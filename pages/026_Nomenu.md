@@ -5,6 +5,8 @@ layout: default
 
 [Zurück zu index.md](../index.md)
 
+> **Markdown ist besonders gut für Handys und Tablets geeignet.**
+
 ## Überall Markdown schreiben
 
 Zum Beispiel:  
