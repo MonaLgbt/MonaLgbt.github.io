@@ -1,8 +1,15 @@
-Das Gute an Markdown ist, dass es im Prinzip schon ablenkungsfrei ist.
+---
+title: Test 24
+layout: default
+---
+
+[Zurück zu index.md](../index.md)
+
+> **Das Gute an Markdown ist, dass es im Prinzip schon ablenkungsfrei ist.**
 
 Wer oft am Computer arbeitet, kennt das Problem.  
 Man kann so viel sehen und entdecken.  
-Dann kann man manchmal schwer bei einer Aufgabe bleiben.  
+Dann ist es manchmal schwer bei einer Aufgabe zu bleiben.  
 
 Aber es gibt besondere Schreib-Programme.  
 Sie haben einen Modus für wenig Ablenkung.  
