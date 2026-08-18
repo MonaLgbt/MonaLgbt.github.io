@@ -30,3 +30,4 @@ Auch diese Programme helfen beim Konzentrieren.
 Denn sie zeigen nur das Nötigste auf dem Bildschirm.  
 So können Sie gut schreiben.  
 
+[weiter](025_Anders.md)
