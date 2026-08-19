@@ -14,8 +14,8 @@ layout: default
 Wenn man oft Texte für das Handy schreibt,  
 dann ist der kleine Bildschirm vielleicht ein Problem.  
 Die Zeilen können oft kurz sein.  
-Dann kann es große Lücken im Text geben.
-Das sieht nicht schön aus.
+Dann kann es große Lücken im Text geben.  
+Das sieht nicht schön aus.  
 
 Mit Silbentrennung kann man die Wörter am Zeilenende teilen.
 Dann sind die Lücken nicht mehr so groß.
@@ -26,10 +26,32 @@ Die Texte sehen dann besser aus.
 **Diese Funktion kann im ersten Moment schwierig wirken.  
 Aber das ist gut so, weil es wirklich Spaß macht.**
 
-Es gibt die bedingte Silbentrennung.
+Es gibt die bedingte Silbentrennung.  
 Das ist eine Kombination von Zeichen,  
-die man an der entsprechenden Stelle in das Wort einfügt.
-Dann wird das Wort am Zeilenende korrekt getrennt.
-Aber nur dann, sonst passiert nichts.
-Die Kombination von Zeichen bleibt unsichtbar.
+die man an der entsprechenden Stelle in das Wort einfügt.  
+Dann wird das Wort am Zeilenende korrekt getrennt.  
+Aber nur dann, sonst passiert nichts.  
+Die Kombination von Zeichen bleibt immer unsichtbar.
+
+**Zum Beispiel:** "Zeichenkombination"
+
+**Daraus wird:** "Zeichen&shy;kombination"
+
+Also man gibt ein:
+
+```
+&shy;
+```
+
+### Und wie merkt man sich das?
+
+Vielleicht so: & = Und + shy = Uschi + ;  
+Das Semikolon schließt bei solchen Magic-Word immer ab.  
+Also merkt man sich den Namen Uschi.  
+Das Ergebnis ist:  
+
+```
+Zeichen-  
+kombination
+```
 
