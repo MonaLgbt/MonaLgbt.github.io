@@ -17,9 +17,9 @@ Die Zeilen können oft kurz sein.
 Dann kann es große Lücken im Text geben.  
 Das sieht nicht schön aus.  
 
-Mit Silbentrennung kann man die Wörter am Zeilenende teilen.
-Dann sind die Lücken nicht mehr so groß.
-Die Texte sehen dann besser aus.
+Mit Silbentrennung kann man die Wörter am Zeilenende teilen.  
+Dann sind die Lücken nicht mehr so groß.  
+Die Texte sehen dann besser aus.  
 
 ### Interessant genug zum Entdecken
 
@@ -35,7 +35,11 @@ Die Kombination von Zeichen bleibt immer unsichtbar.
 
 **Zum Beispiel:** "Zeichenkombination"
 
-**Daraus wird:** "Zeichen\&shy;kombination"
+**Daraus wird:**
+
+```
+Zeichen&shy;kombination"
+```
 
 Also man gibt **hintereinander** ein:
 
