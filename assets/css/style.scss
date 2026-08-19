@@ -22,6 +22,9 @@ body {
     background-color: #f0ffff !important;
     color: #222 !important;
     /* color: darkblue !important; */
+    .ls-break {
+        display: block;
+    }
 }
 
 @media (max-width: 800px) {
