@@ -59,7 +59,7 @@ Es fühlt sich nicht nach Technik an, sondern nach Freiheit.**
 Zum Beispiel: Chou3 (120 x 235 mm) statt A4.  
 - In beliebige Zielformate konvertieren.  
 Das heißt:  
-Zum Beispiel Markdown in Word umwandeln.  
+Zum Beispiel Markdown in Word umwandeln. <br class="ls-break">
 Ja, das geht mit Pandoc.
 
 [weiter](024_Ablenkung.md)
