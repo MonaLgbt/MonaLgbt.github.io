@@ -38,7 +38,7 @@ Die Kombination von Zeichen bleibt immer unsichtbar.
 **Daraus wird:**
 
 ```
-Zeichen&shy;kombination"
+Zeichen&shy;kombination
 ```
 
 Also man gibt **hintereinander** ein:
