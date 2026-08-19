@@ -150,4 +150,4 @@ Der **Notepad-Markdown-Support** ist eher ein Rich-Text-Formatierer mit Markdown
 
 Das **M365-Dingsi** ist dagegen ein echter Markdown-Viewer/-Editor für Dokumentation und README-Dateien. Allerdings ohne die Möglichkeit mit Html, Css und JavaScript zu erweitern.
 
-[weiter](080_Ausgabe.md)
+[weiter](075_Nerdistan.md)
