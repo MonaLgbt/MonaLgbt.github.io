@@ -35,12 +35,14 @@ Die Kombination von Zeichen bleibt immer unsichtbar.
 
 **Zum Beispiel:** "Zeichenkombination"
 
-**Daraus wird:** "Zeichen**\&shy;**kombination"
+**Daraus wird:** "Zeichen\&shy;kombination"
 
-Also man gibt ein:
+Also man gibt **hintereinander** ein:
 
 ```
+Zeichen
 &shy;
+kombination
 ```
 
 ### Und wie merkt man sich das?
@@ -55,3 +57,4 @@ Zeichen-
 kombination
 ```
 
+[weiter](080_Ausgabe.md)
