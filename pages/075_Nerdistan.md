@@ -48,7 +48,7 @@ kombination
 ### Und wie merkt man sich das?
 
 Vielleicht so: & = Und + shy = Uschi + ;  
-Das Semikolon schließt bei solchen Magic-Word immer ab.  
+Das Semikolon schließt bei solchen Magic-Words immer ab.  
 Also merkt man sich den Namen Uschi.  
 Das Ergebnis ist:  
 
