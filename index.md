@@ -26,6 +26,7 @@ Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt, die Intellige
 [Test 50](pages/050_LeichteSprache.md)  
 [Test 60](pages/060_Examples.md)  
 [Test 70](pages/070_Vergleich.md)  
+[Test 75](pages/075_Nerdistan.md)
 [Test 80](pages/080_Ausgabe.md)  
 
 <!-- [Link zu ex_02.md](pages/ex_02.md) -->
