@@ -9,16 +9,16 @@ layout: default
 
 ## Ein "Word" für die Hosentasche
 
-**Markdown ist wie ein guter Notizblock für unterwegs:  
-einfach, klar und immer bereit.  
-Man schreibt los, und der Text bleibt übersichtlich,  
-leicht lesbar und später gut wiederzufinden.  
-Es macht das Schreiben leichter,  
-das Denken ordentlicher und  
-die Wissenssammlung lebendiger.  
-Markdown ist auch ein freundlicher Einstieg ins Web.  
-Man muss kein Profi sein, um schöne, gut strukturierte Texte zu schreiben.  
-Genau das macht es so attraktiv:  
+**Markdown ist wie ein guter Notizblock für unterwegs: <br class="ls-break">
+einfach, klar und immer bereit. <br class="ls-break">
+Man schreibt los, und der Text bleibt übersichtlich, <br class="ls-break">
+leicht lesbar und später gut wiederzufinden. <br class="ls-break">
+Es macht das Schreiben leichter, <br class="ls-break">
+das Denken ordentlicher und <br class="ls-break">
+die Wissenssammlung lebendiger. <br class="ls-break">
+Markdown ist auch ein freundlicher Einstieg ins Web. <br class="ls-break">
+Man muss kein Profi sein, um schöne, gut strukturierte Texte zu schreiben. <br class="ls-break">
+Genau das macht es so attraktiv: <br class="ls-break">
 Es fühlt sich nicht nach Technik an, sondern nach Freiheit.**
 
 ### Warum Markdown gut ist
