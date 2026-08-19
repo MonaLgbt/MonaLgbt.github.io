@@ -35,7 +35,7 @@ Die Kombination von Zeichen bleibt immer unsichtbar.
 
 **Zum Beispiel:** "Zeichenkombination"
 
-**Daraus wird:** "Zeichen&shy;kombination"
+**Daraus wird:** "Zeichen\&shy;kombination"
 
 Also man gibt ein:
 
