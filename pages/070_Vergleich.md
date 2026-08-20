@@ -104,7 +104,7 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
       <td>✅ größtenteils</td>
     </tr>
     <tr>
-      <td>Markdown-Quelltext anzeigen:</td>
+      <td>Markdown-Quelltext:</td>
       <td>✅</td>
       <td>✅</td>
     </tr>
