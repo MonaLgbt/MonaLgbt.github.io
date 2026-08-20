@@ -17,7 +17,7 @@ Die Zeilen können oft kurz sein.
 Dann kann es große Lücken im Text geben.  
 Das sieht nicht schön aus. [^1]  
 
-### Die Lösung: lange Wörter trennen
+#### Die Lösung: lange Wörter trennen
 
 Mit Silbentrennung kann man die Wörter am Zeilenende teilen.  
 Dann sind die Lücken nicht mehr so groß.  
