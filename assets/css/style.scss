@@ -75,9 +75,10 @@ pre {
     overflow-x: auto;
 }
 
-table {
-    display: block;
-    overflow-x: auto;
+table thead th {
+  background-color: linen !important;
+  color: black !important;
+  font-weight: bold;
 }
 
 /* Das ist ein Kommentar 
