@@ -15,7 +15,7 @@ Wenn man oft Texte für das Handy schreibt,
 dann ist der kleine Bildschirm vielleicht ein Problem.  
 Die Zeilen können oft kurz sein.  
 Dann kann es große Lücken im Text geben.  
-Das sieht nicht schön aus.  
+Das sieht nicht schön aus. [^1]  
 
 Mit Silbentrennung kann man die Wörter am Zeilenende teilen.  
 Dann sind die Lücken nicht mehr so groß.  
@@ -60,5 +60,9 @@ Das Ergebnis ist:
 Zeichen-  
 kombination
 ```
+
+[^1]: Eine andere Lösung wäre:  
+Blocksatz plus automatische Silbentrennung.  
+Das kann man im CSS einstellen.
 
 [weiter](080_Ausgabe.md)
