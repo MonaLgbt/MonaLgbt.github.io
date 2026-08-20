@@ -54,11 +54,6 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
       <td>✅</td>
     </tr>
     <tr>
-      <td>Links: <code>[Text](Link)</code></td>
-      <td>✅</td>
-      <td>✅</td>
-    </tr>
-    <tr>
       <td>Kommentar: <code>&gt; Text</code><br>Zitat: <code>&gt;&gt; Text</code></td>
       <td>❌</td>
       <td>✅</td>
@@ -81,6 +76,11 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
     <tr>
       <td>Checklisten: <code>- [x], - [ ]</code></td>
       <td>❌</td>
+      <td>✅</td>
+    </tr>
+    <tr>
+      <td>Links: <code>[Text](Link)</code></td>
+      <td>✅</td>
       <td>✅</td>
     </tr>
     <tr>
