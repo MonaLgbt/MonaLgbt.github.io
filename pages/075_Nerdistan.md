@@ -61,8 +61,8 @@ Zeichen-
 kombination
 ```
 
-[^1]: Eine andere Lösung wäre:  
-Blocksatz plus automatische Silbentrennung.  
+[^1]: Eine andere Lösung wäre:<br>
+Blocksatz plus automatische Silbentrennung.<br>
 Das kann man im CSS einstellen.
 
 [weiter](080_Ausgabe.md)
