@@ -9,3 +9,8 @@ table thead th {
   color: black !important;
   font-weight: bold;
 }
+
+table {
+    display: block;
+    overflow-x: auto;
+}
