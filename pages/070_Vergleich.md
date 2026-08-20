@@ -49,7 +49,7 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
       <td>✅</td>
     </tr>
     <tr>
-      <td>Verschachtelte Listen: <code>  - Pt.</code></td>
+      <td>Verschachtelte Listen: <code>nbsp;nbsp;- Pt.</code></td>
       <td>✅</td>
       <td>✅</td>
     </tr>
