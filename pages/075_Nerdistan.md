@@ -9,7 +9,7 @@ layout: default
 
 ## Neues aus Nerdistan
 
-**Oder wie merke ich mir nerdisches?**
+#### Oder wie merke ich mir nerdisches?
 
 Wenn man oft Texte für das Handy schreibt,  
 dann ist der kleine Bildschirm vielleicht ein Problem.  
