@@ -94,7 +94,7 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
       <td>✅</td>
     </tr>
     <tr>
-      <td>Fußnoten: <code>Text[^1]</code></td>
+      <td>Fußnoten: <code>Text[^1]</code><code>[^1]: Text</code></td>
       <td>❌</td>
       <td>✅ ?</td>
     </tr>
