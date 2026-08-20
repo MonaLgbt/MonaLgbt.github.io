@@ -29,87 +29,87 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
       <td>✅</td>
     </tr>
     <tr>
-      <td>Kursiv (<code>*Text*</code>)</td>
+      <td>Kursiv: <code>*Text*</code></td>
       <td>✅</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Durchgestrichen (<code>~~Text~~</code>)</td>
+      <td>Durchgestrichen: <code>~~Text~~</code></td>
       <td>✅</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Aufzählungen (<code>- Pt.</code>)</td>
+      <td>Aufzählungen: <code>- Pt.</code></td>
       <td>✅</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Nummerierte Listen (<code>1. Pt.</code>)</td>
+      <td>Nummerierte Listen: <code>1. Pt.</code></td>
       <td>✅</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Verschachtelte Listen (<code>  - Pt.</code>)</td>
+      <td>Verschachtelte Listen: <code>  - Pt.</code></td>
       <td>✅</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Links (<code>[Text](Link)</code>)</td>
+      <td>Links: <code>[Text](Link)</code></td>
       <td>✅</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Blockzitate (<code>&gt; Text, &gt;&gt; Text</code>)</td>
+      <td>Blockzitate: <code>&gt; Text, &gt;&gt; Text</code></td>
       <td>❌</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Tabellen (<code>|:---:|</code>)</td>
+      <td>Tabellen: <code>|:---:|</code></td>
       <td>❌</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Codeblöcke (<code>```Code```</code>)</td>
+      <td>Codeblöcke: <code>```Code```</code></td>
       <td>❌</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Inline-Code (<code>`Code`</code>)</td>
+      <td>Inline-Code: <code>`Code`</code></td>
       <td>❌</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Checklisten (<code>- [x], - [ ]</code>)</td>
+      <td>Checklisten: <code>- [x], - [ ]</code></td>
       <td>❌</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Bilder (<code>![Text](Link)</code>)</td>
+      <td>Bilder: <code>![Text](Link)</code></td>
       <td>❌</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Horizontale Linien (<code>---</code>)</td>
+      <td>Horizontale Linien: <code>---</code></td>
       <td>❌</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Fußnoten (<code>Text[^1]</code>)</td>
+      <td>Fußnoten: <code>Text[^1]</code></td>
       <td>❌</td>
       <td>✅ ?</td>
     </tr>
     <tr>
-      <td>GitHub-Flavored Markdown</td>
+      <td>GitHub-Flavored Markdown:</td>
       <td>❌</td>
       <td>✅ größtenteils</td>
     </tr>
     <tr>
-      <td>Markdown-Quelltext anzeigen</td>
+      <td>Markdown-Quelltext anzeigen:</td>
       <td>✅</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Gerenderte Vorschau</td>
+      <td>Gerenderte Vorschau:</td>
       <td>✅ einfach</td>
       <td>✅ umfangreich</td>
     </tr>
