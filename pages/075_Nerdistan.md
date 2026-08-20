@@ -63,6 +63,4 @@ kombination
 
 [weiter](080_Ausgabe.md)
 
-[^1]: Eine andere Lösung wäre:<br>
-Blocksatz plus automatische Silbentrennung.<br>
-Das kann man im CSS einstellen.
+[^1]: Eine andere Lösung wäre: Blocksatz plus automatische Silbentrennung. Das kann man im CSS einstellen.
