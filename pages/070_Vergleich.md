@@ -19,12 +19,12 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
   </thead>
   <tbody>
     <tr>
-      <td>Überschriften (<code>#, ##, ###</code>)</td>
+      <td>Überschriften: <code>#, ##, ###</code></td>
       <td>✅</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Fett (<code>**Text**</code>)</td>
+      <td>Fett: <code>**Text**</code></td>
       <td>✅</td>
       <td>✅</td>
     </tr>
