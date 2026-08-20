@@ -59,7 +59,7 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
       <td>✅</td>
     </tr>
     <tr>
-      <td>Blockzitate: <code>&gt; Text, &gt;&gt; Text</code></td>
+      <td>Kommentar: <code>&gt; Text</code><br>Zitat: <code>&gt;&gt; Text</code></td>
       <td>❌</td>
       <td>✅</td>
     </tr>
