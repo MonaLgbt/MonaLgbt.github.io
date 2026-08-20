@@ -63,4 +63,4 @@ kombination
 
 [weiter](080_Ausgabe.md)
 
-[^1]: Eine andere Lösung wäre: Blocksatz plus automatische Silbentrennung. Das kann man im CSS einstellen. Aber auch dann kann Uschi helfen. Manchmal erzeugt nämlich ein langes, letztes Wort im Absatz eine unschöne Lücke.
+[^1]: Eine andere Lösung wäre: Blocksatz plus automatische Silbentrennung. So wie es hier im Wiki eingestellt ist. Aber auch dann kann Uschi helfen. Manchmal erzeugt nämlich ein langes, letztes Wort im Absatz eine unschöne Lücke.
