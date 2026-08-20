@@ -48,14 +48,17 @@ html {
 
 .highlight {
     background: #E9DED3 !important;
-    background-color: #E9DED3 !important;
 }
 
 .highlight pre,
 .highlight code {
     background: transparent !important;
 }
-    
+
+.code {
+    background-color: #E9DED3 !important;
+}
+
 h1 {
     color: #800000 !important;
 }
