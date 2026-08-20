@@ -33,7 +33,7 @@ Dann wird das Wort am Zeilenende korrekt getrennt.
 Aber nur dann, sonst passiert nichts.  
 Die Kombination von Zeichen bleibt immer unsichtbar.
 
-**Zum Beispiel:** "Zeichenkombination"
+**Zum Beispiel das Wort:** "Zeichenkombination"
 
 **Daraus wird:**
 
