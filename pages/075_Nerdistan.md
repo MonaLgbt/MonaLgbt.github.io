@@ -26,7 +26,7 @@ Die Texte sehen dann besser aus.
 ### Interessant genug zum Entdecken
 
 **Diese Funktion kann im ersten Moment schwierig wirken.  
-Aber das ist gut so, weil es wirklich Spaß macht.**
+Aber das sieht nur so aus und es macht Spaß.**
 
 Es gibt die bedingte Silbentrennung.  
 Das ist eine Kombination von Zeichen,  
