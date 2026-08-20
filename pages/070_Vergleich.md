@@ -44,12 +44,12 @@ Windows Notepad vs. M365 Markdown-Editor (OneDrive/SharePoint)
       <td>✅</td>
     </tr>
     <tr>
-      <td>Nummerierte Listen: <code>1. Pt.</code></td>
+      <td>Verschachtelte Listen: <br><code>→ - Pt.</code></td>
       <td>✅</td>
       <td>✅</td>
     </tr>
     <tr>
-      <td>Verschachtelte Listen: <br><code>→ - Pt.</code></td>
+      <td>Nummerierte Listen: <code>1. Pt.</code></td>
       <td>✅</td>
       <td>✅</td>
     </tr>
