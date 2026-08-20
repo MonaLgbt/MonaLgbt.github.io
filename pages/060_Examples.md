@@ -89,8 +89,7 @@ Schreibe `print("Hallo")` **im** Text.
 und haben meistens links einen  
 senkrechten Strich. Es hängt aber  
 vom verwendeten CSS-Stil ab.  
->> Für Zitate kann man auch weiter  
-einrücken.
+>> Antworten rücken weiter ein.
 
 Ein Codeblock zeigt den Quelltext:
 
@@ -99,8 +98,7 @@ Ein Codeblock zeigt den Quelltext:
 > und haben meistens links einen  
 > senkrechten Strich. Es hängt aber  
 > vom verwendeten CSS-Stil ab.  
->> Für Zitate kann man auch weiter  
->> einrücken.
+>> Antworten rücken weiter ein.
 ```
 
 [weiter](070_Vergleich.md)
