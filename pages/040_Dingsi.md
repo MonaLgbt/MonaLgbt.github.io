@@ -5,9 +5,9 @@ layout: default
 
 [Zurück zu index.md](../index.md)
 
-> **Markdown ist einfach genug für den Alltag und interessant genug zum Entdecken.**
+> **Microsoft hat jetzt sogar 2 Programme für Markdown.**
 
-### Microsoft hat jetzt sogar 2 Programme für Markdown
+### Notepad und Microsoft 365 Editor
 
 Mit diesen Programmen können Sie Markdown schreiben.  
 Die Programme heißen Notepad und Microsoft 365 Editor.  
