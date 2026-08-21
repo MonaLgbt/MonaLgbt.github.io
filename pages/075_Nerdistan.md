@@ -28,7 +28,7 @@ Die Texte sehen dann besser aus.
 **Diese Funktion kann im ersten Moment schwierig wirken.  
 Aber das sieht nur so aus und es macht Spaß.**
 
-Es gibt die bedingte Silbentrennung.  
+Es gibt die bedingte Silbentrennung. [^2]  
 Das ist eine Kombination von Zeichen,  
 die man an der entsprechenden Stelle in das Wort einfügt.  
 Dann wird das Wort am Zeilenende korrekt getrennt.  
@@ -54,7 +54,7 @@ kombination
 ### Und wie merkt man sich das?
 
 Vielleicht so: & = Und + shy = Uschi + ;  
-Das Semikolon schließt bei solchen [HTML-Sonderzeichen](https://www.seobility.net/de/wiki/HTML_Sonderzeichen#content-definition) immer ab. [^2]  
+Das Semikolon schließt bei solchen [HTML-Sonderzeichen](https://www.seobility.net/de/wiki/HTML_Sonderzeichen#content-definition) immer ab.  
 **Also merkt man sich den Namen Uschi.**  
 Das Ergebnis ist:  
 
