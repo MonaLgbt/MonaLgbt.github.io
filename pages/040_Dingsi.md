@@ -16,7 +16,7 @@ Sie haben nur wenige Funktionen.
 Deshalb sind sie leicht zu bedienen.  
 
 Notepad gibt es schon sehr lange.  
-Er wird benutzt für kleine Notizen oder für Konfigurations-Dateien.  
+Es wird benutzt für kleine Notizen oder für Konfigurations-Dateien.  
 Eine Konfigurations-Datei ist eine Datei für Einstellungen.  
 Notepad zeigt jetzt Markdown richtig an.  
 Das ist neu.  
