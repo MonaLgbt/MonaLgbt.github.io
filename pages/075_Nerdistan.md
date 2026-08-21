@@ -54,7 +54,7 @@ kombination
 ### Und wie merkt man sich das?
 
 Vielleicht so: & = Und + shy = Uschi + ;  
-Das Semikolon schließt bei solchen [HTML-Sonderzeichen](https://www.seobility.net/de/wiki/HTML_Sonderzeichen#content-definition) immer ab.  
+Das Semikolon schließt bei solchen [HTML-Sonderzeichen](https://www.seobility.net/de/wiki/HTML_Sonderzeichen#content-definition) immer ab. [^2]  
 **Also merkt man sich den Namen Uschi.**  
 Das Ergebnis ist:  
 
@@ -66,3 +66,5 @@ kombination
 [weiter](080_Ausgabe.md)
 
 [^1]: Eine andere Lösung wäre: Blocksatz plus automatische Silbentrennung. So wie es hier im Wiki eingestellt ist. Aber auch dann kann Uschi helfen. Manchmal erzeugt nämlich ein langes, letztes Wort im Absatz eine unschöne Lücke.
+
+[^2]: HTML Sonderzeichen sind besondere Zeichen im Internet. Du kannst diese Zeichen nicht auf der Tastatur finden. Zu diesen Zeichen gehört zum Beispiel der unsichtbare Trennstrich.
