@@ -28,10 +28,12 @@ Die Texte sehen dann besser aus.
 **Diese Funktion kann im ersten Moment schwierig wirken.  
 Aber das sieht nur so aus und es macht Spaß.**
 
-Es gibt die bedingte Silbentrennung. [^2]  
+Es gibt den unsichtbaren Trennstrich. [^2]  
 Das ist eine Kombination von Zeichen,  
 die man an der entsprechenden Stelle in das Wort einfügt.  
 Dann wird das Wort am Zeilenende korrekt getrennt.  
+Das heißt:  
+Das Wort wird geteilt und ein Trennstrich wird sichtbar.  
 Aber nur dann, sonst passiert nichts.  
 Die Kombination von Zeichen bleibt immer unsichtbar.
 
