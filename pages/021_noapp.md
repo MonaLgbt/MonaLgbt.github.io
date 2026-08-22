@@ -33,7 +33,17 @@ und der Text wird dann:
 
 *Beispiel-Text*
 
-❸ Überschrift mit  
+❸ Liste mit
+
+```
+- Beispiel A
+- Beispiel B
+```
+
+- Beispiel A
+- Beispiel B
+
+❹ Überschrift mit  
 `### Beispiel-Text`
 
 <font size="5">
@@ -46,12 +56,6 @@ Beispiel-Text
 </span>
 </font>
 <br>
-
-❹ Liste mit  
-`- Beispiel-Text`
-
-- Beispiel-Text
-
 
 Markdown ist eine **Regel**, wie man Texte schön macht.  
 Und es ist eine Sprache,  
