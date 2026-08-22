@@ -12,8 +12,8 @@ eine bestimmte Denkweise:
 Halte es einfach.**
 
 </center>
-</span style>
-</font size>
+</span>
+</font>
 
 # Was ist Markdown?
 
