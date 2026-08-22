@@ -1,8 +1,7 @@
-<font size="3">
-<span style="color:darkblue">
-<center>
+<div style="text-align: center; color: darkblue; font-size: 1.0em;">
 
-**Markdown ist eine einfache Regel, wie man Texte schön macht.**
+**Markdown ist eine einfache Regel,  
+wie man Texte schön macht.**
 
 **Es ist kein Programm und keine App, sondern nur eine Regel  
 für die Formatierung.**
@@ -11,9 +10,7 @@ für die Formatierung.**
 eine bestimmte Denkweise:  
 Halte es einfach.**
 
-</center>
-</span>
-</font>
+</div>
 
 # Was ist Markdown?
 
