@@ -40,7 +40,7 @@ und der Text wird dann:
 <span style="color:black">
 <left>
 
-**Beispiel-Text**
+Beispiel-Text
 
 </left>
 </span>
