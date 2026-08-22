@@ -1,3 +1,10 @@
+---
+title: Test 21
+layout: default
+---
+
+[Zurück zu index.md](../index.md)
+
 <div style="text-align: center; color: darkblue; font-size: 1.0em;">
 
 **Markdown ist eine einfache Regel,  
