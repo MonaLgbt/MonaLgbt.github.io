@@ -5,7 +5,7 @@ layout: default
 
 [Zurück zu index.md](../index.md)
 
-<p style="text-align: center; color: darkblue; font-size: 1.0em; font-weight: bold;">
+<p style="text-align: center; color: purple; font-size: 1.2em; font-weight: bold;">
 Markdown ist eine einfache Regel,<br>
 wie man Texte schön macht.<br>
 <br>
