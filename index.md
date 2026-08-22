@@ -17,7 +17,7 @@ Einzelne Präsentationsbilder wurden von Unsplash (https://unsplash.com) bezogen
 
 Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt, die Intelligenz nachahmen. Sie dienen ausschließlich Bildungszwecken.
 
-[Test 20](pages/020_Einleitung.md)
+[Test 20](pages/020_Einleitung.md)  
 [Test 21](pages/021_noapp.md)  
 [Test 24](pages/024_Ablenkung.md)  
 [Test 25](pages/025_Anders.md)  
