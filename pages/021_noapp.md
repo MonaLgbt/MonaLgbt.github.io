@@ -24,12 +24,16 @@ Du schreibst besondere Zeichen,
 und der Text wird dann:
 
 ❶ fett mit  
-`**Beispiel-Text**`
+```
+**Beispiel-Text**
+```
 
 **Beispiel-Text**
 
 ❷ kursiv mit  
-`*Beispiel-Text*`
+```
+*Beispiel-Text*
+```
 
 *Beispiel-Text*
 
@@ -44,7 +48,9 @@ und der Text wird dann:
 - Beispiel B
 
 ❹ Überschrift mit  
-`### Beispiel-Text`
+```
+### Beispiel-Text
+```
 
 <font size="5">
 <span style="color:black">
