@@ -43,8 +43,8 @@ und der Text wird dann:
 **Beispiel-Text**
 
 </left>
-</span style>
-</font size>
+</span>
+</font>
 
 ❹ Liste mit  
 `- Beispiel-Text`
