@@ -77,4 +77,4 @@ Darum probiere es einfach aus.
 Aber es gibt viele Programme und Apps, die Markdown nutzen können.  
 Auch moderne KI-Programme nutzen Markdown sehr gerne.
 
-
+[weiter](024_Ablenkung.md)
