@@ -27,8 +27,7 @@ Der Editor ist für das Schreiben von Markdown gemacht.
 Und Sie können sich Texte in Markdown anschauen.  
 
 Der M365 Editor gehört zu Sharepoint und OneDrive.  
-Sharepoint und OneDrive helfen Ihnen beim Ablegen  
-und Weitergeben von Dateien.  
+Sharepoint und OneDrive helfen Ihnen beim Ablegen und Weitergeben von Dateien.  
 Microsoft hat dem Editor keinen richtigen Namen gegeben.  
 Das bedeutet:  
 Sie werden ihn über diesen Suchbegriff nicht finden.  
