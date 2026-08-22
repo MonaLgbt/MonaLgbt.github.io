@@ -62,4 +62,4 @@ Das heißt:
 Zum Beispiel Markdown in Word umwandeln. <br class="ls-break">
 Ja, das geht mit Pandoc.
 
-[weiter](024_Ablenkung.md)
+[weiter](021_noapp.md)
