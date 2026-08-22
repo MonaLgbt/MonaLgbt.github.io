@@ -5,19 +5,17 @@ layout: default
 
 [Zurück zu index.md](../index.md)
 
-<div style="text-align: center; color: darkblue; font-size: 1.0em;">
-
-**Markdown ist eine einfache Regel,  
-wie man Texte schön macht.**
-
-**Es ist kein Programm und keine App, sondern nur eine Regel  
-für die Formatierung.**
-
-**Aber Markdown steht auch für  
-eine bestimmte Denkweise:  
-Halte es einfach.**
-
-</div>
+<p style="text-align: center; color: darkblue; font-size: 1.0em; font-weight: bold;">
+Markdown ist eine einfache Regel,<br>
+wie man Texte schön macht.<br>
+<br>
+Es ist kein Programm und keine App,<br> sondern nur eine Regel<br>
+für die Formatierung.<br>
+<br>
+Aber Markdown steht auch für<br>
+eine bestimmte Denkweise:<br>
+Halte es einfach.
+</p>
 
 # Was ist Markdown?
 
