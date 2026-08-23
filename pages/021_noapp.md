@@ -87,7 +87,7 @@ Darum probiere es einfach aus.
 [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) hat [Markdown](https://daringfireball.net/projects/markdown/) erfunden.  
 Jetzt gibt es viele verschiedene Arten von Markdown.  
 Diese Arten nennt man [Varianten](https://en.wikipedia.org/wiki/Markdown).  
-Sie funktionieren alle ein bisschen anders.
+Sie funktionieren alle ein bisschen anders.  
 Manche Varianten sind ähnlich.  
 Andere Varianten sind unterschiedlicher.  
 
