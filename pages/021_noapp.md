@@ -93,7 +93,7 @@ Andere Varianten sind unterschiedlicher.
 
 **An dieser Stelle fällt euch vielleicht der bekannte XKCD-Strip zu Standards ein:**
 
-![standards](assets/standards.png)
+![standards](../assets/standards.png)
 
 *Wenn wir 14 konkurrierende Standards haben und einen neuen Standard erfinden, um dieses Problem zu lösen, haben wir danach 15 konkurrierende Standards.*
 
