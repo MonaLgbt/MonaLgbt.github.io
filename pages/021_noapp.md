@@ -82,6 +82,22 @@ Du kannst Markdown in vielen Textfeldern verwenden.
 Es wird oft unterstützt aber selten erklärt.  
 Darum probiere es einfach aus.
 
+## Was ist Markdown auch?
+
+[John Gruber](https://en.wikipedia.org/wiki/John_Gruber) hat [Markdown](https://daringfireball.net/projects/markdown/) erfunden.  
+Jetzt gibt es viele verschiedene Arten von Markdown.  
+Diese Arten nennt man [Varianten](https://en.wikipedia.org/wiki/Markdown).  
+Sie funktionieren alle ein bisschen anders.
+Manche Varianten sind ähnlich.  
+Andere Varianten sind unterschiedlicher.  
+
+Aber das Grund-Prinzip ist immer gleich.  
+Man braucht nur normalen Text.  
+Außerdem benutzt man ein paar Zeichen.  
+Zum Beispiel Sternchen oder Rauten.  
+Diese Zeichen machen Text besonders.  
+So kann man Texte einfach gestalten.
+
 ## Was ist Markdown nicht?
 
 - Es ist **kein** Programm
