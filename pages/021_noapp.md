@@ -19,7 +19,7 @@ Halte es einfach.
 
 # Was ist Markdown?
 
-Markdown ist eine einfache Methode oder Art, Texte schöner zu machen.  
+Mit Markdown kann man Texte schöner gestalten.  
 Das macht den Text verständlicher.  
 Man kann Markdown schon im Quelltext gut lesen.  
 Die wenigen Extra-Zeichen stören nicht viel.  
