@@ -34,7 +34,7 @@ die man an der entsprechenden Stelle in das Wort einfügt.
 Dann wird das Wort am Zeilenende korrekt getrennt.  
 Das heißt:  
 Das Wort wird geteilt und ein Trennstrich wird sichtbar.  
-Aber nur dann, sonst passiert nichts.  
+Aber nur wenn der erste Teil in die Zeile passt, sonst passiert nichts.  
 Die Kombination von Zeichen bleibt immer unsichtbar.
 
 **Zum Beispiel das Wort:** "Zeichenkombination"
