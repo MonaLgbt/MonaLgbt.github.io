@@ -91,6 +91,12 @@ Sie funktionieren alle ein bisschen anders.
 Manche Varianten sind ähnlich.  
 Andere Varianten sind unterschiedlicher.  
 
+**An dieser Stelle fällt euch vielleicht der bekannte XKCD-Strip zu Standards ein:**
+
+![1](../../../Bilder/Computer/standards.png)
+
+*Wenn wir 14 konkurrierende Standards haben und einen neuen Standard erfinden, um dieses Problem zu lösen, haben wir danach 15 konkurrierende Standards.*
+
 Aber das Grund-Prinzip ist immer gleich.  
 Man braucht nur normalen Text.  
 Außerdem benutzt man ein paar Zeichen.  
