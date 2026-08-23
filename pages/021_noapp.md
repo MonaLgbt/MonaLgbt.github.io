@@ -29,17 +29,17 @@ und der Text wird dann:
 
 ❶ fett mit  
 ```
-**Beispiel-Text**
+**Beispiel-fett**
 ```
 
-**Beispiel-Text**
+**Beispiel-fett**
 
 ❷ kursiv mit  
 ```
-*Beispiel-Text*
+*Beispiel-kursiv*
 ```
 
-*Beispiel-Text*
+*Beispiel-kursiv*
 
 ❸ Liste mit
 
@@ -53,14 +53,14 @@ und der Text wird dann:
 
 ❹ Überschrift mit  
 ```
-### Beispiel-Text
+### Beispiel-Überschrift
 ```
 
 <font size="5">
 <span style="color:black">
 <left>
 
-Beispiel-Text
+Beispiel-Überschrift
 
 </left>
 </span>
