@@ -85,11 +85,10 @@ Darum probiere es einfach aus.
 ## Was ist Markdown auch?
 
 [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) hat [Markdown](https://daringfireball.net/projects/markdown/) erfunden.  
-Jetzt gibt es viele verschiedene Arten von Markdown.  
-Diese Arten nennt man [Varianten](https://en.wikipedia.org/wiki/Markdown).  
-Sie funktionieren alle ein bisschen anders.  
-Manche Varianten sind ähnlich.  
-Andere Varianten sind unterschiedlicher.  
+Die Erklärung von Markdown hatte viele offene Fragen.  
+Viele Entwickler nutzten Markdown unterschiedlich.  
+Manche machten Fehler, weil es nicht genau erklärt war.  
+Dadurch gab es viele verschiedene [Versionen](https://en.wikipedia.org/wiki/Markdown) von Markdown.
 
 **An dieser Stelle fällt euch vielleicht der bekannte XKCD-Strip zu Standards ein:**
 
