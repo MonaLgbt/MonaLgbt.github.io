@@ -16,10 +16,10 @@ Zum Beispiel: Word oder Google Docs haben ein Menü.
 **Markdown hat kein Menü.  
 Sie brauchen kein Menü.**
 
-Stattdessen lesen Sie die Erklörung zu Uhrem Programm.  
-Es sind wirklich nur eine Hsndvoll Dinge zum Merken.  
-Und schon geht's los.  
-Zum Beispiel:  
+Stattdessen lesen Sie die Erklärung zu Ihrem Programm.  
+Es sind wirklich nur eine Handvoll Dinge zum Merken.
+
+Und schon geht's los, zum Beispiel:  
 Sie möchten einen Satz als Überschrift machen.  
 Normalerweise markieren Sie den Satz mit der Maus.  
 Dann suchen Sie im Menü nach dem richtigen Befehl.  
