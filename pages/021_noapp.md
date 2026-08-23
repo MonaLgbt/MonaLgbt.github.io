@@ -21,7 +21,8 @@ Halte es einfach.
 
 Markdown ist eine einfache Methode oder Art, Texte schön zu machen.  
 Das gute Aussehen soll den Text verständlich machen.  
-Markdown ist schon im Quelltext viel besser zu lesen als vielleicht HTML  
+Man kann Markdown schon im Quelltext gut lesen.  
+Die wenigen Extra-Zeichen stören nicht viel.  
 Aber nur in der fertigen Ansicht ist es wirklich gut.  
 Du schreibst besondere Zeichen,  
 und der Text wird dann:
