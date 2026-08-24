@@ -68,7 +68,7 @@ Beispiel-Überschrift
 <br>
 
 Markdown ist eine **Regel**, wie man Texte schön macht.  
-Und es ist eine Sprache,  
+Und es ist eine Sprache, <br class="ls-break">
 die viele Programme verstehen.  
 Sogar einige Messenger verstehen ein bisschen Markdown.
 
@@ -108,7 +108,8 @@ So kann man Texte einfach gestalten.
 - Es ist **kein** Programm
 - Es ist **keine** App
 
-Aber es gibt viele Programme und Apps, die Markdown nutzen können.  
+Aber es gibt viele Programme und Apps, <br class="ls-break">
+die Markdown nutzen können.  
 Auch moderne KI-Programme nutzen Markdown sehr gerne.
 
 [weiter](024_Ablenkung.md)
