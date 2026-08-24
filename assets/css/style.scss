@@ -101,6 +101,15 @@ code {
 
 .sidebar {
 position: fixed;
+left: 1rem;
+top: 1rem;
+width: 200px;
+font-size: 0.8rem;
+}
+
+/*
+.sidebar {
+position: fixed;
 left: 0;
 top: 0;
 width: 220px;
@@ -113,3 +122,4 @@ padding: 1rem;
 max-width: 900px;
 margin: 0 auto;
 }
+*/
