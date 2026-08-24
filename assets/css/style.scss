@@ -98,3 +98,19 @@ code {
     overflow-wrap: break-word;
 }
 */
+
+.layout {
+display: flex;
+gap: 2rem;
+max-width: 1200px;
+margin: 0 auto;
+}
+ 
+.sidebar {
+width: 220px;
+flex-shrink: 0;
+}
+ 
+.content {
+flex: 1;
+}
