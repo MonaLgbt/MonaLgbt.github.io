@@ -108,7 +108,7 @@ So kann man Texte einfach gestalten.
 - Es ist **kein** Programm
 - Es ist **keine** App
 
-Aber es gibt viele Programme und Apps, <br class="ls-break">
+Aber es gibt viele Programme und Apps,  
 die Markdown nutzen können.  
 Auch moderne KI-Programme nutzen Markdown sehr gerne.
 
