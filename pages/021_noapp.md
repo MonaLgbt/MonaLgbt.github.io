@@ -1,6 +1,7 @@
 ---
 title: Test 21
 layout: default
+permalink: /021_noapp/
 ---
 
 [Zurück zu index.md](../index.md)
