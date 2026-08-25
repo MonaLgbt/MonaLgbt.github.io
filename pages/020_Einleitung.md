@@ -1,7 +1,6 @@
 ---
 title: Test 20
 layout: default
-permalink: /pages/020_Einleitung/
 ---
 
 [Zurück zu index.md](../index.md)
