@@ -84,6 +84,14 @@ Darum probiere es einfach aus.
 
 ## Was ist Markdown auch?
 
+**Es beschreibt eine Haltung:**
+
+- **Weniger ist mehr:** Nicht jede Information braucht komplizierte Formatierung.
+- **Inhalt vor Gestaltung:** Die Aussage soll wichtiger sein als das Aussehen.
+- **Klarheit statt Komplexität:** Texte sollen möglichst einfach strukturiert und verständlich sein.
+- **Fokus auf das Wesentliche:** Man überlegt, was wirklich gebraucht wird, und lässt Überflüssiges weg.
+- **Einfachheit schafft Flexibilität:** Ein einfacher Text lässt sich leichter bearbeiten, übertragen und in verschiedenen Programmen darstellen.
+
 [John Gruber](https://en.wikipedia.org/wiki/John_Gruber) hat [Markdown](https://daringfireball.net/projects/markdown/) erfunden.  
 Die Erklärung von Markdown hatte viele offene Fragen.  
 Viele Entwickler nutzten Markdown unterschiedlich.  
