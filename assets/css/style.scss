@@ -111,6 +111,22 @@ font-size: 16px;
 line-height: 1.4;
 }
 
+
+.sidebar ul {
+margin: 0;
+padding-left: 1rem;
+}
+ 
+.sidebar li {
+display: list-item;
+margin-bottom: 0.5rem;
+}
+ 
+.sidebar a {
+display: inline;
+}
+
+
 /*
 .sidebar {
 position: fixed;
