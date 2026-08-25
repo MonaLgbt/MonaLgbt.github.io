@@ -1,6 +1,7 @@
 ---
 title: Test 24
 layout: default
+permalink: /024_Ablenkung/
 ---
 
 [Zurück zu index.md](../index.md)
