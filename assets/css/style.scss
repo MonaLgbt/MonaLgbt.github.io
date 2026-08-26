@@ -25,8 +25,22 @@ body {
 }
 
     .ls-break {
-      display: block;
+        display: block;
     }
+
+    .sidebar {
+        position: fixed;
+        left: 20px;
+        top: 20px;
+        width: 180px;
+        font-size: 16px;
+        line-height: 1.4;
+}
+
+#sidebar-nav {
+    background: white;
+    z-index: 1000;
+}
 
 nav a:focus,
 nav a:focus-visible {
@@ -36,7 +50,7 @@ nav a:focus-visible {
 }
 
 nav.collapsed {
-display: none;
+    display: none;
 }
 
 @media (max-width: 900px) and (orientation: landscape) {
@@ -56,6 +70,15 @@ display: none;
     }
     .ls-break {
         display: none !important;
+    }
+        #sidebar-nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 280px;
+        height: 100vh;
+        background: white;
+        box-shadow: 0 0 20px rgba(0,0,0,.2);
     }
 /*    .sidebar {
       display: none;
@@ -97,13 +120,13 @@ pre {
 }
 
 table thead th {
-  background-color: #E9DED3 !important;
-  color: black !important;
-  font-weight: bold;
+    background-color: #E9DED3 !important;
+    color: black !important;
+    font-weight: bold;
 }
 
 tbody tr:nth-child(even) {
-  background-color: #E9DED3 !important;
+    background-color: #E9DED3 !important;
 }
 
 /* Das ist ein Kommentar 
@@ -119,12 +142,3 @@ code {
     overflow-wrap: break-word;
 }
 */
-
-.sidebar {
-position: fixed;
-left: 20px;
-top: 20px;
-width: 180px;
-font-size: 16px;
-line-height: 1.4;
-}
