@@ -28,6 +28,13 @@ body {
       display: block;
     }
 
+nav a:focus,
+nav a:focus-visible {
+   outline: 3px solid #005fcc;
+   outline-offset: 2px;
+   border-radius: 4px;
+}
+
 @media (max-width: 900px) and (orientation: landscape) {
     body {
         max-width: 50ch;
