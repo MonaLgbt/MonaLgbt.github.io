@@ -7,7 +7,7 @@ layout: default
 
 > **Markdown ist besonders gut für Handys und Tablets geeignet.**
 
-## Überall Markdown schreiben
+## Überall mit Markdown schreiben
 
 Zum Beispiel:  
 Sie können Markdown in Word benutzen.  
