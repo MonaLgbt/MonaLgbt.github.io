@@ -28,6 +28,12 @@ body {
       display: block;
     }
 
+@media (max-width: 700px) and (orientation: landscape) {
+    body {
+        max-width: 50ch;
+    }
+}
+
 @media (max-width: 700px) and (orientation: portrait) {
     body {
         max-width: none;
