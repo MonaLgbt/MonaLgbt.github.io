@@ -37,11 +37,6 @@ body {
         line-height: 1.4;
 }
 
-#sidebar-nav {
-    background: white;
-    z-index: 1000;
-}
-
 nav a:focus,
 nav a:focus-visible {
    outline: 3px solid #005fcc;
@@ -78,6 +73,7 @@ nav.collapsed {
         width: 280px;
         height: 100vh;
         background: white;
+        z-index: 1000;
         box-shadow: 0 0 20px rgba(0,0,0,.2);
     }
 /*    .sidebar {
