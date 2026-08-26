@@ -5,7 +5,7 @@ layout: default
 
 # Willkommen
 
-## Lizenz und Namensnennung
+## Lizenz und Namens&shy;nennung
 
 Diese Präsentation ist ausschließlich für private und pädagogische Zwecke bestimmt. Sie stellt kein kommerzielles Angebot dar und wird nicht gewerblich betrieben.
 
