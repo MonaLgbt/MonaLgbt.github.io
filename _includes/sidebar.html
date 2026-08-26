@@ -31,4 +31,14 @@ const expanded = button.getAttribute('aria-expanded') === 'true';
 button.setAttribute('aria-expanded', !expanded);
 nav.classList.toggle('collapsed');
 });
+
+const links = nav.querySelectorAll('a');
+ 
+links.forEach(link => {
+    link.addEventListener('click', () => {
+        nav.classList.add('collapsed');
+        button.setAttribute('aria-expanded', 'false');
+    });
+});
+
 </script>
