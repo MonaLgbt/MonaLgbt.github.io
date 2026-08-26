@@ -35,6 +35,10 @@ nav a:focus-visible {
    border-radius: 4px;
 }
 
+nav.collapsed {
+display: none;
+}
+
 @media (max-width: 900px) and (orientation: landscape) {
     body {
         max-width: 45ch;
