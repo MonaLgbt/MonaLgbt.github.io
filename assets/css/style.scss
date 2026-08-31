@@ -57,6 +57,9 @@ nav.collapsed {
     nav.collapsed {
         display: block;
     }
+    #menu-toggle {
+        display: none;
+    }
 }
 
 @media (max-width: 700px) and (orientation: portrait) {
