@@ -58,9 +58,13 @@ nav.collapsed {
         margin-left: auto;
         margin-right: 0;
     }
+/* Navigation auf Smartphones im Querformat immer sichtbar.
+JS setzt weiterhin .collapsed, wird hier aber bewusst überschrieben. */
     nav.collapsed {
         display: block;
     }
+/* Wenn Navigation immer sichtbar ist, 
+dann braucht es den Hamburger nicht mehr. */
     #menu-toggle {
         display: none;
     }
