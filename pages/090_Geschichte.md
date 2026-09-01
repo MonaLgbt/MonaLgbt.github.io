@@ -53,7 +53,7 @@ Die Leute haben mit unseren Werkzeugen Webseiten erstellt.
 Zum Beispiel haben sie Seiten wie Gawker oder Huffington Post gemacht.  
 Am nächsten Tag kamen dann Seiten wie Daring Fireball oder Waxy.org dazu.  
 Jede Seite war etwas ganz Neues.  
-<br><br>
+<br>
 Heute sehe ich im Internet Texte von tollen Autoren und kreativen Menschen.  
 Manchmal gefällt mir ein Text von ihnen besonders.  
 Dann denke ich: „Hey! Sie haben das in der App geschrieben, 
