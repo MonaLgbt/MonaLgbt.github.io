@@ -38,8 +38,9 @@ Egal worüber er gesprochen oder geschrieben hat:
 Er hat immer auf alle Einzelheiten geachtet.  
 Viele Technik-Journalisten haben das später genauso gemacht.  
 John hat die Technik-Medien damit beeinflusst.  
- 
-John hatte auch Glück mit dem Zeitpunkt.  
+
+### John hatte auch Glück mit dem Zeitpunkt
+
 Damals ging es Apple nicht so gut.  
 Aber nach dem Start von Daring Fireball ist der Wert der Apple-Aktie stark gestiegen.  
 Für Technik und Kultur wurde Apple in dieser Zeit auch immer wichtiger.  
