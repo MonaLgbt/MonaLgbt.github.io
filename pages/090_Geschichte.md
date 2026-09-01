@@ -45,9 +45,7 @@ Damals ging es Apple nicht so gut.
 Aber nach dem Start von Daring Fireball ist der Wert der Apple-Aktie stark gestiegen.  
 Für Technik und Kultur wurde Apple in dieser Zeit auch immer wichtiger.  
 Apple bekam viel mehr Aufmerksamkeit bei den Menschen.  
-Das lag auch an John.  
-Daring Fireball ist der Name von Johns Technik-Webseite.  
-Auf dieser Seite schreibt John über Apple und Technik.  
+Das lag auch an John und seiner Technik-Webseite.  
 Viele Menschen lesen gerne auf seiner Seite.  
 
 >**Damals haben wir gesehen, wie viele Leute unsere Werkzeuge benutzt haben.  
