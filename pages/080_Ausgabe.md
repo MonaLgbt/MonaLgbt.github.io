@@ -37,3 +37,5 @@ Für technische Dokumentation funktioniert das sehr gut. Für formale Dokumente 
 Deshalb empfinden viele Microsoft-Anwender die Geschichte derzeit als etwas unfertig: Markdown wird an vielen Stellen erzeugt und konsumiert, aber der Weg zu einem professionellen PDF ist nicht durchgängig standardisiert.
 
 > **⚠️ Interessanterweise gibt es in Microsoft 365 bislang keinen einheitlichen „Markdown → PDF“-Standardworkflow, wie man ihn etwa von Pandoc kennt.**
+
+[weiter](090_Geschichte.md)
