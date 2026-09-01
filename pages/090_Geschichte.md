@@ -166,4 +166,4 @@ Markdown hat dann mit vielen anderen Schreib-Programmen funktioniert.
 Heute kann man Markdown fast überall benutzen.  
 Fast jede App, in die man etwas schreiben kann, kann auch Markdown.  
 
-[Quelle](https://anildash.com)
+[Quelle](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/)
