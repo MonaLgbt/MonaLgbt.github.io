@@ -67,9 +67,12 @@ während sie ihre Texte geschrieben haben.
 
 ### Auftritt John und seine magischen Textdateien
 
+**Marking up and marking down**
+
 ![90](../assets/JohnGruber.png)
 
-Marking up and marking down  
+*John Gruber*
+
 Der Zweck von Markdown ist ganz einfach:  
 Markdown hilft Ihnen beim Schreiben am Computer.  
 Sie können normale Buchstaben und Zeichen benutzen.  
