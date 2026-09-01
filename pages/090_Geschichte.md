@@ -88,7 +88,8 @@ Markup bedeutet: Man markiert den Text mit besonderen Zeichen.
 
 Diese Zeichen sind manchmal schwer zu verstehen.  
 Manchmal sind die Zeichen kompliziert.  
-Zum Beispiel will man einen Link machen.  
+### Zum Beispiel will man einen Link machen
+
 Ein Link ist eine Adresse zu einer Internet-Seite.  
 
 So fügen Sie einen Link zu Ihrer Lieblingsseite ein:  
@@ -100,7 +101,7 @@ Das geht mit HTML und auch mit Markdown.
 <a href="https://anildash.com/">Anil Dashs Blog</a>  
 ```
 
-Ich kann Ihnen erklären, warum das so ist.  
+>**Ich kann Ihnen erklären, warum das so ist.  
 Ich kann auch erklären, was das bedeutet.  
 Aber ehrlich gesagt, ist es sehr viel.  
 Es ist zu viel.  
@@ -111,14 +112,14 @@ So macht man das oft in einer E-Mail.
 Zum Beispiel:  
 Schreiben Sie Ihren Text.  
 Fügen Sie dann einen Link darunter ein.  
-So ist es leicht und klar.  
+So ist es leicht und klar.**
 
 ```md
 [Anil Dashs Blog](https://anildash.com)
 ```
 
-Und dann würde das Richtige passieren.  
-Klingt toll, oder?  
+**Und dann würde das Richtige passieren.  
+Klingt toll, oder?**
 
 ### Das gilt auch für andere Dinge
 
