@@ -139,9 +139,9 @@ Es sollte sehr einfach sein.
 Jeder sollte es in ein paar Minuten lernen können.  
 
 Mit Markdown kann man fast alles schreiben.  
-•	Man kann schöne Texte machen.  
-•	Man kann Listen schreiben.  
-•	Man kann Überschriften machen.  
+-	Man kann schöne Texte machen.  
+-	Man kann Listen schreiben.  
+-	Man kann Überschriften machen.  
 Manche Menschen sagen: Markdown ist sehr stark.  
  
 John wollte, dass Markdown einfach zu benutzen ist.  
