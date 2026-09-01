@@ -50,12 +50,12 @@ Daring Fireball ist der Name von Johns Technik-Webseite.
 Auf dieser Seite schreibt John über Apple und Technik.  
 Viele Menschen lesen gerne auf seiner Seite.  
 
-Damals haben wir gesehen, wie viele Leute unsere Werkzeuge benutzt haben.  
+>[Anil Dash schreibt:](https://en.wikipedia.org/wiki/Anil_Dash) **Damals haben wir gesehen, wie viele Leute unsere Werkzeuge benutzt haben.  
 Die Leute haben mit unseren Werkzeugen Webseiten erstellt.  
 Zum Beispiel haben sie Seiten wie Gawker oder Huffington Post gemacht.  
 Am nächsten Tag kamen dann Seiten wie Daring Fireball oder Waxy.org dazu.  
 Jede Seite war etwas ganz Neues.  
-
+<br><br>
 Heute sehe ich im Internet Texte von tollen Autoren und kreativen Menschen.  
 Manchmal gefällt mir ein Text von ihnen besonders.  
 Dann denke ich: „Hey! Sie haben das in der App geschrieben, 
@@ -63,7 +63,7 @@ die ich gemacht habe!“
 Manchmal sorgen die Autoren dafür, dass wir neue Ideen bekommen.  
 Dann machen wir neue Funktionen für unsere Werkzeuge.  
 Manchmal haben die Autoren sogar selbst neue Funktionen erfunden,  
-während sie ihre Texte geschrieben haben.  
+während sie ihre Texte geschrieben haben.**
 
 ### Auftritt John und seine magischen Textdateien
 
