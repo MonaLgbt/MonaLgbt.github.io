@@ -130,7 +130,9 @@ Du möchtest jetzt eine große Überschrift schreiben.
 Dafür musst du nicht viel tun.  
 Du kannst einfach eine Zeile so schreiben:  
 
-### Wie Markdown die Welt eroberte
+```md
+# Wie Markdown die Welt eroberte
+```
 
 Das ist schon alles.  
 Die Überschrift wird dann groß und deutlich angezeigt.  
