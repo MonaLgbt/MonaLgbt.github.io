@@ -89,9 +89,7 @@ Manchmal sind die Zeichen kompliziert.
 ### Zum Beispiel will man einen Link machen
 
 Ein Link ist eine Adresse zu einer Internet-Seite.  
-
 So fügen Sie einen Link zu Ihrer Lieblingsseite ein:  
-
 Sie müssen besondere Zeichen eintippen.  
 Das geht mit HTML und auch mit Markdown.  
 
