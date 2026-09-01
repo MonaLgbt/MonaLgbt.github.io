@@ -118,7 +118,7 @@ So ist es leicht und klar.**
 [Anil Dashs Blog](https://anildash.com)
 ```
 
-**Und dann würde das Richtige passieren.  
+>**Und dann würde das Richtige passieren.  
 Klingt toll, oder?**
 
 ### Das gilt auch für andere Dinge
