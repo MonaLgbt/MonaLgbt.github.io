@@ -142,8 +142,9 @@ Mit Markdown kann man fast alles schreiben.
 -	Man kann schöne Texte machen.  
 -	Man kann Listen schreiben.  
 -	Man kann Überschriften machen.  
-Manche Menschen sagen: Markdown ist sehr stark.  
- 
+
+**Manche Menschen sagen: Markdown ist sehr stark.**
+
 John wollte, dass Markdown einfach zu benutzen ist.  
 Auch das Programmieren von Markdown sollte einfach sein.  
 John hat den Computer-Code selbst geschrieben.  
