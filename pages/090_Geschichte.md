@@ -65,7 +65,10 @@ Dann machen wir neue Funktionen für unsere Werkzeuge.
 Manchmal haben die Autoren sogar selbst neue Funktionen erfunden,  
 während sie ihre Texte geschrieben haben.  
 
-Auftritt John und seine magischen Textdateien  
+### Auftritt John und seine magischen Textdateien
+
+![90](../assets/JohnGruber.png)
+
 Marking up and marking down  
 Der Zweck von Markdown ist ganz einfach:  
 Markdown hilft Ihnen beim Schreiben am Computer.  
