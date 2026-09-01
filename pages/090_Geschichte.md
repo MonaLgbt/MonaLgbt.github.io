@@ -67,7 +67,7 @@ während sie ihre Texte geschrieben haben.**
 
 **Marking up and marking down**
 
-![90](../assets/johngruber.png)
+![90](../assets/JohnGruber2009.jpg)
 
 *John Gruber*
 
