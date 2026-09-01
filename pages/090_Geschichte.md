@@ -50,7 +50,8 @@ Daring Fireball ist der Name von Johns Technik-Webseite.
 Auf dieser Seite schreibt John über Apple und Technik.  
 Viele Menschen lesen gerne auf seiner Seite.  
 
->[Anil Dash schreibt:](https://en.wikipedia.org/wiki/Anil_Dash) **Damals haben wir gesehen, wie viele Leute unsere Werkzeuge benutzt haben.  
+>[Anil Dash schreibt:](https://en.wikipedia.org/wiki/Anil_Dash)
+**Damals haben wir gesehen, wie viele Leute unsere Werkzeuge benutzt haben.  
 Die Leute haben mit unseren Werkzeugen Webseiten erstellt.  
 Zum Beispiel haben sie Seiten wie Gawker oder Huffington Post gemacht.  
 Am nächsten Tag kamen dann Seiten wie Daring Fireball oder Waxy.org dazu.  
