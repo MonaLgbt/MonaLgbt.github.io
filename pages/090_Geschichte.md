@@ -69,7 +69,7 @@ während sie ihre Texte geschrieben haben.**
 
 ![90](../assets/JohnGruber2009.jpg)
 
-*John Gruber*
+*John Gruber in 2009*
 
 Der Zweck von Markdown ist ganz einfach:  
 Markdown hilft Ihnen beim Schreiben am Computer.  
