@@ -56,8 +56,9 @@ Jede Seite war etwas ganz Neues.
 <br>
 Heute sehe ich im Internet Texte von tollen Autoren und kreativen Menschen.  
 Manchmal gefällt mir ein Text von ihnen besonders.  
-Dann denke ich: „Hey! Sie haben das in der App geschrieben, 
-die ich gemacht habe!“  
+Dann denke ich:  
+„Hey! Sie haben das in der App geschrieben, die ich gemacht habe!“  
+<br>
 Manchmal sorgen die Autoren dafür, dass wir neue Ideen bekommen.  
 Dann machen wir neue Funktionen für unsere Werkzeuge.  
 Manchmal haben die Autoren sogar selbst neue Funktionen erfunden,  
