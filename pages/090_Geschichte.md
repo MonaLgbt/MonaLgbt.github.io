@@ -122,6 +122,12 @@ Klingt toll, oder?**
 
 **Zum Beispiel, wenn du eine Überschrift auf eine Seite schreiben willst.**
 
+>**Eine Überschrift ist nicht nur größere und fette Schrift.  
+Überschriften geben dem Text Struktur.  
+Das hilft den Autoren beim Schreiben.  
+Und es hilft den Lesern beim Verstehen.  
+Und es ist barrierefrei.**
+
 Stell dir vor, du schreibst gerade einen Text.  
 Du möchtest jetzt eine große Überschrift schreiben.  
 
