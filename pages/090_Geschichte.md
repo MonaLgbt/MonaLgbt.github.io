@@ -163,18 +163,14 @@ mit dem man Texte für Blogs ins Internet stellen konnte.
 
 In kurzer Zeit haben auch andere Menschen Markdown eingebaut.  
 Markdown hat dann mit vielen anderen Schreib-Programmen funktioniert.  
-Heute kann man Markdown fast überall benutzen.  
-Fast jede App, in die man etwas schreiben kann, kann auch Markdown.  
 
-Hier ist die Übersetzung in Leichte Sprache:
+### Nun passiert das Überraschende
 
-### Das Überraschendste war etwas anderes
-
-Es war nicht überraschend, dass viele Menschen das Werkzeug für ihre Blogs benutzt haben.  
+Natürlich haben viele Menschen das Werkzeug für ihre Blogs benutzt.  
 Das Werkzeug sollte genau dafür da sein.  
 Aber die Menschen haben Markdown noch für viele andere Dinge benutzt.  
-Markdown ist eine spezielle Sprache für das Schreiben im Internet.  
-Viele haben Markdown zum Beispiel für Notizen oder E-Mails benutzt.  
-Das war neu und aufregend.  
+Zum Beispiel für Notizen oder E-Mails.  
+Heute kann man Markdown fast überall benutzen.  
+Fast jede App, in die man etwas schreiben kann, kann auch Markdown.
 
 [Quelle](https://www.anildash.com/2026/01/09/how-markdown-took-over-the-world/)
