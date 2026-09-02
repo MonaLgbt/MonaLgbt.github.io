@@ -78,11 +78,12 @@ Mit Markdown können Sie Text im Internet schöner machen.
 Das heißt: Sie können zum Beispiel Text fett oder kursiv machen.  
 Dafür brauchen Sie keine komplizierten Programme.  
 Meistens benutzt man dafür das HTML-Format:  
-HTML ist eine Sprache für das Internet.  
-Mit HTML kann man Internet-Seiten machen.  
-HTML bedeutet: HyperText Markup Language.  
-HyperText heißt: Man kann Text anklicken.  
-Markup bedeutet: Man markiert den Text mit besonderen Zeichen.  
+
+- HTML ist eine Sprache für das Internet.  
+- Mit HTML kann man Internet-Seiten machen.  
+- HTML bedeutet: HyperText Markup Language.  
+- HyperText heißt: Man kann Text anklicken.  
+- Markup bedeutet: Man markiert den Text mit besonderen Zeichen.  
 
 Diese Zeichen sind manchmal schwer zu verstehen.  
 Manchmal sind die Zeichen kompliziert.  
