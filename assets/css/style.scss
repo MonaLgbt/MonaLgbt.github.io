@@ -33,13 +33,13 @@ body {
     /* color: darkblue !important; */
 }
 
-.page-title {
-font-size: 1rem; /* statt Browser-Standard */
-}
+    .page-title {
+        font-size: 1rem !important; /* statt Browser-Standard */
+    }
 
-blockquote {
-    font-style: normal !important;
-}
+    blockquote {
+        font-style: normal !important;
+    }
 
     .ls-break {
         display: block;
@@ -52,7 +52,7 @@ blockquote {
         width: 180px;
         font-size: 16px;
         line-height: 1.4;
-}
+    }
 
 nav a:focus,
 nav a:focus-visible {
