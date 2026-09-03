@@ -7,7 +7,7 @@ layout: default
 
 # Wie Markdown die Welt eroberte
 
-## Oder wie ein Tool über sich hinaus wächst
+**Oder wie ein Tool über sich hinaus wächst**
 
 Markdown ist heute sehr wichtig für das Internet.  
 Markdown hilft vielen Menschen beim Schreiben im Internet.  
