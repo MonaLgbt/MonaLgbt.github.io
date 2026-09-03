@@ -12,6 +12,12 @@
 
 @import "minima";
 
+:root {
+--navy: #0F2D52;
+--maroon: #800000;
+--bronze: #8C6239;
+}
+
 body {
     box-sizing: border-box;
     max-width: 65ch;
@@ -33,13 +39,17 @@ body {
     /* color: darkblue !important; */
 }
 
-    a:link {
-        color: var(navy) !important;
-    }
+a:link {
+    color: var(--navy);
+}
  
-    a:visited {
-        color: var(maroon) !important;
-    }
+a:visited {
+    color: var(--maroon);
+}
+ 
+a:hover {
+    color: var(--bronze);
+}
 
     .page-title {
         font-size: 1rem !important; /* statt Browser-Standard */
