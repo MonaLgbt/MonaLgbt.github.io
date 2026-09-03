@@ -40,15 +40,15 @@ body {
 }
 
 a:link {
-    color: var(--navy);
+    color: var(--navy) !important;
 }
  
 a:visited {
-    color: var(--maroon);
+    color: var(--maroon) !important;
 }
  
 a:hover {
-    color: var(--bronze);
+    color: var(--bronze) !important;
 }
 
     .page-title {
