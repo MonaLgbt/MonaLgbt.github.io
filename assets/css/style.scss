@@ -33,8 +33,12 @@ body {
     /* color: darkblue !important; */
 }
 
-    a {
-       color: var(--navy);
+    a:link {
+        color: var(navy);
+    }
+ 
+    a:visited {
+        color: var(maroon);
     }
 
     .page-title {
