@@ -34,11 +34,11 @@ body {
 }
 
     a:link {
-        color: var(navy);
+        color: var(navy) !important;
     }
  
     a:visited {
-        color: var(maroon);
+        color: var(maroon) !important;
     }
 
     .page-title {
