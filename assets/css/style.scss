@@ -82,6 +82,7 @@ nav a:focus-visible {
 
 nav.collapsed {
     display: none;
+    padding-bottom: 1rem;
 }
 
 @media (max-width: 900px) and (orientation: landscape) {
