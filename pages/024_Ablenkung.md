@@ -7,7 +7,7 @@ layout: default
 
 > **Das Gute an Markdown ist, dass es im Prinzip schon ablenkungsfrei ist.**
 
-## Ablenkungsfreies Schreiben
+# Ablenkungsfreies Schreiben
 
 Wer oft am Computer arbeitet, kennt das Problem.  
 Man kann so viel sehen und entdecken.  
