@@ -7,7 +7,7 @@ layout: default
 
 > **"Word" steht hier nur als bekanntes Synonym für Textprogramme. Für die mobile Nutzung ist es komplett ungeeignet.**
 
-## Ein "Word" für die Hosen&shy;tasche
+# Ein "Word" für die Hosen&shy;tasche
 
 **Markdown ist wie ein guter Notizblock für unterwegs: <br class="ls-break">
 einfach, klar und immer bereit. <br class="ls-break">
