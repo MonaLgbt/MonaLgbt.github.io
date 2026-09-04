@@ -7,9 +7,9 @@ layout: default
 
 > **Markdown ist einfach genug für den Alltag und interessant genug zum Entdecken.**
 
-## Neues aus Nerdistan
+# Neues aus Nerdistan
 
-#### Oder wie merke ich mir nerdisches?
+**Oder wie merke ich mir nerdisches?**
 
 Wenn man oft Texte für das Handy schreibt,  
 dann ist der kleine Bildschirm vielleicht ein Problem.  
