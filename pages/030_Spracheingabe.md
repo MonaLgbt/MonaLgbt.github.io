@@ -7,7 +7,7 @@ layout: default
 
 > **Wie geht die Eingabe per Speech to Text in Android?**
 
-## So funktioniert es
+# Spracheingabe, so geht es
 
 1. Öffne eine App mit Texteingabe, zum Beispiel **Nachrichten, WhatsApp, Notizen oder Gmail**.
 2. Tippe in das Textfeld, damit die Tastatur erscheint.
@@ -18,7 +18,7 @@ layout: default
 
 > **Tipp:** Sprich in normalem Tempo und möglichst in ruhiger Umgebung. Für Deutsch sollte in den Tastatur- oder Spracheinstellungen **Deutsch** als Eingabesprache ausgewählt sein.
 
-## Falls das Mikrofon fehlt
+### Falls das Mikrofon fehlt
 
 Bei **Gboard**:
 
@@ -27,7 +27,6 @@ Bei **Gboard**:
 Dort die Spracheingabe einschalten. Auf Samsung-Geräten heißt der Weg häufig **Einstellungen → Allgemeine Verwaltung → Samsung-Tastatur-Einstellungen → Spracheingabe**. Die genaue Bezeichnung kann je nach Hersteller und Android-Version leicht abweichen. [sky-scribe](https://www.sky-scribe.com/de/blog/android-voice-to-text-setup)
 
 Prüfe außerdem unter **Einstellungen → Apps → Gboard beziehungsweise Tastatur → Berechtigungen**, ob der **Mikrofonzugriff** erlaubt ist. [sky-scribe](https://www.sky-scribe.com/de/blog/how-do-i-turn-on-talk-to-text-on-android-guides-step-by-step)
-
 
 > **Hm, ist die Funktion in die jeweilige Tastatur eingebaut?**
 
@@ -45,7 +44,9 @@ Kurz gesagt: **In der jeweiligen Tastatur nach dem Mikrofon suchen.** Wenn es fe
 > **In HeliBoard sehe ich kein Mikro.**
 
 Ja, das ist bei **HeliBoard** normal: Die Spracheingabe ist nicht unbedingt standardmäßig als Mikrofon sichtbar.
-## Mikrofon einblenden
+
+### Mikrofon einblenden
+
 1. Öffne **HeliBoard-Einstellungen**.
 2. Gehe zu **Symbolleiste** beziehungsweise **Toolbar**.
 3. Öffne **Angeheftete Symbolleistenschaltflächen auswählen**.
@@ -53,7 +54,9 @@ Ja, das ist bei **HeliBoard** normal: Die Spracheingabe ist nicht unbedingt stan
 5. Öffne anschließend eine Texteingabe erneut.
 
 Falls das Symbol nicht direkt sichtbar ist, tippe in der HeliBoard-Symbolleiste auf den **Pfeil zum Aufklappen**. Dort sollte sich die Schaltfläche **Spracheingabe** befinden. Du kannst sie meist länger gedrückt halten, um sie dauerhaft oben anzuheften. [github](https://github.com/HeliBorg/HeliBoard/discussions/1044)
-## Wenn „Spracheingabe“ fehlt
+
+### Wenn „Spracheingabe“ fehlt
+
 HeliBoard erkennt nicht selbst automatisch Sprache. Es braucht einen aktivierten Spracheingabedienst, beispielsweise **Google Spracheingabe**, **FUTO Voice Input**, **Sayboard** oder einen anderen kompatiblen Dienst. Unter Android findest du die aktivierten Eingabedienste meist hier:
 
 **Einstellungen → System → Tastatur → Bildschirmtastatur → Eingabemethoden verwalten**
