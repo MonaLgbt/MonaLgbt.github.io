@@ -82,7 +82,7 @@ Du kannst Markdown in vielen Textfeldern verwenden.
 Es wird oft unterstützt aber selten erklärt.  
 Darum probiere es einfach aus.
 
-## Was ist Markdown auch?
+### Was ist Markdown auch?
 
 **Es beschreibt eine Haltung:**
 
@@ -111,7 +111,7 @@ Zum Beispiel Sternchen oder Rauten.
 Diese Zeichen machen Text besonders.  
 So kann man Texte einfach gestalten.
 
-## Was ist Markdown nicht?
+### Was ist Markdown nicht?
 
 - Es ist **kein** Programm
 - Es ist **keine** App
