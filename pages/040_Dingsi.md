@@ -7,7 +7,7 @@ layout: default
 
 > **Microsoft hat jetzt sogar 2 Programme für Markdown.**
 
-### Notepad und Microsoft 365 Editor
+# Notepad und Microsoft 365 Editor
 
 Mit diesen Programmen können Sie Markdown schreiben.  
 Die Programme heißen Notepad und Microsoft 365 Editor.  
