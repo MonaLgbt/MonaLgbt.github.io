@@ -7,7 +7,7 @@ layout: default
 
 > **Markdown ist eine besondere Art, um Texte zu schreiben.**
 
-## Was ist bei Markdown anders?  
+# Was ist bei Markdown anders?  
 
 Normale Textprogramme haben ein Menü.  
 Ein Menü ist eine Liste mit Befehlen.  
