@@ -71,7 +71,8 @@ a:hover {
         width: 180px;
         font-size: 16px;
         line-height: 1.4;
-        padding-bottom: 2rem;
+        max-height: calc(100vh - 40px);
+        overflow-y: auto;
     }
 
 nav a:focus,
