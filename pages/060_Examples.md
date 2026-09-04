@@ -9,7 +9,7 @@ layout: default
 
 M365 Editor unterstützt zum Beispiel nicht:
 
-## Fußnoten
+### Fußnoten
 
 ```markdown
 Text[^1]
@@ -23,7 +23,7 @@ Text[^1]
 
 Aber das Meiste geht dennoch:
 
-## Tabellen mit Ausrichtung
+### Tabellen mit Ausrichtung
 
 links  | rechts | mittig
 -------|-------:|:---:
@@ -41,7 +41,7 @@ links  | rechts | mittig
 
 ---
 
-## Codeblocks im M365 Editor
+### Codeblocks im M365 Editor
 
 ```text
 for i in range(10):
@@ -61,7 +61,7 @@ for i in range(10):
 
 ---
 
-## Codeblocks hier im Wiki
+### Codeblocks hier im Wiki
 
 ```python
 for i in range(10):
@@ -71,7 +71,7 @@ for i in range(10):
 
 ---
 
-## Inline Code
+### Inline Code
 
 Schreibe `print("Hallo")` **im** Text.
 
@@ -83,7 +83,7 @@ Schreibe `print("Hallo")` **im** Text.
 
 ---
 
-## Kommentare
+### Kommentare
 
 > Kommentare sind etwas eingerückt  
 und haben meistens links einen  
