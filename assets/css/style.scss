@@ -82,7 +82,6 @@ nav a:focus-visible {
 
 nav.collapsed {
     display: none;
-    padding-bottom: 1rem;
 }
 
 @media (max-width: 900px) and (orientation: landscape) {
@@ -93,9 +92,12 @@ nav.collapsed {
     }
 /* Navigation auf Smartphones im Querformat immer sichtbar.
 JS setzt weiterhin .collapsed, wird hier aber bewusst überschrieben. */
+   
     nav.collapsed {
         display: block;
+        padding-bottom: 1rem;
     }
+   
 /* Wenn Navigation immer sichtbar ist, 
 dann braucht es den Hamburger nicht mehr. */
     #menu-toggle {
