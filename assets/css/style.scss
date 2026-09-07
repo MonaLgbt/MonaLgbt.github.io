@@ -13,7 +13,9 @@
 @import "minima";
 
 :root {
---Linen: #FAF0E6;
+--linen: #FAF0E6;
+--parchment: #F2E7DD;
+--background: #E9DED3;
 --maroon: #800000;
 --navy: #0F2D52;
 --bronze: #8C6239;
@@ -144,7 +146,8 @@ html {
 }
 
 .highlight {
-    background: #E9DED3 !important;
+/*  background: #E9DED3 !important; */
+    background: #F2E7DD !important;
 }
 
 .highlight pre,
