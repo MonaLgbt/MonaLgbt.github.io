@@ -85,19 +85,13 @@ Schreibe `print("Hallo")` **im** Text.
 
 ### Kommentare
 
-> Kommentare sind etwas eingerückt  
-und haben meistens links einen  
-senkrechten Strich. Es hängt aber  
-vom verwendeten CSS-Stil ab.  
+> Kommentare sind etwas eingerückt.
 >> Antworten rücken weiter ein.
 
 Ein Codeblock zeigt den Quelltext:
 
 ```md
-> Kommentare sind etwas eingerückt  
-> und haben meistens links einen  
-> senkrechten Strich. Es hängt aber  
-> vom verwendeten CSS-Stil ab.  
+> Kommentare sind etwas eingerückt.
 >> Antworten rücken weiter ein.
 ```
 
