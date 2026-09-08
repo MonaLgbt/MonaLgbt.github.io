@@ -55,6 +55,9 @@ Es fühlt sich nicht nach Technik an, sondern nach Freiheit.**
 
 - Unterschiedliche Tastaturen nutzen.
 - Bequeme Eingabe per Speech to Text.
+- Eine eigene Ordnerstruktur.  
+Ein Ordner ist wie eine Kiste für Dokumente.  
+So findest du deine Sachen leichter wieder.
 - In beliebige Zielformate konvertieren.  
 Das heißt: <br class="ls-break">
 Zum Beispiel Markdown in Word umwandeln. <br class="ls-break">
