@@ -53,8 +53,8 @@ Es fühlt sich nicht nach Technik an, sondern nach Freiheit.**
 
 ### Alles passend machen
 
-- Unterschiedliche Tastaturen nutzen.
-- Bequeme Eingabe per Speech to Text.
+- Unterschiedliche Tastaturen nutzen.  
+Oder bequeme Eingabe per Speech to Text.
 - Eine eigene Ordnerstruktur.  
 Ein Ordner ist wie eine Kiste für Dokumente.  
 So findest du deine Sachen leichter wieder.
