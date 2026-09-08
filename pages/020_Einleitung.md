@@ -53,13 +53,19 @@ Es fühlt sich nicht nach Technik an, sondern nach Freiheit.**
 
 ### Alles passend machen
 
-- Unterschiedliche Tastaturen nutzen.  
-- Bequeme Eingabe per Speech to Text.  
-- Damit die eigenen PDF besser in das Handyformat passen, kann man das Format anpassen.  
-Zum Beispiel: Chou3 (120 x 235 mm) statt A4.  
+- Unterschiedliche Tastaturen nutzen.
+- Bequeme Eingabe per Speech to Text.
 - In beliebige Zielformate konvertieren.  
-Das heißt:  
+Das heißt: <br class="ls-break">
 Zum Beispiel Markdown in Word umwandeln. <br class="ls-break">
 Ja, das geht mit Pandoc.
+- Wenn du eigene Dokumente weitergeben möchtest,  
+dann geht das am Besten mit einer PDF-Datei.  
+Aber das übliche A4-Format ist zu groß für ein Handy.  
+Dann musst du viel rein und raus zoomen.  
+Dann kannst du das Format der PDF-Datei ändern.  
+Du kannst zum Beispiel das Format Chou-3 nehmen.  
+Chou-3 ist 120 Millimeter mal 235 Millimeter groß.  
+Das passt sehr gut auf ein Handy.
 
 [weiter](021_noapp.md)
