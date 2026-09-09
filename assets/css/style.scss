@@ -64,7 +64,7 @@ text-decoration: underline !important;
  
 /* externe Links */
 a[href^="http"]:not([href*="monalgbt.github.io"]) {
-text-decoration: none !important;
+text-decoration: underline !important;
 }
 
     .page-title {
