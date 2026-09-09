@@ -52,10 +52,13 @@ a[href] {
 background: yellow !important;
 }
 
-a::after {
+/* a::after {
 content: "TEST";
-}
+} */
 
+[href] {
+outline: 3px solid lime !important;
+}
 
 a:link {
     color: var(--Navy) !important;
