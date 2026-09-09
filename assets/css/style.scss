@@ -59,12 +59,12 @@ a:hover {
 
 /* interne Links */
 a[href*="monalgbt.github.io"] {
-text-decoration: none;
+text-decoration: underline;
 }
  
 /* externe Links */
 a[href^="http"]:not([href*="monalgbt.github.io"]) {
-text-decoration: underline;
+text-decoration: none;
 }
 
     .page-title {
