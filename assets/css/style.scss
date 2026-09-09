@@ -44,8 +44,12 @@ body {
     /* color: darkblue !important; */
 }
 
+a {
+color: red !important;
+}
+ 
 a[href] {
-color: green !important;
+background: yellow !important;
 }
 
 
