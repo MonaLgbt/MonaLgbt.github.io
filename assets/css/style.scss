@@ -46,7 +46,7 @@ body {
 
 a:link {
     color: var(--Navy) !important;
-    text-decoration: underline !important;
+ /*   text-decoration: underline !important; */
 }
  
 a:visited {
@@ -55,6 +55,16 @@ a:visited {
  
 a:hover {
     color: var(--Bronze) !important;
+}
+
+/* interne Links */
+a[href*="https://monalgbt.github.io"] {
+text-decoration: none;
+}
+ 
+/* externe Links */
+a[href^="http"]:not([href*="https://monalgbt.github.io"]) {
+text-decoration: underline;
 }
 
     .page-title {
