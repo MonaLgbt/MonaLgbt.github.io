@@ -64,7 +64,7 @@ outline: 5px solid red !important;
 }
  
 /* externe Links */
-a[href^="http"]:not([href*="monalgbt.github.io"]) {
+a[href^="http"]:not([href*="https://monalgbt.github.io"]) {
 text-decoration: underline !important;
 outline: 5px solid red !important;
 }
