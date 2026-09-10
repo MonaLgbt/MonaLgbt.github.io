@@ -60,6 +60,10 @@ content: "TEST";
 outline: 3px solid lime !important;
 }
 
+a[href^="http"] {
+outline: 5px solid blue !important;
+}
+
 a:link {
     color: var(--Bronze) !important;
  /*   text-decoration: underline !important; */
