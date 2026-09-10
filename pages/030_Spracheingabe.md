@@ -13,7 +13,7 @@ layout: default
 2. Tippe in das Textfeld, damit die Tastatur erscheint.
 3. Tippe auf das **Mikrofon-Symbol** auf der Tastatur.
 4. Warte auf „Jetzt sprechen“ und diktiere deinen Text.
-5. Sage Satzzeichen mit an, zum Beispiel **„Komma“**, **„Punkt“** oder **„Fragezeichen“**. Google beschreibt diesen Ablauf ebenfalls für Gboard. [support.google](https://support.google.com/messages/answer/2781851?hl=de&co=GENIE.Platform=Android)
+5. Sage Satzzeichen mit an, zum Beispiel **„Komma“**, **„Punkt“** oder **„Fragezeichen“**. Google beschreibt diesen Ablauf ebenfalls für Gboard. [Google](https://support.google.com/messages/answer/2781851?hl=de&co=GENIE.Platform=Android)
 6. Prüfe den erkannten Text und korrigiere ihn bei Bedarf.
 
 > **Tipp:** Sprich in normalem Tempo und möglichst in ruhiger Umgebung. Für Deutsch sollte in den Tastatur- oder Spracheinstellungen **Deutsch** als Eingabesprache ausgewählt sein.
@@ -24,9 +24,9 @@ Bei **Gboard**:
 
 **Einstellungen → System → Sprachen & Eingabe → Bildschirmtastatur → Gboard → Spracheingabe**
 
-Dort die Spracheingabe einschalten. Auf Samsung-Geräten heißt der Weg häufig **Einstellungen → Allgemeine Verwaltung → Samsung-Tastatur-Einstellungen → Spracheingabe**. Die genaue Bezeichnung kann je nach Hersteller und Android-Version leicht abweichen. [sky-scribe](https://www.sky-scribe.com/de/blog/android-voice-to-text-setup)
+Dort die Spracheingabe einschalten. Auf Samsung-Geräten heißt der Weg häufig **Einstellungen → Allgemeine Verwaltung → Samsung-Tastatur-Einstellungen → Spracheingabe**. Die genaue Bezeichnung kann je nach Hersteller und Android-Version leicht abweichen. [Google](https://support.google.com/pixelphone/answer/17468539?hl=de)
 
-Prüfe außerdem unter **Einstellungen → Apps → Gboard beziehungsweise Tastatur → Berechtigungen**, ob der **Mikrofonzugriff** erlaubt ist. [sky-scribe](https://www.sky-scribe.com/de/blog/how-do-i-turn-on-talk-to-text-on-android-guides-step-by-step)
+Prüfe außerdem unter **Einstellungen → Apps → Gboard beziehungsweise Tastatur → Berechtigungen**, ob der **Mikrofonzugriff** erlaubt ist. [Google](https://support.google.com/pixelphone/answer/17468539?hl=de)
 
 > **Hm, ist die Funktion in die jeweilige Tastatur eingebaut?**
 
@@ -36,7 +36,7 @@ Ja, **meistens steckt Speech-to-Text in der verwendeten Tastatur beziehungsweise
 - **Samsung-Tastatur:** Die Spracheingabe ist normalerweise in die Tastatur integriert; das Mikrofon kann neben der Leertaste oder in der Tastatur-Symbolleiste erscheinen.
 - **SwiftKey und andere Tastaturen:** Auch dort kann es ein Mikrofon-Symbol geben, je nach App und Einstellungen.
 
-Wichtig ist: Die Tastatur liefert die Schaltfläche und fügt den Text ein; die Spracherkennung kann im Hintergrund von einem separaten Systemdienst wie **Google Spracheingabe** bereitgestellt werden. Deshalb müssen manchmal sowohl die Spracheingabe in den Tastatureinstellungen als auch die **Mikrofonberechtigung der Tastatur** aktiviert sein. [sky-scribe](https://www.sky-scribe.com/de/blog/how-do-i-turn-on-talk-to-text-on-android-guides-step-by-step)
+Wichtig ist: Die Tastatur liefert die Schaltfläche und fügt den Text ein; die Spracherkennung kann im Hintergrund von einem separaten Systemdienst wie **Google Spracheingabe** bereitgestellt werden. Deshalb müssen manchmal sowohl die Spracheingabe in den Tastatureinstellungen als auch die **Mikrofonberechtigung der Tastatur** aktiviert sein. [Google](https://support.google.com/pixelphone/answer/17468539?hl=de)
 
 Kurz gesagt: **In der jeweiligen Tastatur nach dem Mikrofon suchen.** Wenn es fehlt, in den Tastatureinstellungen die Spracheingabe oder die Tastatur-Symbolleiste aktivieren.
 
