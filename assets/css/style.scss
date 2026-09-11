@@ -62,8 +62,8 @@ content: "TEST";
 - extern - blau */
 
 [href] {
-outline: 2px solid red !important;
-}
+/* outline: 2px solid red !important;
+} */
 
 a[href^="http"] {
  /* outline: 2px solid blue !important; */
