@@ -57,11 +57,11 @@ content: "TEST";
 } */
 
 [href] {
-outline: 3px solid lime !important;
+outline: 2px solid red !important;
 }
 
 a[href^="http"] {
-outline: 5px solid blue !important;
+outline: 2px solid blue !important;
 }
 
 a:link {
