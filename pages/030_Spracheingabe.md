@@ -26,7 +26,7 @@ Bei **Gboard**:
 
 Dort die Spracheingabe einschalten. Auf Samsung-Geräten heißt der Weg häufig **Einstellungen → Allgemeine Verwaltung → Samsung-Tastatur-Einstellungen → Spracheingabe**. Die genaue Bezeichnung kann je nach Hersteller und Android-Version leicht abweichen. [Google](https://support.google.com/pixelphone/answer/17468539?hl=de)
 
-Prüfe außerdem unter **Einstellungen → Apps → Gboard beziehungsweise Tastatur → Berechtigungen**, ob der **Mikrofonzugriff** erlaubt ist. [Google](https://support.google.com/pixelphone/answer/17468539?hl=de)
+Prüfe außerdem unter **Einstellungen → Apps → Gboard beziehungsweise Tastatur → Berechtigungen**, ob der **Mikrofonzugriff** erlaubt ist. [Reddit]([https://www.reddit.com/r/de_EDV/comments/1qq9nc5/google_pixel_h%C3%B6rt_einen_offensichtlich_ab/?captcha=1)
 
 > **Hm, ist die Funktion in die jeweilige Tastatur eingebaut?**
 
