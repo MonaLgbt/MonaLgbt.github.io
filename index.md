@@ -17,19 +17,19 @@ Einzelne Präsentationsbilder wurden von Unsplash (https://unsplash.com) bezogen
 
 Teile dieser Präsentation wurden mit Hilfe von Modellen erstellt, die Intelligenz nachahmen. Sie dienen ausschließlich Bildungszwecken.
 
-[Test 20](pages/020_Einleitung.md)  
-[Test 21](pages/021_noapp.md)  
-[Test 24](pages/024_Ablenkung.md)  
-[Test 25](pages/025_Anders.md)  
-[Test 26](pages/026_Nomenu.md)  
-[Test 30](pages/030_Spracheingabe.md)  
-[Test 40](pages/040_Dingsi.md)  
-[Test 50](pages/050_LeichteSprache.md)  
-[Test 60](pages/060_Examples.md)  
-[Test 70](pages/070_Vergleich.md)  
-[Test 75](pages/075_Nerdistan.md)  
-[Test 80](pages/080_Ausgabe.md)  
-[Test 90](pages/090_Geschichte.md)  
+[2,0 Einleitung](pages/020_Einleitung.md)  
+[2.1 No App](pages/021_noapp.md)  
+[2.4 Ablenkung](pages/024_Ablenkung.md)  
+[2.5 Anders schreiben](pages/025_Anders.md)  
+[2.6 Überall schreiben](pages/026_Nomenu.md)  
+[3.0 Spracheingabe](pages/030_Spracheingabe.md)  
+[4.0 Das Dingsi](pages/040_Dingsi.md)  
+[5.0 Neu in Windows](pages/050_LeichteSprache.md)  
+[6.0 Beispiele](pages/060_Examples.md)  
+[7.0 Vergleich](pages/070_Vergleich.md)  
+[7.5 Nerdistan](pages/075_Nerdistan.md)  
+[8.0 Ausgabe](pages/080_Ausgabe.md)  
+[9.0 Geschichte](pages/090_Geschichte.md)  
 
 <!-- [Link zu ex_02.md](pages/ex_02.md) -->
 
