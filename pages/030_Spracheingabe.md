@@ -36,7 +36,7 @@ Ja, **meistens steckt Speech-to-Text in der verwendeten Tastatur beziehungsweise
 - **Samsung-Tastatur:** Die Spracheingabe ist normalerweise in die Tastatur integriert; das Mikrofon kann neben der Leertaste oder in der Tastatur-Symbolleiste erscheinen.
 - **SwiftKey und andere Tastaturen:** Auch dort kann es ein Mikrofon-Symbol geben, je nach App und Einstellungen.
 
-Wichtig ist: Die Tastatur liefert die Schaltfläche und fügt den Text ein; die Spracherkennung kann im Hintergrund von einem separaten Systemdienst wie **Google Spracheingabe** bereitgestellt werden. Deshalb müssen manchmal sowohl die Spracheingabe in den Tastatureinstellungen als auch die **Mikrofonberechtigung der Tastatur** aktiviert sein. [Google](https://support.google.com/pixelphone/answer/17468539?hl=de)
+Wichtig ist: Die Tastatur liefert die Schaltfläche und fügt den Text ein; die Spracherkennung kann im Hintergrund von einem separaten Systemdienst wie **Google Spracheingabe** bereitgestellt werden. Deshalb müssen manchmal sowohl die Spracheingabe in den Tastatureinstellungen als auch die **Mikrofonberechtigung der Tastatur** aktiviert sein. [localtype.net](https://www.localtype.net/de/)
 
 Kurz gesagt: **In der jeweiligen Tastatur nach dem Mikrofon suchen.** Wenn es fehlt, in den Tastatureinstellungen die Spracheingabe oder die Tastatur-Symbolleiste aktivieren.
 
