@@ -52,14 +52,14 @@ Viele Menschen lesen gerne auf seiner Seite.
 Die Leute haben mit unseren Werkzeugen Webseiten erstellt.  
 Zum Beispiel haben sie Seiten wie Gawker oder Huffington Post gemacht.  
 Am nächsten Tag kamen dann Seiten wie Daring Fireball oder Waxy.org dazu.  
-Jede Seite war etwas ganz Neues.<br><br>
+Jede Seite war etwas ganz Neues.**
 >
->Heute sehe ich im Internet Texte von tollen Autoren und kreativen Menschen.  
+>**Heute sehe ich im Internet Texte von tollen Autoren und kreativen Menschen.  
 Manchmal gefällt mir ein Text von ihnen besonders.  
 Dann denke ich:  
-„Hey! Sie haben das in der App geschrieben, die ich gemacht habe!“<br><br>
+„Hey! Sie haben das in der App geschrieben, die ich gemacht habe!“**
 >
->Manchmal sorgen die Autoren dafür, dass wir neue Ideen bekommen.  
+>**Manchmal sorgen die Autoren dafür, dass wir neue Ideen bekommen.  
 Dann machen wir neue Funktionen für unsere Werkzeuge.  
 Manchmal haben die Autoren sogar selbst neue Funktionen erfunden,  
 während sie ihre Texte geschrieben haben.**
