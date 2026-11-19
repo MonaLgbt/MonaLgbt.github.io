@@ -9,7 +9,7 @@ layout: default
 
 # Alte Smartphones als Markdown-Schreibmaschinen nutzen
 
-![31](assets/tatort2.jpg)
+![31](../assets/tatort2.jpg)
 
 > **In vielen Haushalten liegen alte Handys herum.  
 Diese Handys werden nicht mehr benutzt.  
@@ -36,7 +36,7 @@ Zum Beispiel als Schreibmaschine.
 Mit einer Schreibmaschine schreibt man Texte.  
 So kann man das alte Handy sinnvoll nutzen.
 
-![31](assets/tatort5.jpg)
+![31](../assets/tatort5.jpg)
 
 *Schreiben wie mit einem Laptop? - Nein, das Hochformat ist günstiger.*
 
