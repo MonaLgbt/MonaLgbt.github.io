@@ -9,9 +9,7 @@ layout: default
 
 # Alte Handys als Schreibmaschine verwenden
 
-![31](../assets/tatort2.jpg)
-
-![31](../assets/tatort2.jpg){ width=50% }
+<img src="../assets/tatort2.jpg" alt="31" width="400">
 
 > **In vielen Haushalten liegen alte Handys herum.  
 Diese Handys werden nicht mehr benutzt.  
@@ -38,7 +36,7 @@ Zum Beispiel als Schreibmaschine.
 Mit einer Schreibmaschine schreibt man Texte.  
 So kann man das alte Handy sinnvoll nutzen.
 
-![31](../assets/tatort5.jpg)
+<img src="../assets/tatort5.jpg" alt="31" width="400">
 
 *Schreiben wie mit einem Laptop? - Nein, das Hochformat ist günstiger.*
 
