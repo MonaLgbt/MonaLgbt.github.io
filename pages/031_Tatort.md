@@ -11,6 +11,8 @@ layout: default
 
 ![31](../assets/tatort2.jpg)
 
+![31](../assets/tatort2.jpg){ width=50% }
+
 > **In vielen Haushalten liegen alte Handys herum.  
 Diese Handys werden nicht mehr benutzt.  
 Oft liegen sie in einer dunklen Ecke.**
