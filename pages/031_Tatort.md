@@ -75,8 +75,9 @@ Markdown funktioniert in vielen Programmen.
 Du bist nicht an ein bestimmtes Programm gebunden.  
 Aber ein Markdown-Editor bringt einige Vorteile.
 
-- [Quelle](https://gnulinux.ch/markdown-schreibmaschine) (Originalartikel und Fotos von Herbert Hertramph)
-
-Basierend auf „Alte Smartphones als Markdown-Schreibmaschinen nutzen" von Herbert Hertramph, lizenziert unter CC BY-SA 4.0. Änderungen wurden vorgenommen. (Übersetzung in Leichte Sprache)
+- [Quelle](https://gnulinux.ch/markdown-schreibmaschine)  
+Basierend auf „Alte Smartphones als Markdown-Schreibmaschinen nutzen" von Herbert Hertramph, lizenziert unter CC BY-SA 4.0. Änderungen wurden vorgenommen. (Übersetzung in Leichte Sprache)  
+Bildnachweis:  
+Fotos und Screenshots vom Artikelautor.
 
 [weiter](040_Dingsi.md)
