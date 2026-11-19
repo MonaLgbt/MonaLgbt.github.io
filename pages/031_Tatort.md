@@ -77,4 +77,6 @@ Aber ein Markdown-Editor bringt einige Vorteile.
 
 - [Quelle](https://gnulinux.ch/markdown-schreibmaschine) (Originalartikel und Fotos von Herbert Hertramph)
 
+Basierend auf „Alte Smartphones als Markdown-Schreibmaschinen nutzen" von Herbert Hertramph, lizenziert unter CC BY-SA 4.0. Änderungen wurden vorgenommen. (Übersetzung in Leichte Sprache)
+
 [weiter](040_Dingsi.md)
