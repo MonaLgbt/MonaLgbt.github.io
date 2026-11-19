@@ -7,7 +7,7 @@ layout: default
 
 > **Der beste Grund, einen eigenen "Tatort" zu schreiben.**
 
-# Alte Smartphones als Markdown-Schreibmaschinen nutzen
+# Alte Handys als Schreibmaschine verwenden
 
 ![31](../assets/tatort2.jpg)
 
@@ -76,8 +76,6 @@ Du bist nicht an ein bestimmtes Programm gebunden.
 Aber ein Markdown-Editor bringt einige Vorteile.
 
 - [Quelle](https://gnulinux.ch/markdown-schreibmaschine)  
-Basierend auf „Alte Smartphones als Markdown-Schreibmaschinen nutzen" von Herbert Hertramph, lizenziert unter CC BY-SA 4.0. Änderungen wurden vorgenommen. (Übersetzung in Leichte Sprache)  
-Bildnachweis:  
-Fotos und Screenshots vom Artikelautor.
+Basierend auf „Alte Smartphones als Markdown-Schreibmaschinen nutzen" von Herbert Hertramph, lizenziert unter CC BY-SA 4.0. Änderungen wurden vorgenommen. (Übersetzung in Leichte Sprache) Bildnachweis: Fotos und Screenshots vom Artikelautor.
 
 [weiter](040_Dingsi.md)
