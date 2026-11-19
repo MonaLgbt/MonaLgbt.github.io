@@ -11,6 +11,9 @@ layout: default
 
 <img src="../assets/tatort2.jpg" alt="31" width="400">
 
+<img src="../assets/tatort2.jpg" alt="31"
+     style="max-width:100%; width:400px; height:auto;">
+
 > **In vielen Haushalten liegen alte Handys herum.  
 Diese Handys werden nicht mehr benutzt.  
 Oft liegen sie in einer dunklen Ecke.**
@@ -37,6 +40,9 @@ Mit einer Schreibmaschine schreibt man Texte.
 So kann man das alte Handy sinnvoll nutzen.
 
 <img src="../assets/tatort5.jpg" alt="31" width="400">
+
+<img src="../assets/tatort5.jpg" alt="31"
+     style="max-width:100%; width:400px; height:auto;">
 
 *Schreiben wie mit einem Laptop? - Nein, das Hochformat ist günstiger.*
 
