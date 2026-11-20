@@ -33,8 +33,9 @@ Das ist der Bildschirm vom Handy.
 
 **Dann kann man das Handy für etwas anderes benutzen.**  
 Zum Beispiel als Schreibmaschine.  
-Mit einer Schreibmaschine schreibt man Texte.  
-So kann man das alte Handy sinnvoll nutzen.
+Eine Bluetooth-Tastatur macht es komplett.  
+Man kann sie per Funk dem Handy verbinden.   
+So kann man das alte Handy sinnvoll nutzen.  
 
 <img src="../assets/tatort5.jpg" alt="Setup BT-Tastaur + Handy quer" width="400">
 
@@ -75,7 +76,8 @@ Markdown funktioniert in vielen Programmen.
 Du bist nicht an ein bestimmtes Programm gebunden.  
 Aber ein Markdown-Editor bringt einige Vorteile.
 
->[Quelle](https://gnulinux.ch/markdown-schreibmaschine) Basierend auf „Alte Smartphones als Markdown-Schreibmaschinen nutzen“ von Herbert Hertramph, lizenziert unter CC BY-SA 4.0. Änderungen wurden vorgenommen (Übersetzung in Leichte Sprache).
+>[Quelle](https://gnulinux.ch/markdown-schreibmaschine)  
+Basierend auf „Alte Smartphones als Markdown-Schreibmaschinen nutzen“ von Herbert Hertramph, lizenziert unter CC BY-SA 4.0. Änderungen wurden vorgenommen (Übersetzung in Leichte Sprache).
 >
 >Bildnachweis: Fotos und Screenshots von Herbert Hertramph.
 
