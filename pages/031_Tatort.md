@@ -49,12 +49,12 @@ nennt man das offline.**
 Nur die Text-Anwendung ist noch da.  
 Alle anderen Apps sind gelöscht oder ausgeschaltet.  
 Deshalb funktioniert nur die Text-Anwendung.  
-Sie können keine anderen Apps nutzen.  
+Du kannst keine anderen Apps nutzen.  
 Das ist anders als bei einem normalen Smartphone.  
 Bei einem normalen Smartphone gibt es viele andere Apps.  
 Man ist dann oft abgelenkt.  
 Mit diesem Gerät passiert das nicht so schnell.  
-Sie kommen nicht in Versuchung, auf andere Apps zu klicken.
+Du kommst nicht in Versuchung, auf andere Apps zu klicken.
 
 ### Markdown für die Texteingabe
 
