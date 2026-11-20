@@ -41,7 +41,7 @@ Ein Blog ist wie ein Tagebuch im Internet.
 Das sind Notepad und der namenlose M365 Editor.  
 Leider sind die Programme etwas eingeschränkt in der Nutzung.  
 Denn Microsoft braucht Markdown für die Künstliche Intelligenz.  
-Die kann mit Markdown besser arbeiten.  
+Sie kann mit Markdown besser arbeiten.  
 Künstliche Intelligenz nennt man oft KI.  
 Das heißt:  
 - Markdown ist kein Ersatz für Word.  
