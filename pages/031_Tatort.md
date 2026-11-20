@@ -34,7 +34,7 @@ Das ist der Bildschirm vom Handy.
 **Dann kann man das Handy für etwas anderes benutzen.**  
 Zum Beispiel als Schreibmaschine.  
 Eine Bluetooth-Tastatur macht es komplett.  
-Man kann sie per Funk dem Handy verbinden.   
+Man kann sie per Funk mit dem Handy verbinden.   
 So kann man das alte Handy sinnvoll nutzen.  
 
 <img src="../assets/tatort5.jpg" alt="Setup BT-Tastaur + Handy quer" width="400">
